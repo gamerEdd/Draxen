@@ -1,0 +1,31 @@
+{
+  "contract": "docs/design-contract.md; editorial storefront and reusable garment/design personalizer; scoped local delivery, no payment processing",
+  "targetViewports": ["390x844", "1440x900"],
+  "accessibility": {
+    "status": "pass",
+    "evidence": "Reviewed named navigation, form labels, image alternatives, pressed option states and visible keyboard focus. Tab from brand focused the bag with a 2px green outline. Key text contrasts calculated from rendered colors: muted/paper 4.63:1, ink/paper 15.65:1. Enlarged mobile header, sort selector and footer touch areas after inspection; reduced-motion CSS present. This is a scoped review, not a comprehensive WCAG certification."
+  },
+  "responsive": {
+    "status": "pass",
+    "evidence": "Inspected homepage, two-column mobile/four-column desktop catalog, and personalizer at both targets. Mobile hero stacks copy and photograph; desktop personalizer has two columns. No horizontal document overflow: scrollWidth375 at viewport390 and scrollWidth1425 at viewport1440. Product names wrap without covering prices."
+  },
+  "contentStates": {
+    "loading": {"status":"pass","evidence":"Observed Enviando solicitud… disabled state and disabled quantity/delete controls while the real request was in flight. Image containers maintain square dimensions."},
+    "empty": {"status":"pass","evidence":"Combined Anime, Buzos, XL and an unmatched search: 0 results, useful empty message and Ver todas las prendas recovery restored32 products."},
+    "error": {"status":"pass","evidence":"Submitted a test telephone123: API400 returned Ingresa un teléfono válido, both customized lines and contact fields remained. Corrected contact and retried successfully."},
+    "partial": {"status":"pass","evidence":"Storefront and personalizer render from local catalog and local assets; they do not fetch MySQL products. Legacy account/admin still depend on their original API and are documented separately. Availability is labeled pending confirmation."},
+    "success": {"status":"pass","evidence":"Saved XL/hueso/back draft and recovered it after reload. Downloaded actual PNG to Downloads and copied artifact. Two distinct variants survived cart reload and real POST returned20e0ac0c-7192-4e34-a46f-e0ca91cc3b50; verified private JSON with2 items and9980 cents. UI receipt explicitly states no charge."},
+    "permission": {"status":"pass","evidence":"Anonymous navigation to /admin redirected to /login with labeled sign-in fields; catalog, personalizer and request submission remain public."}
+  },
+  "renderedEvidence": [
+    {"viewport":"1440x900","artifact":"evidence/home-desktop.png","observation":"Final desktop hero, local campaign photo, navigation and cream/ink/lime hierarchy."},
+    {"viewport":"1440x900","artifact":"evidence/catalog-desktop.png","observation":"Four-column catalog with reusable manga/rock prints applied on male/female tees and hoodies."},
+    {"viewport":"1440x900","artifact":"evidence/custom-desktop.png","observation":"Lavender women's tee with Luffy graphic; fit, size and color controls alongside preview."},
+    {"viewport":"390x844","artifact":"evidence/home-mobile.png","observation":"Single-column mobile hero with both models visible and no horizontal overflow."},
+    {"viewport":"390x844","artifact":"evidence/catalog-mobile.png","observation":"Two-column catalog with wrapping names, visible prices, category and garment metadata."},
+    {"viewport":"390x844","artifact":"evidence/custom-mobile.png","observation":"Final lavender tee mockup with undistorted background; local image, save and ficha controls."},
+    {"viewport":"390x844","artifact":"evidence/request-success-mobile.png","observation":"Real local request receipt with UUID, next actions and explicit no-charge statement."}
+  ],
+  "checks": {"frontendBuild":"pass:57 modules","backendTests":"pass:3/3","export":"PNG download verified","transport":"real local HTTP POST and private JSON checked"},
+  "limits": ["No payment gateway or external email/WhatsApp delivery.","Local sample catalog is separate from legacy MySQL admin products.","Production availability, shipping, garment measurements and print output require confirmation.","Generated raster assets are local originals; deployment image compression and commercial catalog administration remain future production work." ]
+}

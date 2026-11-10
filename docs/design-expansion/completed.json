@@ -1,0 +1,302 @@
+[
+  {
+    "id": "zoro",
+    "name": "Zoro · Tres espadas",
+    "category": "Anime",
+    "src": "/assets/designs/zoro.png",
+    "width": 1086,
+    "height": 1448,
+    "bytes": 3610162,
+    "status": "complete"
+  },
+  {
+    "id": "saitama",
+    "name": "Saitama · Día libre",
+    "category": "Anime",
+    "src": "/assets/designs/saitama.png",
+    "width": 1024,
+    "height": 1536,
+    "bytes": 2541346,
+    "status": "complete"
+  },
+  {
+    "id": "tanjiro",
+    "name": "Tanjiro · Marea azul",
+    "category": "Anime",
+    "src": "/assets/designs/tanjiro.png",
+    "width": 1165,
+    "height": 1350,
+    "bytes": 3247611,
+    "status": "complete"
+  },
+  {
+    "id": "levi",
+    "name": "Levi · Alas de libertad",
+    "category": "Anime",
+    "src": "/assets/designs/levi.png",
+    "width": 1086,
+    "height": 1448,
+    "bytes": 3798594,
+    "status": "complete"
+  },
+  {
+    "id": "ichigo",
+    "name": "Ichigo · Hollow",
+    "category": "Anime",
+    "src": "/assets/designs/ichigo.png",
+    "width": 1024,
+    "height": 1536,
+    "bytes": 3187201,
+    "status": "complete"
+  },
+  {
+    "id": "denji",
+    "name": "Denji · Chainsaw",
+    "category": "Anime",
+    "src": "/assets/designs/denji.png",
+    "width": 1086,
+    "height": 1448,
+    "bytes": 3070071,
+    "status": "complete"
+  },
+  {
+    "id": "ryuk",
+    "name": "Ryuk · Manzana roja",
+    "category": "Anime",
+    "src": "/assets/designs/ryuk.png",
+    "width": 1091,
+    "height": 1442,
+    "bytes": 3159552,
+    "status": "complete"
+  },
+  {
+    "id": "eva01",
+    "name": "Eva 01 · Awakening",
+    "category": "Anime",
+    "src": "/assets/designs/eva01.png",
+    "width": 1086,
+    "height": 1448,
+    "bytes": 2990040,
+    "status": "complete"
+  },
+  {
+    "id": "guts",
+    "name": "Guts · Eclipse",
+    "category": "Anime",
+    "src": "/assets/designs/guts.png",
+    "width": 1024,
+    "height": 1536,
+    "bytes": 3567571,
+    "status": "complete"
+  },
+  {
+    "id": "anya",
+    "name": "Anya · Modo misión",
+    "category": "Anime",
+    "src": "/assets/designs/anya.png",
+    "width": 1122,
+    "height": 1402,
+    "bytes": 2832045,
+    "status": "complete"
+  },
+  {
+    "id": "cosmic-riff",
+    "name": "Cosmic riff",
+    "category": "Rock",
+    "src": "/assets/designs/cosmic-riff.png",
+    "width": 1024,
+    "height": 1536,
+    "bytes": 3789931,
+    "status": "complete"
+  },
+  {
+    "id": "skull-roses",
+    "name": "Skull & roses",
+    "category": "Rock",
+    "src": "/assets/designs/skull-roses.png",
+    "width": 1145,
+    "height": 1374,
+    "bytes": 3598366,
+    "status": "complete"
+  },
+  {
+    "id": "raven-riff",
+    "name": "Raven anthem",
+    "category": "Rock",
+    "src": "/assets/designs/raven-riff.png",
+    "width": 1145,
+    "height": 1374,
+    "bytes": 2991486,
+    "status": "complete"
+  },
+  {
+    "id": "desert-tour",
+    "name": "Desert rider",
+    "category": "Rock",
+    "src": "/assets/designs/desert-tour.png",
+    "width": 1166,
+    "height": 1349,
+    "bytes": 4089557,
+    "status": "complete"
+  },
+  {
+    "id": "venom-vinyl",
+    "name": "Venom vinyl",
+    "category": "Rock",
+    "src": "/assets/designs/venom-vinyl.png",
+    "width": 1086,
+    "height": 1448,
+    "bytes": 2838970,
+    "status": "complete"
+  },
+  {
+    "id": "thunder-wolf",
+    "name": "Thunder wolf",
+    "category": "Rock",
+    "src": "/assets/designs/thunder-wolf.png",
+    "width": 1141,
+    "height": 1379,
+    "bytes": 3167454,
+    "status": "complete"
+  },
+  {
+    "id": "inferno-amp",
+    "name": "Inferno volume",
+    "category": "Rock",
+    "src": "/assets/designs/inferno-amp.png",
+    "width": 1024,
+    "height": 1536,
+    "bytes": 3816825,
+    "status": "complete"
+  },
+  {
+    "id": "moon-bat",
+    "name": "Midnight echo",
+    "category": "Rock",
+    "src": "/assets/designs/moon-bat.png",
+    "width": 1208,
+    "height": 1302,
+    "bytes": 2475296,
+    "status": "complete"
+  },
+  {
+    "id": "punk-rebel",
+    "name": "Punk attitude",
+    "category": "Rock",
+    "src": "/assets/designs/punk-rebel.png",
+    "width": 1122,
+    "height": 1402,
+    "bytes": 2811113,
+    "status": "complete"
+  },
+  {
+    "id": "electric-tiger",
+    "name": "Electric tiger",
+    "category": "Rock",
+    "src": "/assets/designs/electric-tiger.png",
+    "width": 1145,
+    "height": 1374,
+    "bytes": 2776723,
+    "status": "complete"
+  },
+  {
+    "id": "capybara-zen",
+    "name": "Capibara · Cero estrés",
+    "category": "Memes",
+    "src": "/assets/designs/capybara-zen.png",
+    "width": 1136,
+    "height": 1385,
+    "bytes": 2562782,
+    "status": "complete"
+  },
+  {
+    "id": "cat-buffering",
+    "name": "Gato · Procesando",
+    "category": "Memes",
+    "src": "/assets/designs/cat-buffering.png",
+    "width": 1199,
+    "height": 1312,
+    "bytes": 2180362,
+    "status": "complete"
+  },
+  {
+    "id": "dog-astronaut",
+    "name": "Houston, tengo sueño",
+    "category": "Memes",
+    "src": "/assets/designs/dog-astronaut.png",
+    "width": 1142,
+    "height": 1377,
+    "bytes": 2384608,
+    "status": "complete"
+  },
+  {
+    "id": "opossum-night",
+    "name": "Turno nocturno",
+    "category": "Memes",
+    "src": "/assets/designs/opossum-night.png",
+    "width": 1199,
+    "height": 1312,
+    "bytes": 2995647,
+    "status": "complete"
+  },
+  {
+    "id": "frog-deadline",
+    "name": "Rana · Último minuto",
+    "category": "Memes",
+    "src": "/assets/designs/frog-deadline.png",
+    "width": 1199,
+    "height": 1312,
+    "bytes": 2078321,
+    "status": "complete"
+  },
+  {
+    "id": "raccoon-snack",
+    "name": "Mapache · Snack mode",
+    "category": "Memes",
+    "src": "/assets/designs/raccoon-snack.png",
+    "width": 1199,
+    "height": 1312,
+    "bytes": 2875512,
+    "status": "complete"
+  },
+  {
+    "id": "duck-chaos",
+    "name": "Pato · Caos controlado",
+    "category": "Memes",
+    "src": "/assets/designs/duck-chaos.png",
+    "width": 1145,
+    "height": 1374,
+    "bytes": 2085272,
+    "status": "complete"
+  },
+  {
+    "id": "skeleton-battery",
+    "name": "Batería social · 1%",
+    "category": "Memes",
+    "src": "/assets/designs/skeleton-battery.png",
+    "width": 1199,
+    "height": 1312,
+    "bytes": 2039512,
+    "status": "complete"
+  },
+  {
+    "id": "pigeon-boss",
+    "name": "Paloma · CEO del parque",
+    "category": "Memes",
+    "src": "/assets/designs/pigeon-boss.png",
+    "width": 1167,
+    "height": 1348,
+    "bytes": 2235060,
+    "status": "complete"
+  },
+  {
+    "id": "toast-existential",
+    "name": "Tostada · Existiendo",
+    "category": "Memes",
+    "src": "/assets/designs/toast-existential.png",
+    "width": 1151,
+    "height": 1367,
+    "bytes": 1970469,
+    "status": "complete"
+  }
+]

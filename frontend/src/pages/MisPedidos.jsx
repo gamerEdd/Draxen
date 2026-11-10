@@ -1,6 +1,7 @@
 import { useState, useEffect } from 'react';
 import { useAuth } from '../context/AuthContext';
 import { api } from '../utils/api';
+import BrandLogo from '../components/BrandLogo';
 
 export default function MisPedidos() {
   const { user, token } = useAuth();
@@ -22,11 +23,7 @@ export default function MisPedidos() {
     <div className="min-h-screen bg-black py-8">
       <div className="max-w-4xl mx-auto px-4">
         <div className="flex items-center gap-4 mb-8">
-          <img 
-            src="http://localhost:5000/logos/logo.png" 
-            alt="DRAXEN" 
-            className="h-10"
-          />
+          <BrandLogo/>
           <h1 className="text-4xl font-black text-white">MIS PEDIDOS</h1>
         </div>
 

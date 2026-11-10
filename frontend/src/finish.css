@@ -1,0 +1,19 @@
+/* Ajustes de la revisión renderizada: áreas táctiles y lectura de etiquetas. */
+.design-search { display: grid; gap: 8px; margin-bottom: 16px; font-size: 12px; font-weight: 600; }
+.design-search input { width: 100%; min-height: 44px; padding: 11px 13px; background: #fafaf6; border: 1px solid var(--line); font-weight: 400; }
+.design-count { font-size: 11px; color: #62645c; margin: 12px 0; }
+.design-options { max-height: 450px; overflow-y: auto; overscroll-behavior: contain; padding: 4px 6px 4px 4px; scrollbar-width: thin; }
+.design-empty { font-size: 12px; line-height: 1.7; padding: 16px 0; }
+.design-empty button { min-height: 44px; text-decoration: underline; font-weight: 600; }
+.catalog-info select { min-height: 44px; }
+.product-name { min-height: 26px; }
+.site-footer a:not(.wordmark) { min-height: 28px; display: flex; align-items: center; }
+@media (max-width: 700px) {
+  .header-actions .icon-button, .bag-link { min-width: 44px; min-height: 44px; }
+  .product-meta { font-size: 9px; line-height: 1.5; }
+  .product-bottom { font-size: 11px; line-height: 1.5; }
+  .product-name { font-size: 13px; line-height: 1.4; min-height: 36px; padding-top: 4px; }
+  .site-footer a:not(.wordmark) { min-height: 44px; }
+  .catalog-info { align-items: center; }
+  .catalog-info select { max-width: 145px; font-size: 10px; }
+}

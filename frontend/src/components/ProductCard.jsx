@@ -1,38 +1,5 @@
-import { Link } from 'react-router-dom';
-
-export default function ProductCard({ producto }) {
-  // Construir URL completa de la imagen
-  const imagenUrl = producto.imagen_principal 
-    ? (producto.imagen_principal.startsWith('http') 
-        ? producto.imagen_principal 
-        : `http://localhost:5000${producto.imagen_principal}`)
-    : 'https://via.placeholder.com/300x400';
-
-  return (
-    <Link to={`/producto/${producto.id}`}>
-      <div className="bg-gray-900 rounded overflow-hidden hover:shadow-lg hover:shadow-orange-500/50 transition cursor-pointer">
-        <div className="h-64 bg-gray-800 overflow-hidden">
-          <img
-            src={imagenUrl}
-            alt={producto.nombre}
-            className="w-full h-full object-cover hover:scale-105 transition duration-300"
-          />
-        </div>
-        <div className="p-4">
-          <p className="text-gray-400 text-sm mb-1">{producto.categoria_nombre}</p>
-          <h3 className="text-white font-bold text-lg mb-2 truncate">
-            {producto.nombre}
-          </h3>
-          <div className="flex justify-between items-center">
-            <span className="text-orange-500 font-bold text-xl">
-              ${producto.precio}
-            </span>
-            <button className="bg-orange-500 text-black px-3 py-1 rounded text-sm font-bold hover:bg-orange-600 transition">
-              Ver
-            </button>
-          </div>
-        </div>
-      </div>
-    </Link>
-  );
-}
+import {Link} from 'react-router-dom';
+import {designs,money} from '../data/catalog';
+import GarmentPreview from './GarmentPreview';
+import Icon from './Icon';
+export default function ProductCard({producto,index=0}){const design=designs.find(d=>d.id===producto.designId);return <article className="product-card"><Link to={`/producto/${producto.id}`} className="product-image-link" aria-label={`Ver ${producto.nombre}`}><GarmentPreview garmentId={producto.garmentId} designId={producto.designId} color={producto.color||'negro'} alt={producto.nombre}/>{index<2&&<span className={`product-badge ${index===1?'badge-outline':''}`}>{index===0?'NUEVO DROP':'HAZLO TUYO'}</span>}<span className="product-quick"><Icon name="arrow" size={18}/></span></Link><div className="product-meta"><span>{design?.collection||producto.category} / {producto.gender}</span><span className="product-colors"><i/><i/><i/></span></div><Link className="product-name" to={`/producto/${producto.id}`}>{producto.nombre}</Link><div className="product-bottom"><span>{producto.type==='buzo'?'Buzo oversize':'Camiseta oversize'}</span><strong>{money(producto.precio)}</strong></div></article>;}

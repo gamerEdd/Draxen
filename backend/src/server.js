@@ -7,6 +7,7 @@ import authRoutes from './routes/authRoutes.js';
 import productoRoutes from './routes/productoRoutes.js';
 import categoriaRoutes from './routes/categoriaRoutes.js';
 import pedidoRoutes from './routes/pedidoRoutes.js';
+import solicitudRoutes from './routes/solicitudRoutes.js';
 
 dotenv.config();
 
@@ -18,12 +19,15 @@ const PORT = process.env.PORT || 5000;
 
 // Middlewares
 app.use(cors());
+// Requests have their own small JSON limit and do not require MySQL.
+app.use('/api/solicitudes', solicitudRoutes);
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
 // Servir archivos estáticos (imágenes y logos)
 app.use('/fotos', express.static(path.join(__dirname, '../../fotos')));
 app.use('/logos', express.static(path.join(__dirname, '../../logos')));
+app.use('/images', express.static(path.join(__dirname, '../fotos')));
 
 // Rutas
 app.use('/api/auth', authRoutes);

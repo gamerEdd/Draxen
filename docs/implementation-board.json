@@ -1,0 +1,55 @@
+{
+  "workspace": ".",
+  "mode": "shared workspace with exclusive file ownership",
+  "cards": [
+    {
+      "id": "analysis",
+      "owner": "ecc_analysis",
+      "state": "merged",
+      "scope": "docs/design-contract.md; read-only review",
+      "acceptance": [
+        "Responsive design contract and data integration risks"
+      ],
+      "merge_gate": "Contract delivered before integration",
+      "handoff": "docs/design-contract.md"
+    },
+    {
+      "id": "storefront",
+      "owner": "ecc_integrator",
+      "state": "merged",
+      "scope": "frontend/src except catalog, auth and account pages",
+      "acceptance": [
+        "Responsive catalog filters",
+        "Personalizer and variant basket",
+        "Real request submission"
+      ],
+      "merge_gate": "Build, browser review and request flow",
+      "handoff": "docs/frontend-handoff.md"
+    },
+    {
+      "id": "requests",
+      "owner": "ecc_requests",
+      "state": "merged",
+      "scope": "backend/src; docs/request-api.md",
+      "acceptance": [
+        "Validated private local persistence",
+        "Server-side prices",
+        "Concurrent writes verified"
+      ],
+      "merge_gate": "3 service tests passed",
+      "handoff": "docs/request-api.md"
+    },
+    {
+      "id": "assets-and-review",
+      "owner": "root",
+      "state": "merged",
+      "scope": "frontend/public; frontend/src/data; auth; integration verification",
+      "acceptance": [
+        "Eight reusable local designs",
+        "Four garment types",
+        "Desktop and mobile inspection"
+      ],
+      "merge_gate": "Rendered evidence and build"
+    }
+  ]
+}

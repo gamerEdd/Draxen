@@ -1,0 +1,15 @@
+.brand-logo{display:block;position:relative;overflow:hidden;width:180px;aspect-ratio:1248/460;flex-shrink:0;line-height:0;isolation:auto}
+.brand-logo img{position:absolute;max-width:none;width:123.076923%;height:222.608696%;left:-8.814103%;top:-59.782609%;object-fit:fill}
+.brand-logo--ink{mix-blend-mode:multiply}.brand-logo--ink img{filter:invert(1)}
+.brand-logo--light{mix-blend-mode:screen}.brand-logo--light img{filter:none}
+.wordmark:has(.brand-logo){letter-spacing:normal;min-height:44px;line-height:1;gap:0}
+.wordmark .brand-logo{font-size:initial;letter-spacing:normal}
+.site-header .brand-logo{width:174px}.site-footer .brand-logo{width:200px}
+.preview-watermark{mix-blend-mode:multiply}
+.preview-watermark .brand-logo{width:126px;mix-blend-mode:normal}
+.hero-caption{display:flex;align-items:center;gap:12px}
+.hero-caption .brand-logo{width:112px}
+.hero-caption>span:not(.brand-logo){font-size:8px;letter-spacing:1px}
+.account-panel>.brand-logo{width:180px;margin-bottom:24px}
+.legacy-page img.brand-legacy-logo{width:180px;height:auto;max-height:none;filter:invert(1);mix-blend-mode:multiply}
+@media(max-width:700px){.site-header .brand-logo{width:143px}.site-footer .brand-logo{width:165px}.preview-watermark .brand-logo{width:103px}.account-panel>.brand-logo{width:155px}.hero-caption .brand-logo{width:84px}.hero-caption{gap:8px}.hero-caption>span:not(.brand-logo){font-size:6px}}

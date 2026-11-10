@@ -1,0 +1,23 @@
+{
+  "contract": "docs/brand.md: reuse the exact logos/logo.png artwork consistently, preserving its proportions across light/dark surfaces, mobile and PNG export",
+  "targetViewports": ["390x844", "1440x900"],
+  "accessibility": {"status":"pass","evidence":"Header/footer home links retain Draxen inicio accessible names; redundant logo images inside those named links are decorative. Account and preview logos have DRAXEN alternatives. Source logo is displayed with preserved aspect ratio and readable high-contrast ink/light treatments."},
+  "responsive": {"status":"pass","evidence":"Inspected header and hero at390x844 and1440x900, plus dark mobile footer, desktop account and custom lab. No horizontal page overflow (scrollWidth375/1425). Logo stays complete and navigation controls remain visible."},
+  "contentStates": {
+    "loading":{"status":"pass","evidence":"DOM confirmed every visible logo image complete with nonzero intrinsic width. The fixed-ratio logo component reserves its space."},
+    "empty":{"status":"not-applicable","reason":"Logo presentation adds no editable collection or empty result state."},
+    "error":{"status":"pass","evidence":"Build resolved all brand imports. File comparison confirmed public PNG identical to original, and browser loaded all logo paths. Existing PNG export retains its recoverable image-load error handling."},
+    "partial":{"status":"not-applicable","reason":"All logo surfaces use one bundled local file, not a remote or partially available brand feed."},
+    "success":{"status":"pass","evidence":"Downloaded actual branded PNG and inspected it: original wordmark appears above the garment without a background rectangle. Browser favicon link points to embedded local SVG."},
+    "permission":{"status":"not-applicable","reason":"No authentication or access policy changed; legacy admin/pedidos logo integration was checked in source and build, not via authenticated sessions."}
+  },
+  "renderedEvidence": [
+    {"viewport":"390x844","artifact":"evidence/brand-mobile.png","observation":"Original logo in mobile header and campaign photo, keeping full wordmark and diagonal swashes."},
+    {"viewport":"390x844","artifact":"evidence/brand-footer-mobile.png","observation":"Original white logo on dark footer and ink variant in sticky header."},
+    {"viewport":"1440x900","artifact":"evidence/brand-desktop.png","observation":"Final desktop homepage with original brand in header and campaign photo."},
+    {"viewport":"1440x900","artifact":"evidence/brand-custom-desktop.png","observation":"Original brand in custom preview, blended into the garment photograph background."},
+    {"viewport":"1440x900","artifact":"evidence/brand-account-desktop.png","observation":"Account card reuses the same original logo and identity."}
+  ],
+  "additionalArtifact":"evidence/brand-exported-mockup.png",
+  "sourceIntegrity":"SHA256 of public PNG equals logos/logo.png; original file was not edited."
+}

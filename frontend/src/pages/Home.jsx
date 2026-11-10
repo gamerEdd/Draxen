@@ -1,95 +1,21 @@
-import { useState, useEffect } from 'react';
-import { api } from '../utils/api';
+import {useMemo,useState,useEffect} from 'react';
+import {Link,useSearchParams} from 'react-router-dom';
+import {products,designs} from '../data/catalog';
 import ProductCard from '../components/ProductCard';
-import ProductGrid from '../components/ProductGrid';
-
-export default function Home() {
-  const [productos, setProductos] = useState([]);
-  const [categorias, setCategorias] = useState([]);
-  const [categoriaSeleccionada, setCategoriaSeleccionada] = useState(null);
-  const [busqueda, setBusqueda] = useState('');
-  const [loading, setLoading] = useState(true);
-
-  useEffect(() => {
-    Promise.all([
-      api.getProductos(1, 20, categoriaSeleccionada, busqueda),
-      api.getCategorias()
-    ]).then(([datosProductos, datosCategorias]) => {
-      setProductos(datosProductos.productos);
-      if (datosCategorias.success) {
-        setCategorias(datosCategorias.categorias);
-      }
-      setLoading(false);
-    });
-  }, [categoriaSeleccionada, busqueda]);
-
-  return (
-    <div className="min-h-screen bg-black">
-      {/* Hero */}
-      <div className="h-96 bg-gradient-to-b from-gray-900 to-black border-b border-orange-500 flex flex-col justify-center items-center text-center">
-        <img 
-          src="http://localhost:5000/logos/logo.png" 
-          alt="DRAXEN" 
-          className="h-24 mb-4"
-        />
-        <p className="text-2xl text-orange-500 font-bold">FASE PENDIENTE</p>
-      </div>
-
-      <div className="max-w-7xl mx-auto px-4 py-8">
-        {/* Filtros */}
-        <div className="mb-8 space-y-4">
-          <input
-            type="text"
-            placeholder="Buscar productos..."
-            value={busqueda}
-            onChange={(e) => setBusqueda(e.target.value)}
-            className="w-full px-4 py-3 bg-gray-900 text-white border border-gray-700 rounded focus:border-orange-500 focus:outline-none"
-          />
-
-          <div className="flex gap-2 flex-wrap">
-            <button
-              onClick={() => setCategoriaSeleccionada(null)}
-              className={`px-4 py-2 rounded font-bold transition ${
-                categoriaSeleccionada === null
-                  ? 'bg-orange-500 text-black'
-                  : 'border border-gray-700 text-white hover:border-orange-500'
-              }`}
-            >
-              Todos
-            </button>
-            {categorias.map(cat => (
-              <button
-                key={cat.id}
-                onClick={() => setCategoriaSeleccionada(cat.id)}
-                className={`px-4 py-2 rounded font-bold transition ${
-                  categoriaSeleccionada === cat.id
-                    ? 'bg-orange-500 text-black'
-                    : 'border border-gray-700 text-white hover:border-orange-500'
-                }`}
-              >
-                {cat.nombre}
-              </button>
-            ))}
-          </div>
-        </div>
-
-        {/* Productos */}
-        {loading ? (
-          <div className="text-center text-white py-12">
-            <p>Cargando productos...</p>
-          </div>
-        ) : productos.length === 0 ? (
-          <div className="text-center text-white py-12">
-            <p>No hay productos disponibles</p>
-          </div>
-        ) : (
-          <ProductGrid>
-            {productos.map(producto => (
-              <ProductCard key={producto.id} producto={producto} />
-            ))}
-          </ProductGrid>
-        )}
-      </div>
-    </div>
-  );
+import Icon from '../components/Icon';
+import BrandLogo from '../components/BrandLogo';
+import Promociones from '../components/Promociones';
+import GarmentPreview from '../components/GarmentPreview';
+export default function Home(){
+ const [params,setParams]=useSearchParams(); const [search,setSearch]=useState('');const [type,setType]=useState('');const [size,setSize]=useState('');const [sort,setSort]=useState('featured');const [filterOpen,setFilterOpen]=useState(false);const [visible,setVisible]=useState(8);const gender=params.get('gender')||'';const category=params.get('category')||'';
+ const setParam=(key,value)=>{const next=new URLSearchParams(params);value?next.set(key,value):next.delete(key);setParams(next,{replace:true});};
+ useEffect(()=>{setVisible(8);},[search,type,size,sort,gender,category]);
+ useEffect(()=>{if(window.location.hash==='#catalogo') document.getElementById('catalogo')?.scrollIntoView();},[params]);
+ const filtered=useMemo(()=>{const result=products.filter(p=>{const d=designs.find(d=>d.id===p.designId);return (!gender||p.gender===gender)&&(!type||p.type===type)&&(!category||(category==='Anime'?!['Rock','Memes'].includes(p.category):(p.category||d?.collection||'').toLowerCase().includes(category.toLowerCase())))&&(!size||p.tallas?.some(t=>t.talla===size))&&(!search||`${p.nombre} ${d?.name} ${d?.collection}`.toLowerCase().includes(search.toLowerCase()));});return sort==='price-asc'?result.sort((a,b)=>a.precio-b.precio):sort==='price-desc'?result.sort((a,b)=>b.precio-a.precio):sort==='name'?result.sort((a,b)=>a.nombre.localeCompare(b.nombre)):result;},[search,type,size,sort,gender,category]);
+ const reset=()=>{setSearch('');setType('');setSize('');setParams({});};
+ return <main id="main-content"><section className="hero shell" aria-labelledby="hero-title"><div className="hero-copy"><span className="eyebrow"><span className="live-dot"/> NUEVA COLECCIÓN / VOL. 01</span><h1 id="hero-title">TU MUNDO.<br/>TU ESTILO.<br/><span>SIN FILTROS.</span></h1><p>Anime, rock y cultura de internet.<br/> Prendas para llevar lo que eres, sin decir una palabra.</p><div className="hero-buttons"><a href="#catalogo" className="button button-dark">Explorar el drop <Icon name="arrow"/></a><Link to="/personalizar" className="text-link">Hazlo tuyo <Icon name="diagonal" size={16}/></Link></div><div className="hero-footnote"><span>01 — {String(designs.length).padStart(2,'0')}</span><span>PARA QUIENES VISTEN DIFERENTE.</span></div></div><div className="hero-visual"><img src="/assets/hero-streetwear.png" alt="Hombre y mujer con camisetas oversize de la colección anime Draxen" fetchpriority="high"/><span className="hero-tag"><span>DROP 001</span><strong>WEAR YOUR<br/>OTHER SIDE.</strong></span><div className="hero-sticker">NO<br/>NPCs<span>✳</span></div><span className="hero-caption"><BrandLogo tone="light"/><span>ORIGINAL CULTURE — 2026</span></span></div></section>
+ <div className="culture-strip" aria-hidden="true"><div>ANIME IS NOT A PHASE <span>✳</span> ROCK NEVER DIES <span>✳</span> WEAR YOUR OBSESSION <span>✳</span> CREATE YOUR OWN RULES <span>✳</span> ANIME IS NOT A PHASE <span>✳</span></div></div>
+ <section className="shell collection-section" aria-labelledby="collections-title"><div className="section-heading"><div><span className="eyebrow">ELIGE TU UNIVERSO</span><h2 id="collections-title">No es solo ropa. Es tu lado.</h2></div><a href="#catalogo" className="text-link">Ver todo <Icon name="arrow" size={18}/></a></div><div className="collection-grid">{[{name:'ANIME',copy:'Del manga a la calle.',category:'Anime',image:'luffy',n:'01'},{name:'ROCK & METAL',copy:'Sube el volumen.',category:'Rock',image:'rock',n:'02'},{name:'INTERNET CULTURE',copy:'Si sabes, sabes.',category:'Memes',image:'meme',n:'03'}].map(c=><Link to={`/?category=${c.category}#catalogo`} key={c.n} className={`collection-tile collection-${c.n}`}><span className="collection-number">/{c.n}</span><img src={designs.find(d=>d.id===c.image)?.src} alt=""/><div><h3>{c.name}</h3><p>{c.copy}</p></div><span className="collection-arrow"><Icon name="diagonal"/></span></Link>)}</div></section>
+ <Promociones/><section className="catalog-section shell" id="catalogo" aria-labelledby="catalog-title"><div className="section-heading catalog-heading"><div><span className="eyebrow">EL DROP QUE VA CONTIGO</span><h2 id="catalog-title">Fuera de lo común<span className="lime-mark">✳</span></h2></div><div className="gender-tabs" aria-label="Filtrar por género">{[['','Todo'],['hombre','Hombre'],['mujer','Mujer']].map(([v,label])=><button key={v} className={gender===v?'active':''} aria-pressed={gender===v} onClick={()=>setParam('gender',v)}>{label}</button>)}</div></div><div className="catalog-toolbar"><div className="category-tabs">{['','Anime','Rock','Memes'].map(c=><button key={c} className={category===c?'active':''} onClick={()=>setParam('category',c)}>{c||'Todas las colecciones'}</button>)}</div><button className={`filter-button ${filterOpen?'active':''}`} aria-expanded={filterOpen} aria-controls="catalog-filters" onClick={()=>setFilterOpen(!filterOpen)}><Icon name="filter" size={17}/>Filtros {(type||size||search)&&<span className="filter-dot"/>}</button></div><div className={`filter-panel ${filterOpen?'is-open':''}`} id="catalog-filters"><label>Buscar<div className="search-field"><Icon name="search" size={17}/><input value={search} onChange={e=>setSearch(e.target.value)} placeholder="Luffy, rock, Hunter…"/></div></label><label>Prenda<select value={type} onChange={e=>setType(e.target.value)}><option value="">Todas las prendas</option><option value="camiseta">Camisetas</option><option value="buzo">Buzos</option></select></label><label>Talla<select value={size} onChange={e=>setSize(e.target.value)}><option value="">Todas las tallas</option>{['XS','S','M','L','XL','XXL'].map(s=><option key={s}>{s}</option>)}</select></label><button className="text-link" onClick={reset}>Limpiar filtros <Icon name="close" size={15}/></button></div><div className="catalog-info"><span aria-live="polite">{filtered.length} prendas para tu rotación {category&&<button className="selected-chip" onClick={()=>setParam('category','')}>{category} ×</button>}</span><label>Ordenar por <select aria-label="Ordenar productos" value={sort} onChange={e=>setSort(e.target.value)}><option value="featured">Destacados</option><option value="price-asc">Precio: menor a mayor</option><option value="price-desc">Precio: mayor a menor</option><option value="name">Nombre: A–Z</option></select></label></div>{filtered.length?<><div className="products-grid">{filtered.slice(0,visible).map((p,i)=><ProductCard key={p.id} producto={p} index={i}/>)}</div>{visible<filtered.length&&<div className="load-more"><button className="button button-outline" onClick={()=>setVisible(v=>v+8)}>Descubrir más prendas <Icon name="plus" size={17}/></button><span>{Math.min(visible,filtered.length)} de {filtered.length} prendas</span></div>}</>:<div className="empty-state"><Icon name="search" size={36}/><h3>Tu próxima favorita aún no aparece.</h3><p>Prueba otra talla, colección o palabra.</p><button className="button button-dark" onClick={reset}>Ver todas las prendas</button></div>}</section>
+ <section className="studio-banner shell"><div className="studio-banner-art"><span className="studio-orbit">✳</span><GarmentPreview garmentId="tee-men" designId="luffy"/><span className="studio-label">TU IDEA / TU PRENDA</span></div><div className="studio-banner-copy"><span className="eyebrow">DRAXEN CUSTOM LAB</span><h2>La mejor colección<br/>todavía está<br/><em>en tu cabeza.</em></h2><p>Elige tu prenda, encuentra tu diseño y dale tu toque. Un mismo estampado, todas tus versiones.</p><Link to="/personalizar" className="button button-dark">Entrar al estudio <Icon name="diagonal"/></Link><span className="studio-note">CAMISETAS + BUZOS · XS A XXL · HOMBRE & MUJER</span></div></section><section className="shell perks" id="tallas"><div><Icon name="shirt" size={28}/><h3>El fit lo es todo.</h3><p>Camisetas y buzos oversize para moverte a tu manera.</p></div><div><Icon name="spark" size={28}/><h3>El diseño es tuyo.</h3><p>Combina cualquier gráfico con tu prenda favorita.</p></div><div><Icon name="ruler" size={28}/><h3>Encuentra tu talla.</h3><p>De XS a XXL. Consulta las medidas en cada producto.</p></div></section></main>;
 }

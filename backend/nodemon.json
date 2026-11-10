@@ -1,0 +1,6 @@
+{
+  "watch": ["src", "../shared", ".env"],
+  "ext": "js,mjs,json,env",
+  "ignore": ["node_modules/**", "public/**", "fotos/**"],
+  "delay": "300"
+}

@@ -1,0 +1,23 @@
+{
+  "contract": "docs/design-expansion/README.md: thirty new transparent local illustrations, ten Anime, ten Rock, ten Memes, preserving eight existing assets and pricing",
+  "targetViewports": ["390x844", "1440x900"],
+  "accessibility": {"status":"pass","evidence":"New search has a visible associated label, designs are named pressed-state buttons, result count uses aria-live, and empty search offers a named recovery button. Keyboard navigation and native scrolling remain available."},
+  "responsive": {"status":"pass","evidence":"New capybara tee preview inspected at390x844 and1440x900, with no horizontal page overflow (scrollWidth375/1425). Desktop image and library remain separate columns. Library has a bounded scroll area and lazy decoded thumbnails."},
+  "contentStates": {
+    "loading":{"status":"pass","evidence":"Illustration thumbnails use native lazy loading and stable preview containers; selected new anime, rock and meme images rendered successfully from local PNG files."},
+    "empty":{"status":"pass","evidence":"Unmatched design search showed zero results and Ver todos los diseños recovery, without clearing the selected garment."},
+    "error":{"status":"pass","evidence":"Automated checks reject unsupported design IDs and invalid quantities. Live API recognized capybara-zen and rejected quantity0 with the correct quantity validation error; no test request was persisted."},
+    "partial":{"status":"not-applicable","reason":"All thirty final files were checked before registering the expanded catalog; there is no partial remote catalog feed."},
+    "success":{"status":"pass","evidence":"Browser verified all38 designs and counts15 Anime/12 Rock/11 Memes. Search Zoro returned one correct design. New capybara design survived cart reload on a women's tee at14.99; test cart line was removed afterward. Catalog displayed152 products."},
+    "permission":{"status":"not-applicable","reason":"No new access boundary; browsing and personalization remain public, with the existing private request storage unchanged."}
+  },
+  "renderedEvidence": [
+    {"viewport":"390x844","artifact":"evidence/design-expansion-mobile.png","observation":"New capybara print applied to women's black tee with local image controls and no overflow."},
+    {"viewport":"1440x900","artifact":"evidence/design-expansion-desktop.png","observation":"New print in desktop garment preview with fit, size and color controls."},
+    {"viewport":"1440x900","artifact":"evidence/design-expansion-library.png","observation":"New meme illustrations visible in filtered library beside applied capybara print."},
+    {"viewport":"1440x900","artifact":"evidence/design-expansion-rock.png","observation":"Cosmic riff rock design applied to men's black hoodie."},
+    {"viewport":"1440x900","artifact":"evidence/design-expansion-anime.png","observation":"Zoro design found by search and applied to men's hoodie."},
+    {"viewport":"1440x900","artifact":"evidence/design-expansion-catalog.png","observation":"Expanded152-product catalog with new anime, rock and meme prints on all garment types."}
+  ],
+  "checks": {"tests":"9/9 passed","images":"38 distinct PNGs, valid alpha channel, minimum512px dimensions; exact30 new files and10 per requested category","server":"All38 IDs validated on all4 garment models; live capybara ID recognized","build":"63 modules compiled successfully"}
+}

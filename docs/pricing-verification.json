@@ -1,0 +1,19 @@
+{
+  "contract": "docs/pricing-promotions.md: unit prices and three automatic pair promotions with no double use of units",
+  "targetViewports": ["390x844", "1440x900"],
+  "accessibility": {"status":"pass","evidence":"Promotion sections use semantic headings, named links, readable prices and visible textual savings. Existing keyboard focus styles apply; discount information is not conveyed only by color."},
+  "responsive": {"status":"pass","evidence":"Reviewed one-column mobile and three-column desktop promotion cards. No page overflow: scrollWidth375 at390 and1425 at1440. Price and savings fit; terms wrap."},
+  "contentStates": {
+    "loading":{"status":"pass","evidence":"Real submission showed Enviando solicitud… and disabled cart controls."},
+    "empty":{"status":"pass","evidence":"Initial empty bag rendered successfully with pricing calculation returning zero; successful request cleared submitted units."},
+    "error":{"status":"pass","evidence":"Existing recoverable request error handling retained; server and shared tests reject invalid variants and quantities, while submitted discounts are ignored."},
+    "partial":{"status":"not-applicable","reason":"Promotion definitions and prices are bundled locally as one shared module, with no separate asynchronous promotions feed."},
+    "success":{"status":"pass","evidence":"Browser checked2 tees27.99, mixed32.99 and2 hoodies37.99. Reload preserved the hoodie combo. Real POST receipt e9171a97-ae1f-408f-bb0d-1de3ef918201 displayed server pricing; saved JSON verified subtotal3998,discount199,total3799 cents."},
+    "permission":{"status":"not-applicable","reason":"Pricing and promotion changes do not add a new access boundary; storefront and requests remain public."}
+  },
+  "renderedEvidence": [
+    {"viewport":"390x844","artifact":"evidence/promotions-mobile.png","observation":"Stacked promotion cards with full-width touch links, normal and promotional price, and savings."},
+    {"viewport":"1440x900","artifact":"evidence/promotions-desktop.png","observation":"All three combos visible together above the catalog, mixed combo highlighted and terms visible."}
+  ],
+  "tests": "6/6 shared pricing and backend persistence tests passed; frontend build62 modules. Covers odd quantities, repeated pairs, cross-variant combinations and untrusted prices."
+}

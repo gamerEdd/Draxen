@@ -1,0 +1,272 @@
+[
+  {
+    "id": "zoro",
+    "name": "Zoro · Tres espadas",
+    "collection": "One Piece",
+    "group": "Anime",
+    "accent": "#8bb38c",
+    "subject": "Roronoa Zoro from One Piece, green hair, three swords style, intense confident pose with one sword in mouth, swirling emerald slash arcs, ivory and emerald manga ink",
+    "src": "/assets/designs/zoro.png"
+  },
+  {
+    "id": "saitama",
+    "name": "Saitama · Día libre",
+    "collection": "One Punch Man",
+    "group": "Anime",
+    "accent": "#99c6e8",
+    "subject": "Saitama from One Punch Man, adult bald superhero in his fully worn yellow suit, white cape and red gloves, relaxed funny deadpan expression holding a grocery shopping bag, clean yellow ivory and red manga portrait",
+    "src": "/assets/designs/saitama.png"
+  },
+  {
+    "id": "tanjiro",
+    "name": "Tanjiro · Marea azul",
+    "collection": "Demon Slayer",
+    "group": "Anime",
+    "accent": "#79b9bd",
+    "subject": "Tanjiro Kamado from Demon Slayer, recognizable green and black checkered haori and forehead scar, sword swing forming stylized Japanese turquoise water wave, bold manga action",
+    "src": "/assets/designs/tanjiro.png"
+  },
+  {
+    "id": "levi",
+    "name": "Levi · Alas de libertad",
+    "collection": "Attack on Titan",
+    "group": "Anime",
+    "accent": "#95a28c",
+    "subject": "adult Levi Ackerman from Attack on Titan, dark short undercut hair, green scout cape, dual swords and maneuver gear, dynamic airborne spin, ivory feather wing motifs and smoky olive ink",
+    "src": "/assets/designs/levi.png"
+  },
+  {
+    "id": "ichigo",
+    "name": "Ichigo · Hollow",
+    "collection": "Bleach",
+    "group": "Anime",
+    "accent": "#da9972",
+    "subject": "Ichigo Kurosaki from Bleach, orange spiky hair, half hollow mask, dark shinigami robe and enormous sword, orange and bone white spiritual energy, dramatic manga portrait",
+    "src": "/assets/designs/ichigo.png"
+  },
+  {
+    "id": "denji",
+    "name": "Denji · Chainsaw",
+    "collection": "Chainsaw Man",
+    "group": "Anime",
+    "accent": "#d78767",
+    "subject": "Chainsaw Man transformed Denji, orange chainsaw head and arm blades, white shirt dark trousers, dynamic angular pose, industrial orange and black halftone manga, energetic but no gore no blood",
+    "src": "/assets/designs/denji.png"
+  },
+  {
+    "id": "ryuk",
+    "name": "Ryuk · Manzana roja",
+    "collection": "Death Note",
+    "group": "Anime",
+    "accent": "#b992b7",
+    "subject": "Ryuk the shinigami from Death Note, distinctive skeletal grin, spiky dark hair and black feathered shoulders, holding one bright red apple, gothic manga portrait, pale ivory violet and crimson, no notebook text",
+    "src": "/assets/designs/ryuk.png"
+  },
+  {
+    "id": "eva01",
+    "name": "Eva 01 · Awakening",
+    "collection": "Evangelion",
+    "group": "Anime",
+    "accent": "#b493da",
+    "subject": "Evangelion Unit 01, distinctive purple and acid green giant mecha head and upper torso, aggressive mechanical manga composition with geometric orange energy shapes and circuit accents",
+    "src": "/assets/designs/eva01.png"
+  },
+  {
+    "id": "guts",
+    "name": "Guts · Eclipse",
+    "collection": "Berserk",
+    "group": "Anime",
+    "accent": "#bc887f",
+    "subject": "adult Guts from Berserk, dark spiky hair, massive Dragonslayer sword resting on shoulder, battered black armor and sweeping dark cape, crimson eclipse halo, bold ivory and burgundy manga etching no gore",
+    "src": "/assets/designs/guts.png"
+  },
+  {
+    "id": "anya",
+    "name": "Anya · Modo misión",
+    "collection": "Spy × Family",
+    "group": "Anime",
+    "accent": "#dda6a5",
+    "subject": "Anya Forger from Spy x Family, cute pink bob hair and black horn-like hair ornaments, playful smug cheerful face with tiny stars and peanuts, chibi sticker manga illustration pink ivory gold, fully clothed childlike character portrait only",
+    "src": "/assets/designs/anya.png"
+  },
+  {
+    "id": "cosmic-riff",
+    "name": "Cosmic riff",
+    "collection": "Rock",
+    "group": "Rock",
+    "accent": "#8fa8ce",
+    "subject": "original rock concert print: skeleton astronaut floating while playing electric guitar, rings of Saturn and sharp starbursts, vintage psychedelic etching, ivory cobalt and muted orange",
+    "src": "/assets/designs/cosmic-riff.png"
+  },
+  {
+    "id": "skull-roses",
+    "name": "Skull & roses",
+    "collection": "Rock",
+    "group": "Rock",
+    "accent": "#c47d85",
+    "subject": "original vintage hard rock screenprint: large ivory human skull entwined with deep red roses and thorny stems, crossed electric guitars, symmetrical classic concert poster etching",
+    "src": "/assets/designs/skull-roses.png"
+  },
+  {
+    "id": "raven-riff",
+    "name": "Raven anthem",
+    "collection": "Rock",
+    "group": "Rock",
+    "accent": "#9c9fbd",
+    "subject": "original gothic rock print: dramatic raven spreading wings perched on vintage microphone with crescent moon behind, feather engraving, silver ivory violet and small scarlet highlights",
+    "src": "/assets/designs/raven-riff.png"
+  },
+  {
+    "id": "desert-tour",
+    "name": "Desert rider",
+    "collection": "Rock",
+    "group": "Rock",
+    "accent": "#ceaa79",
+    "subject": "original desert rock illustration: cool skeleton riding vintage chopper motorcycle through stylized cactus desert with sun disk, speed lines, distressed ivory rust orange and sand engraving",
+    "src": "/assets/designs/desert-tour.png"
+  },
+  {
+    "id": "venom-vinyl",
+    "name": "Venom vinyl",
+    "collection": "Rock",
+    "group": "Rock",
+    "accent": "#a4b58b",
+    "subject": "original rock music illustration: coiled detailed emerald serpent wrapping around black vinyl record and silver dagger, lightning and small roses, ivory green metallic silver ink",
+    "src": "/assets/designs/venom-vinyl.png"
+  },
+  {
+    "id": "thunder-wolf",
+    "name": "Thunder wolf",
+    "collection": "Rock",
+    "group": "Rock",
+    "accent": "#94afcd",
+    "subject": "original heavy rock print: fierce howling gray wolf head with electric blue lightning and jagged mountain peaks behind, moon accent, high contrast engraved ivory and blue",
+    "src": "/assets/designs/thunder-wolf.png"
+  },
+  {
+    "id": "inferno-amp",
+    "name": "Inferno volume",
+    "collection": "Rock",
+    "group": "Rock",
+    "accent": "#d89472",
+    "subject": "original heavy metal graphic: towering vintage guitar amplifier with expressive little horned imp sitting atop and flames rising as orange and cream ink shapes, bold comic etching, no branding",
+    "src": "/assets/designs/inferno-amp.png"
+  },
+  {
+    "id": "moon-bat",
+    "name": "Midnight echo",
+    "collection": "Rock",
+    "group": "Rock",
+    "accent": "#b498c9",
+    "subject": "original dark alternative rock graphic: beautifully detailed bat wings fully spread around ornate crescent moon and gothic cathedral rose window motif, bone ivory violet and silver",
+    "src": "/assets/designs/moon-bat.png"
+  },
+  {
+    "id": "punk-rebel",
+    "name": "Punk attitude",
+    "collection": "Rock",
+    "group": "Rock",
+    "accent": "#d4b179",
+    "subject": "original punk rock screenprint: grinning skull with tall spiky mohawk, crossed safety pins, broken chain and torn-paper lightning fragments, ivory red and electric yellow distressed ink",
+    "src": "/assets/designs/punk-rebel.png"
+  },
+  {
+    "id": "electric-tiger",
+    "name": "Electric tiger",
+    "collection": "Rock",
+    "group": "Rock",
+    "accent": "#dd9d6b",
+    "subject": "original glam rock print: roaring tiger head with sharp electric guitar necks behind, angular magenta and orange lightning, engraved ivory fur details, explosive balanced tall composition",
+    "src": "/assets/designs/electric-tiger.png"
+  },
+  {
+    "id": "capybara-zen",
+    "name": "Capibara · Cero estrés",
+    "collection": "Memes",
+    "group": "Memes",
+    "accent": "#c9b18b",
+    "subject": "original funny meme streetwear sticker: relaxed capybara wearing tiny sunglasses sitting cross-legged holding coffee, little orange fruit on head, quiet zen sparkles, warm tan ivory sage bold cartoon",
+    "src": "/assets/designs/capybara-zen.png"
+  },
+  {
+    "id": "cat-buffering",
+    "name": "Gato · Procesando",
+    "collection": "Memes",
+    "group": "Memes",
+    "accent": "#a7a4ca",
+    "subject": "original funny internet meme illustration: blank-faced fluffy gray cat with huge wide eyes staring into space, small orbiting loading spinner made of dots above head, lavender stars, cream and slate cartoon sticker",
+    "src": "/assets/designs/cat-buffering.png"
+  },
+  {
+    "id": "dog-astronaut",
+    "name": "Houston, tengo sueño",
+    "collection": "Memes",
+    "group": "Memes",
+    "accent": "#8dadc3",
+    "subject": "original funny meme sticker: sleepy golden retriever in retro astronaut helmet floating in space clutching pillow, tiny crescent moon and stars, pastel blue cream golden cartoon",
+    "src": "/assets/designs/dog-astronaut.png"
+  },
+  {
+    "id": "opossum-night",
+    "name": "Turno nocturno",
+    "collection": "Memes",
+    "group": "Memes",
+    "accent": "#ba9cb6",
+    "subject": "original funny meme illustration: chaotic tired opossum with dark eye circles holding oversized iced coffee at midnight, small purple moon behind, messy spiky fur, ivory charcoal lavender cartoon streetwear sticker",
+    "src": "/assets/designs/opossum-night.png"
+  },
+  {
+    "id": "frog-deadline",
+    "name": "Rana · Último minuto",
+    "collection": "Memes",
+    "group": "Memes",
+    "accent": "#9fbc89",
+    "subject": "original funny internet meme cartoon: original cute round green frog with worried huge eyes intensely typing at laptop surrounded by crumpled papers and little alarm clock, expressive cream and green sticker no brand characters",
+    "src": "/assets/designs/frog-deadline.png"
+  },
+  {
+    "id": "raccoon-snack",
+    "name": "Mapache · Snack mode",
+    "collection": "Memes",
+    "group": "Memes",
+    "accent": "#c1aa92",
+    "subject": "original funny meme sticker: mischievous chubby raccoon sitting on pile of snacks clutching giant bag of potato chips with delighted expression, small orange sparkles, cream gray and warm orange cartoon",
+    "src": "/assets/designs/raccoon-snack.png"
+  },
+  {
+    "id": "duck-chaos",
+    "name": "Pato · Caos controlado",
+    "collection": "Memes",
+    "group": "Memes",
+    "accent": "#d9bc79",
+    "subject": "original absurd funny streetwear meme illustration: confident white duck wearing tiny black sunglasses and orange traffic cone hat riding skateboard, sparks and orange lightning shapes, bold ivory orange black cartoon",
+    "src": "/assets/designs/duck-chaos.png"
+  },
+  {
+    "id": "skeleton-battery",
+    "name": "Batería social · 1%",
+    "collection": "Memes",
+    "group": "Memes",
+    "accent": "#afa2be",
+    "subject": "original relatable meme print: exhausted small skeleton curled in armchair holding phone beside tiny almost-empty red battery symbol, cute funny not scary, ivory bone lavender red cartoon sticker, no text",
+    "src": "/assets/designs/skeleton-battery.png"
+  },
+  {
+    "id": "pigeon-boss",
+    "name": "Paloma · CEO del parque",
+    "collection": "Memes",
+    "group": "Memes",
+    "accent": "#a2b2bd",
+    "subject": "original funny meme illustration: chubby city pigeon wearing tiny business necktie with proud serious face and one foot on oversized french fry, small gold crown hovering above head, slate blue cream gold cartoon",
+    "src": "/assets/designs/pigeon-boss.png"
+  },
+  {
+    "id": "toast-existential",
+    "name": "Tostada · Existiendo",
+    "collection": "Memes",
+    "group": "Memes",
+    "accent": "#d6aa85",
+    "subject": "original absurd relatable meme sticker: sad little slice of toasted bread with huge reflective eyes sitting on tiny stool holding butter knife and wearing small party hat, warm golden toast ivory pink sparkles, deadpan cute cartoon",
+    "src": "/assets/designs/toast-existential.png"
+  }
+]

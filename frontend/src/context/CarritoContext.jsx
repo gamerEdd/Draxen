@@ -1,96 +1,16 @@
-import { createContext, useContext, useState } from 'react';
-
-const CarritoContext = createContext();
-
-export const CarritoProvider = ({ children }) => {
-  const [items, setItems] = useState(() => {
-    const saved = localStorage.getItem('carrito');
-    return saved ? JSON.parse(saved) : [];
-  });
-
-  const addItem = (producto, talla, cantidad = 1) => {
-    setItems(prevItems => {
-      const existente = prevItems.find(
-        item => item.producto_id === producto.id && item.talla_id === talla.id
-      );
-
-      let nuevosItems;
-      if (existente) {
-        nuevosItems = prevItems.map(item =>
-          item.producto_id === producto.id && item.talla_id === talla.id
-            ? { ...item, cantidad: item.cantidad + cantidad }
-            : item
-        );
-      } else {
-        nuevosItems = [...prevItems, {
-          producto_id: producto.id,
-          nombre: producto.nombre,
-          precio: producto.precio,
-          talla_id: talla.id,
-          talla: talla.talla,
-          cantidad,
-          imagen: producto.imagen_principal
-        }];
-      }
-
-      localStorage.setItem('carrito', JSON.stringify(nuevosItems));
-      return nuevosItems;
-    });
-  };
-
-  const removeItem = (productoId, tallaId) => {
-    setItems(prevItems => {
-      const nuevosItems = prevItems.filter(
-        item => !(item.producto_id === productoId && item.talla_id === tallaId)
-      );
-      localStorage.setItem('carrito', JSON.stringify(nuevosItems));
-      return nuevosItems;
-    });
-  };
-
-  const updateCantidad = (productoId, tallaId, cantidad) => {
-    if (cantidad <= 0) {
-      removeItem(productoId, tallaId);
-      return;
-    }
-
-    setItems(prevItems => {
-      const nuevosItems = prevItems.map(item =>
-        item.producto_id === productoId && item.talla_id === tallaId
-          ? { ...item, cantidad }
-          : item
-      );
-      localStorage.setItem('carrito', JSON.stringify(nuevosItems));
-      return nuevosItems;
-    });
-  };
-
-  const limpiarCarrito = () => {
-    setItems([]);
-    localStorage.removeItem('carrito');
-  };
-
-  const total = items.reduce((sum, item) => sum + (item.precio * item.cantidad), 0);
-
-  return (
-    <CarritoContext.Provider value={{
-      items,
-      addItem,
-      removeItem,
-      updateCantidad,
-      limpiarCarrito,
-      total,
-      cantidad: items.length
-    }}>
-      {children}
-    </CarritoContext.Provider>
-  );
+import {createContext,useContext,useState} from 'react';
+import {garments,designs} from '../data/catalog';
+import {calculatePricing} from '../data/pricing';
+const CarritoContext=createContext();
+const read=()=>{try{const raw=JSON.parse(localStorage.getItem('carrito')||'[]');if(!Array.isArray(raw))return [];return raw.filter(i=>i&&garments.some(g=>g.id===i.garmentId)&&designs.some(d=>d.id===i.designId)&&['XS','S','M','L','XL','XXL'].includes(i.size)&&['negro','hueso','lavanda'].includes(i.color)&&['front','back'].includes(i.placement)&&Number.isFinite(i.printScale)&&i.printScale>=70&&i.printScale<=130&&Number.isInteger(i.cantidad)&&i.cantidad>0&&i.cantidad<=20).slice(0,30).map(i=>{const g=garments.find(g=>g.id===i.garmentId);return {...i,precio:g.price,variantKey:[i.garmentId,i.designId,i.size,i.color,i.placement,i.printScale].join(':')};});}catch{return [];}};
+export const CarritoProvider=({children})=>{const [items,setItems]=useState(read);const [storageError,setStorageError]=useState('');
+ const commit=(updater)=>setItems(prev=>{const next=updater(prev);try{localStorage.setItem('carrito',JSON.stringify(next));queueMicrotask(()=>setStorageError(''));}catch{queueMicrotask(()=>setStorageError('Tu navegador no permite guardar la bolsa. La selección está disponible en esta pestaña; descarga tu ficha antes de salir.'));}return next;});
+ const addCustomItem=(config)=>{const garment=garments.find(g=>g.id===config.garmentId);if(!garment)throw new Error('Selecciona una prenda válida.');const key=[config.garmentId,config.designId,config.size,config.color,config.placement,config.printScale].join(':');if(items.length>=30&&!items.some(i=>i.variantKey===key))throw new Error('Tu bolsa admite hasta 30 combinaciones. Elimina una para añadir otra.');commit(prev=>{const existing=prev.find(i=>i.variantKey===key);return existing?prev.map(i=>i.variantKey===key?{...i,cantidad:Math.min(20,i.cantidad+(config.quantity||1))}:i):[...prev,{...config,variantKey:key,cantidad:config.quantity||1,precio:garment.price,nombre:config.name,talla:config.size}];});};
+ const addItem=(producto,talla,cantidad=1)=>addCustomItem({garmentId:producto.garmentId,designId:producto.designId,size:talla.talla,color:'negro',placement:'front',printScale:100,quantity:cantidad,price:producto.precio,name:producto.nombre});
+ const removeItem=(key)=>commit(prev=>prev.filter(i=>i.variantKey!==key));
+ const updateCantidad=(key,cantidad)=>{if(cantidad<=0)return removeItem(key);commit(prev=>prev.map(i=>i.variantKey===key?{...i,cantidad:Math.min(20,cantidad)}:i));};
+ const removeSubmitted=(snapshot)=>commit(prev=>prev.map(item=>{const sent=snapshot.find(s=>s.variantKey===item.variantKey);return sent?{...item,cantidad:item.cantidad-sent.cantidad}:item;}).filter(i=>i.cantidad>0));
+ const limpiarCarrito=()=>commit(()=>[]);const pricing=calculatePricing(items.map(i=>({garmentId:i.garmentId,quantity:i.cantidad})));const total=pricing.totalCents/100;const cantidad=items.reduce((s,i)=>s+i.cantidad,0);
+ return <CarritoContext.Provider value={{items,addItem,addCustomItem,removeItem,updateCantidad,removeSubmitted,limpiarCarrito,total,pricing,cantidad,storageError}}>{children}</CarritoContext.Provider>;
 };
-
-export const useCarrito = () => {
-  const context = useContext(CarritoContext);
-  if (!context) {
-    throw new Error('useCarrito debe usarse dentro de CarritoProvider');
-  }
-  return context;
-};
+export const useCarrito=()=>{const context=useContext(CarritoContext);if(!context)throw new Error('useCarrito requiere CarritoProvider');return context;};
