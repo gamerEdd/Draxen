@@ -1,6 +1,7 @@
+import {Orders} from './MisPedidos';
 import { useState, useEffect } from 'react';
 import { useAuth } from '../context/AuthContext';
-import { api } from '../utils/api';
+import { api, API_URL } from '../utils/api';
 import BrandLogo from '../components/BrandLogo';
 
 export default function AdminPanel() {
@@ -27,7 +28,7 @@ export default function AdminPanel() {
       api.getProductos(1, 100),
       api.getCategorias()
     ]).then(([datosProductos, datosCategorias]) => {
-      setProductos(datosProductos.productos);
+      setProductos(datosProductos.productos||[]);
       if (datosCategorias.success) {
         setCategorias(datosCategorias.categorias);
       }
@@ -38,7 +39,7 @@ export default function AdminPanel() {
     e.preventDefault();
     setLoading(true);
 
-    const data = await fetch('http://localhost:5000/api/productos', {
+    const data = await fetch(`${API_URL}/productos`, {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
@@ -73,6 +74,7 @@ export default function AdminPanel() {
           <h1 className="text-4xl font-black text-white">PANEL ADMIN</h1>
         </div>
 
+        <Orders admin/>
         {/* Tabs */}
         <div className="flex gap-4 mb-8 border-b border-gray-700">
           <button

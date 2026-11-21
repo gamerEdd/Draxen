@@ -1,4 +1,5 @@
-import { createContext, useContext, useState, useEffect } from 'react';
+import { API_ENABLED } from '../utils/deployment';
+import { createContext, useContext, useState, useEffect,useCallback } from 'react';
 import { API_URL } from '../utils/api';
 
 const AuthContext = createContext();
@@ -11,7 +12,8 @@ export const AuthProvider = ({ children }) => {
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    if (token) {
+    let active=true;
+    if (API_ENABLED && token) {
       // Validar token y obtener usuario
       fetch(`${API_URL}/auth/perfil`, {
         headers: { 'Authorization': `Bearer ${token}` },
@@ -19,28 +21,34 @@ export const AuthProvider = ({ children }) => {
       })
         .then(res => res.json())
         .then(data => {
+          if(!active)return;
           if (data.success) {
             setUser(data.usuario);
           } else {
             storeToken(null);
             setToken(null);
+            setUser(null);
           }
         })
         .catch(() => {
+          if(!active)return;
           storeToken(null);
           setToken(null);
+          setUser(null);
         })
-        .finally(() => setLoading(false));
+        .finally(() => {if(active)setLoading(false);});
     } else {
+      setUser(null);
       setLoading(false);
     }
+    return()=>{active=false;};
   }, [token]);
 
-  const login = (newToken, userData) => {
+  const login = useCallback((newToken, userData) => {
     storeToken(newToken);
     setToken(newToken);
     setUser(userData);
-  };
+  },[]);
 
   const logout = () => {
     storeToken(null);

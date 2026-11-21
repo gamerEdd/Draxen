@@ -1,7 +1,8 @@
 import mysql from 'mysql2/promise';
 import dotenv from 'dotenv';
+import {fileURLToPath} from 'node:url';
 
-dotenv.config();
+dotenv.config({path:fileURLToPath(new URL('../../.env',import.meta.url))});
 
 const pool = mysql.createPool({
   host: process.env.DB_HOST,
@@ -13,7 +14,7 @@ const pool = mysql.createPool({
   connectionLimit: 10,
   queueLimit: 0,
   enableKeepAlive: true,
-  keepAliveInitialDelayMs: 0
+  keepAliveInitialDelay: 0
 });
 
 export default pool;

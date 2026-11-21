@@ -3,10 +3,15 @@
   "version": "1.0.0",
   "description": "DRAXEN E-commerce - Backend + Frontend",
   "scripts": {
+    "build": "npm run build --prefix frontend",
+    "start": "node scripts/start-production.cjs",
+    "prod": "npm run build && npm start",
     "dev": "concurrently --kill-others-on-fail --names backend,frontend --prefix-colors cyan,magenta \"npm run backend\" \"npm run frontend\"",
     "backend": "cd backend && npm run dev",
     "frontend": "cd frontend && npm run dev",
-    "install-all": "npm install && cd backend && npm install && cd ../frontend && npm install"
+    "install-all": "npm install && cd backend && npm install && cd ../frontend && npm install",
+    "build:pages": "npm run build:pages --prefix frontend",
+    "test:catalog": "node --test shared/designCategories.test.mjs shared/catalogProducts.test.mjs"
   },
   "dependencies": {
     "concurrently": "^7.6.0",

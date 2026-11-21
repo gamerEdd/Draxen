@@ -1,0 +1,93 @@
+[
+  {
+    "old": "drop100-guns-roses-rebel",
+    "id": "drop100-skull-neon-king",
+    "name": "Calavera · Rey Neón",
+    "scene": "a detailed ivory skull wearing a silver crown made from electric guitar tuning pegs, neon magenta lightning, rock screenprint",
+    "collection": "Rock",
+    "group": "Rock",
+    "accent": "#be584b",
+    "priority": -3,
+    "src": "/assets/designs/drop100-skull-neon-king.png",
+    "prompt": "Use case: stylized-concept. Create a standalone premium t-shirt illustration of a detailed ivory skull wearing a silver crown made from electric guitar tuning pegs, neon magenta lightning, rock screenprint. Complete centered detailed composition, crisp ink contours and fine engraved screenprint texture, strong readable silhouette on dark and light garments, actual transparent alpha background with margin. No letters, no text, no logo, no watermark, no garment mockup.",
+    "index": 54
+  },
+  {
+    "old": "drop100-nirvana-smile",
+    "id": "drop100-skull-cat-moon",
+    "name": "Calavera · Gato de Medianoche",
+    "scene": "black gothic cat curled around an ivory skull with a silver moon and red roses, ornate engraving",
+    "collection": "Rock",
+    "group": "Rock",
+    "accent": "#be584b",
+    "priority": -3,
+    "src": "/assets/designs/drop100-skull-cat-moon.png",
+    "prompt": "Use case: stylized-concept. Create a standalone premium t-shirt illustration of black gothic cat curled around an ivory skull with a silver moon and red roses, ornate engraving. Complete centered detailed composition, crisp ink contours and fine engraved screenprint texture, strong readable silhouette on dark and light garments, actual transparent alpha background with margin. No letters, no text, no logo, no watermark, no garment mockup.",
+    "index": 55
+  },
+  {
+    "old": "drop100-pink-floyd-prism",
+    "id": "drop100-rock-spectral-bass",
+    "name": "Rock · Bajo Espectral",
+    "scene": "a large emerald electric bass embraced by two skeletal hands, purple sound waves and silver stars, concert emblem",
+    "collection": "Rock",
+    "group": "Rock",
+    "accent": "#be584b",
+    "priority": -3,
+    "src": "/assets/designs/drop100-rock-spectral-bass.png",
+    "prompt": "Use case: stylized-concept. Create a standalone premium t-shirt illustration of a large emerald electric bass embraced by two skeletal hands, purple sound waves and silver stars, concert emblem. Complete centered detailed composition, crisp ink contours and fine engraved screenprint texture, strong readable silhouette on dark and light garments, actual transparent alpha background with margin. No letters, no text, no logo, no watermark, no garment mockup.",
+    "index": 57
+  },
+  {
+    "old": "drop100-kiss-stage",
+    "id": "drop100-rock-bone-phoenix",
+    "name": "Rock · Fénix de Hueso",
+    "scene": "a phoenix made of ivory bones and copper feathers spreading wings around a vintage microphone, orange amber rays",
+    "collection": "Rock",
+    "group": "Rock",
+    "accent": "#be584b",
+    "priority": -3,
+    "src": "/assets/designs/drop100-rock-bone-phoenix.png",
+    "prompt": "Use case: stylized-concept. Create a standalone premium t-shirt illustration of a phoenix made of ivory bones and copper feathers spreading wings around a vintage microphone, orange amber rays. Complete centered detailed composition, crisp ink contours and fine engraved screenprint texture, strong readable silhouette on dark and light garments, actual transparent alpha background with margin. No letters, no text, no logo, no watermark, no garment mockup.",
+    "index": 63
+  },
+  {
+    "old": "drop100-ramones-punk",
+    "id": "drop100-skull-storm-crow",
+    "name": "Calavera · Cuervo de Tormenta",
+    "scene": "a fierce raven with spread black wings holding a small ivory skull over storm clouds, teal lightning and gold filigree",
+    "collection": "Rock",
+    "group": "Rock",
+    "accent": "#be584b",
+    "priority": -3,
+    "src": "/assets/designs/drop100-skull-storm-crow.png",
+    "prompt": "Use case: stylized-concept. Create a standalone premium t-shirt illustration of a fierce raven with spread black wings holding a small ivory skull over storm clouds, teal lightning and gold filigree. Complete centered detailed composition, crisp ink contours and fine engraved screenprint texture, strong readable silhouette on dark and light garments, actual transparent alpha background with margin. No letters, no text, no logo, no watermark, no garment mockup.",
+    "index": 61
+  },
+  {
+    "old": "drop100-slipknot-chaos",
+    "id": "drop100-skull-clockwork-moth",
+    "name": "Calavera · Polilla Mecánica",
+    "scene": "a gothic moth with intricate copper clockwork wings and an ivory skull on its back, dark violet silver palette",
+    "collection": "Rock",
+    "group": "Rock",
+    "accent": "#be584b",
+    "priority": -3,
+    "src": "/assets/designs/drop100-skull-clockwork-moth.png",
+    "prompt": "Use case: stylized-concept. Create a standalone premium t-shirt illustration of a gothic moth with intricate copper clockwork wings and an ivory skull on its back, dark violet silver palette. Complete centered detailed composition, crisp ink contours and fine engraved screenprint texture, strong readable silhouette on dark and light garments, actual transparent alpha background with margin. No letters, no text, no logo, no watermark, no garment mockup.",
+    "index": 65
+  },
+  {
+    "old": "drop100-linkin-park-circuit",
+    "id": "drop100-rock-galactic-amp",
+    "name": "Rock · Amplificador Galáctico",
+    "scene": "a vintage black guitar amplifier transformed into a tiny celestial temple with two skeletal hands playing a red guitar, orbit rings and stars",
+    "collection": "Rock",
+    "group": "Rock",
+    "accent": "#be584b",
+    "priority": -3,
+    "src": "/assets/designs/drop100-rock-galactic-amp.png",
+    "prompt": "Use case: stylized-concept. Create a standalone premium t-shirt illustration of a vintage black guitar amplifier transformed into a tiny celestial temple with two skeletal hands playing a red guitar, orbit rings and stars. Complete centered detailed composition, crisp ink contours and fine engraved screenprint texture, strong readable silhouette on dark and light garments, actual transparent alpha background with margin. No letters, no text, no logo, no watermark, no garment mockup.",
+    "index": 66
+  }
+]

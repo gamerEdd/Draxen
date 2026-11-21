@@ -1,0 +1,127 @@
+{
+  "origin": "https://sigue-me.com",
+  "version": "e2a4048b7a37",
+  "checked": 15,
+  "results": [
+    {
+      "id": "hxh-epic-gon",
+      "extension": ".png",
+      "url": "https://sigue-me.com/assets/designs/hxh-epic-gon.png?v=e2a4048b7a37",
+      "width": 1024,
+      "height": 1536,
+      "valid": true
+    },
+    {
+      "id": "hxh-epic-gon",
+      "extension": ".webp",
+      "url": "https://sigue-me.com/assets/designs/hxh-epic-gon.webp?v=e2a4048b7a37",
+      "width": 800,
+      "height": 1200,
+      "valid": true
+    },
+    {
+      "id": "hxh-epic-gon",
+      "extension": ".thumb.webp",
+      "url": "https://sigue-me.com/assets/designs/hxh-epic-gon.thumb.webp?v=e2a4048b7a37",
+      "width": 133,
+      "height": 200,
+      "valid": true
+    },
+    {
+      "id": "hxh-epic-killua",
+      "extension": ".png",
+      "url": "https://sigue-me.com/assets/designs/hxh-epic-killua.png?v=e2a4048b7a37",
+      "width": 1199,
+      "height": 1312,
+      "valid": true
+    },
+    {
+      "id": "hxh-epic-killua",
+      "extension": ".webp",
+      "url": "https://sigue-me.com/assets/designs/hxh-epic-killua.webp?v=e2a4048b7a37",
+      "width": 800,
+      "height": 875,
+      "valid": true
+    },
+    {
+      "id": "hxh-epic-killua",
+      "extension": ".thumb.webp",
+      "url": "https://sigue-me.com/assets/designs/hxh-epic-killua.thumb.webp?v=e2a4048b7a37",
+      "width": 183,
+      "height": 200,
+      "valid": true
+    },
+    {
+      "id": "hxh-epic-kurapika",
+      "extension": ".png",
+      "url": "https://sigue-me.com/assets/designs/hxh-epic-kurapika.png?v=e2a4048b7a37",
+      "width": 1201,
+      "height": 1309,
+      "valid": true
+    },
+    {
+      "id": "hxh-epic-kurapika",
+      "extension": ".webp",
+      "url": "https://sigue-me.com/assets/designs/hxh-epic-kurapika.webp?v=e2a4048b7a37",
+      "width": 800,
+      "height": 872,
+      "valid": true
+    },
+    {
+      "id": "hxh-epic-kurapika",
+      "extension": ".thumb.webp",
+      "url": "https://sigue-me.com/assets/designs/hxh-epic-kurapika.thumb.webp?v=e2a4048b7a37",
+      "width": 183,
+      "height": 200,
+      "valid": true
+    },
+    {
+      "id": "hxh-epic-netero",
+      "extension": ".png",
+      "url": "https://sigue-me.com/assets/designs/hxh-epic-netero.png?v=e2a4048b7a37",
+      "width": 1199,
+      "height": 1312,
+      "valid": true
+    },
+    {
+      "id": "hxh-epic-netero",
+      "extension": ".webp",
+      "url": "https://sigue-me.com/assets/designs/hxh-epic-netero.webp?v=e2a4048b7a37",
+      "width": 800,
+      "height": 875,
+      "valid": true
+    },
+    {
+      "id": "hxh-epic-netero",
+      "extension": ".thumb.webp",
+      "url": "https://sigue-me.com/assets/designs/hxh-epic-netero.thumb.webp?v=e2a4048b7a37",
+      "width": 183,
+      "height": 200,
+      "valid": true
+    },
+    {
+      "id": "hxh-epic-meruem",
+      "extension": ".png",
+      "url": "https://sigue-me.com/assets/designs/hxh-epic-meruem.png?v=e2a4048b7a37",
+      "width": 1173,
+      "height": 1341,
+      "valid": true
+    },
+    {
+      "id": "hxh-epic-meruem",
+      "extension": ".webp",
+      "url": "https://sigue-me.com/assets/designs/hxh-epic-meruem.webp?v=e2a4048b7a37",
+      "width": 800,
+      "height": 915,
+      "valid": true
+    },
+    {
+      "id": "hxh-epic-meruem",
+      "extension": ".thumb.webp",
+      "url": "https://sigue-me.com/assets/designs/hxh-epic-meruem.thumb.webp?v=e2a4048b7a37",
+      "width": 175,
+      "height": 200,
+      "valid": true
+    }
+  ]
+}

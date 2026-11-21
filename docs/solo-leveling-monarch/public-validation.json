@@ -1,0 +1,127 @@
+{
+  "origin": "https://sigue-me.com",
+  "version": "8cfa1008f947",
+  "checked": 15,
+  "results": [
+    {
+      "id": "shadow-monarch-throne",
+      "extension": ".png",
+      "url": "https://sigue-me.com/assets/designs/shadow-monarch-throne.png?v=8cfa1008f947",
+      "width": 1122,
+      "height": 1402,
+      "valid": true
+    },
+    {
+      "id": "shadow-monarch-throne",
+      "extension": ".webp",
+      "url": "https://sigue-me.com/assets/designs/shadow-monarch-throne.webp?v=8cfa1008f947",
+      "width": 800,
+      "height": 1000,
+      "valid": true
+    },
+    {
+      "id": "shadow-monarch-throne",
+      "extension": ".thumb.webp",
+      "url": "https://sigue-me.com/assets/designs/shadow-monarch-throne.thumb.webp?v=8cfa1008f947",
+      "width": 160,
+      "height": 200,
+      "valid": true
+    },
+    {
+      "id": "shadow-monarch-daggers",
+      "extension": ".png",
+      "url": "https://sigue-me.com/assets/designs/shadow-monarch-daggers.png?v=8cfa1008f947",
+      "width": 1199,
+      "height": 1312,
+      "valid": true
+    },
+    {
+      "id": "shadow-monarch-daggers",
+      "extension": ".webp",
+      "url": "https://sigue-me.com/assets/designs/shadow-monarch-daggers.webp?v=8cfa1008f947",
+      "width": 800,
+      "height": 875,
+      "valid": true
+    },
+    {
+      "id": "shadow-monarch-daggers",
+      "extension": ".thumb.webp",
+      "url": "https://sigue-me.com/assets/designs/shadow-monarch-daggers.thumb.webp?v=8cfa1008f947",
+      "width": 183,
+      "height": 200,
+      "valid": true
+    },
+    {
+      "id": "shadow-monarch-awakening",
+      "extension": ".png",
+      "url": "https://sigue-me.com/assets/designs/shadow-monarch-awakening.png?v=8cfa1008f947",
+      "width": 1086,
+      "height": 1448,
+      "valid": true
+    },
+    {
+      "id": "shadow-monarch-awakening",
+      "extension": ".webp",
+      "url": "https://sigue-me.com/assets/designs/shadow-monarch-awakening.webp?v=8cfa1008f947",
+      "width": 800,
+      "height": 1067,
+      "valid": true
+    },
+    {
+      "id": "shadow-monarch-awakening",
+      "extension": ".thumb.webp",
+      "url": "https://sigue-me.com/assets/designs/shadow-monarch-awakening.thumb.webp?v=8cfa1008f947",
+      "width": 150,
+      "height": 200,
+      "valid": true
+    },
+    {
+      "id": "shadow-monarch-armor",
+      "extension": ".png",
+      "url": "https://sigue-me.com/assets/designs/shadow-monarch-armor.png?v=8cfa1008f947",
+      "width": 1024,
+      "height": 1536,
+      "valid": true
+    },
+    {
+      "id": "shadow-monarch-armor",
+      "extension": ".webp",
+      "url": "https://sigue-me.com/assets/designs/shadow-monarch-armor.webp?v=8cfa1008f947",
+      "width": 800,
+      "height": 1200,
+      "valid": true
+    },
+    {
+      "id": "shadow-monarch-armor",
+      "extension": ".thumb.webp",
+      "url": "https://sigue-me.com/assets/designs/shadow-monarch-armor.thumb.webp?v=8cfa1008f947",
+      "width": 133,
+      "height": 200,
+      "valid": true
+    },
+    {
+      "id": "shadow-monarch-arise",
+      "extension": ".png",
+      "url": "https://sigue-me.com/assets/designs/shadow-monarch-arise.png?v=8cfa1008f947",
+      "width": 1131,
+      "height": 1391,
+      "valid": true
+    },
+    {
+      "id": "shadow-monarch-arise",
+      "extension": ".webp",
+      "url": "https://sigue-me.com/assets/designs/shadow-monarch-arise.webp?v=8cfa1008f947",
+      "width": 800,
+      "height": 984,
+      "valid": true
+    },
+    {
+      "id": "shadow-monarch-arise",
+      "extension": ".thumb.webp",
+      "url": "https://sigue-me.com/assets/designs/shadow-monarch-arise.thumb.webp?v=8cfa1008f947",
+      "width": 163,
+      "height": 200,
+      "valid": true
+    }
+  ]
+}

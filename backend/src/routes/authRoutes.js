@@ -1,3 +1,5 @@
+import {googleConfig,googleLogin} from '../controllers/googleController.js';
+import {authLimit} from '../middleware/limits.js';
 import express from 'express';
 import {
   register,
@@ -11,8 +13,10 @@ import { authMiddleware, adminMiddleware } from '../middleware/auth.js';
 const router = express.Router();
 
 // Rutas públicas
-router.post('/register', register);
-router.post('/login', login);
+router.get('/google/config',googleConfig);
+router.post('/google',authLimit,googleLogin);
+router.post('/register',authLimit, register);
+router.post('/login',authLimit, login);
 
 // Rutas protegidas
 router.get('/perfil', authMiddleware, getPerfil);

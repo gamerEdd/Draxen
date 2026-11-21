@@ -45,12 +45,14 @@ export function validateSolicitud(body) {
     if (!colors.has(item.color)) invalid(`${label}: color no disponible.`);
     if (!Number.isInteger(item.quantity) || item.quantity < 1 || item.quantity > 20) invalid(`${label}: cantidad entre 1 y 20.`);
     const placement = item.placement ?? 'front';
+    const printPosition = item.printPosition ?? 'center';
+    if (!['center', 'chest', 'lower'].includes(printPosition)) invalid(`${label}: posición del estampado inválida.`);
     const printScale = item.printScale ?? 100;
-    if (!['front', 'back'].includes(placement)) invalid(`${label}: ubicación del estampado inválida.`);
+    if (!['front', 'back', 'both', 'front-mini', 'back-mini'].includes(placement)) invalid(`${label}: ubicación del estampado inválida.`);
     if (typeof printScale !== 'number' || !Number.isFinite(printScale) || printScale < 70 || printScale > 130) invalid(`${label}: tamaño del estampado entre 70 y 130.`);
     return {
       garmentId: item.garmentId, designId: item.designId, size: item.size,
-      color: item.color, quantity: item.quantity, placement, printScale,
+      color: item.color, quantity: item.quantity, placement, printScale, printPosition,
       unitPriceCents: garments[item.garmentId]
     };
   });

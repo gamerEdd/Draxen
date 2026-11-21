@@ -1,0 +1,11 @@
+{
+  "id": "shadow-monarch-arise",
+  "name": "Monarca de las Sombras · Ejército eterno",
+  "prompt": "Use case: stylized-concept. Create ONE highly detailed standalone apparel print of Sung Jinwoo, the Shadow Monarch from Solo Leveling. Recognizable young adult Korean anime/manhwa protagonist, sharp face, tousled black hair, piercing luminous blue-violet eyes, black outfit. Dense premium manga/manhwa illustration, intricate ink lines, dramatic layered composition, crisp screenprint textures, electric violet and icy cyan highlights with silver-white detail that remains visible on a black shirt. Full artwork inside generous margins, genuine transparent alpha outside the entire illustration. No photographed shirt, no mockup, no interface, no watermark. Avoid a simplistic icon. Typography must be clean and correctly spelled. Composition: Jinwoo standing in the foreground holding one dagger downward, seen three-quarter front with readable face, an immense circular violet dimensional gate behind him, his shadow soldiers and armored knights rising in an intricate pyramid below and around him, spectral flames, dense dramatic manhwa battle-poster detail. Keep the silhouette cohesive for a shirt print. Exact text only: ARISE above and SOLO LEVELING below.",
+  "collection": "Solo Leveling",
+  "group": "Anime",
+  "src": "/assets/designs/shadow-monarch-arise.png",
+  "status": "approved",
+  "tool": "image_gen",
+  "reviewNote": "Composición, personaje, tipografía y contraste revisados; PNG completo y transparente validado."
+}

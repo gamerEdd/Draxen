@@ -1,10 +1,18 @@
 # 🚀 INICIO RÁPIDO (5 MINUTOS)
 
+## Publicar gratis en Cloudflare Pages
+
+Configuración y pasos en [Cloudflare Pages](docs/cloudflare-pages.md). Compila con `npm run build:pages`; publica `frontend/dist`. Incluye catálogo, personalizador, bolsa y descarga de selecciones, sin backend.
+
+## Producción y acceso desde Wi-Fi
+
+Ejecuta `npm run prod` desde la raíz. Abre `http://localhost:8080` en este equipo o `http://192.168.1.23:8080` desde tu red local. Para reiniciar sin recompilar: `npm start`. Instrucciones de firewall, límites y configuración: [Producción local](docs/produccion-local.md).
+
 ## Tienda y Custom Lab
 
 **Precios con estampado incluido:** camisetas USD14.99 y buzos USD19.99. Combos automáticos en la bolsa: dos camisetas USD27.99, camiseta + buzo USD32.99 y dos buzos USD37.99. El servidor recalcula descuentos y devuelve el detalle del comprobante. Reglas y pruebas en `docs/pricing-promotions.md`.
 
-La tienda incluye un catálogo local de 160 combinaciones: camisetas y buzos para hombre y mujer con 40 estampados reutilizables. Los recursos están en `frontend/public/assets`; el catálogo se configura en `frontend/src/data/catalog.js`. No necesita MySQL para explorar, personalizar o enviar solicitudes.
+La tienda incluye un catálogo local de 604 combinaciones: camisetas y buzos para hombre y mujer con 151 estampados reutilizables. Los recursos están en `frontend/public/assets`; el catálogo se configura en `frontend/src/data/catalog.js`. No necesita MySQL para explorar, personalizar o enviar solicitudes.
 
 En `/personalizar` se eligen modelo, talla XS–XXL, color, diseño y ubicación/escala del estampado. Los borradores y la bolsa se conservan en el navegador. Las imágenes de producto son mockups de referencia; precio final de producción, medidas y disponibilidad deben confirmarse.
 

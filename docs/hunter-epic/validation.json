@@ -1,0 +1,45 @@
+{
+  "previousDesignsPreserved": 488,
+  "results": [
+    {
+      "id": "hxh-epic-gon",
+      "src": "/assets/designs/hxh-epic-gon.png",
+      "width": 1024,
+      "height": 1536,
+      "alphaMean": 212.46443875630698,
+      "valid": true
+    },
+    {
+      "id": "hxh-epic-killua",
+      "src": "/assets/designs/hxh-epic-killua.png",
+      "width": 1199,
+      "height": 1312,
+      "alphaMean": 191.27301524135967,
+      "valid": true
+    },
+    {
+      "id": "hxh-epic-kurapika",
+      "src": "/assets/designs/hxh-epic-kurapika.png",
+      "width": 1201,
+      "height": 1309,
+      "alphaMean": 215.95243459582002,
+      "valid": true
+    },
+    {
+      "id": "hxh-epic-netero",
+      "src": "/assets/designs/hxh-epic-netero.png",
+      "width": 1199,
+      "height": 1312,
+      "alphaMean": 221.32708214670762,
+      "valid": true
+    },
+    {
+      "id": "hxh-epic-meruem",
+      "src": "/assets/designs/hxh-epic-meruem.png",
+      "width": 1173,
+      "height": 1341,
+      "alphaMean": 207.29437893239194,
+      "valid": true
+    }
+  ]
+}

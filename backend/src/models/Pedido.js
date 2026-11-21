@@ -60,11 +60,15 @@ export class Pedido {
     return rows;
   }
 
-  static async updateEstado(id, estado) {
-    await pool.query(
-      'UPDATE pedidos SET estado = ? WHERE id = ?',
-      [estado, id]
-    );
+  static async updateEstado(id, estado, tracking='') {
+    const connection=await pool.getConnection();
+    try {
+      await connection.beginTransaction();
+      await connection.query('SELECT id FROM pedidos WHERE id=? FOR UPDATE',[id]);
+      await connection.query('UPDATE pedidos SET estado=?,numero_seguimiento=? WHERE id=?',[estado,tracking,id]);
+      await connection.query('INSERT INTO pedido_historial (pedido_id,estado,nota) VALUES (?,?,?)',[id,estado,tracking?'Seguimiento actualizado. Guía: '+tracking:'Estado actualizado por Draxen.']);
+      await connection.commit();
+    }catch(error){await connection.rollback();throw error;}finally{connection.release();}
   }
 
   static async addDetalle(pedidoId, productoId, tallaId, cantidad, precioUnitario) {

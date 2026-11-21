@@ -1,0 +1,15 @@
+{
+  "id": "ref-007-back",
+  "n": 7,
+  "name": "2 Minutos · Valentín Alsina",
+  "side": "back",
+  "group": "Rock",
+  "collection": "2 Minutos",
+  "src": "/assets/designs/ref-007-back.png",
+  "tool": "image_gen",
+  "source": "007.jpg",
+  "reference": "C:/Users/eddgt/Documents/GitHub/Draxen/docs/imported-artwork/reference-panels/007-back.png",
+  "status": "approved",
+  "prompt": "Recreate ONLY the back print from this reference, all lettering in LIGHT SILVER GRAY on transparent alpha. Preserve circular 2 MINUTOS logo above, VALENTÍN ALSINA large at bottom. Between them typeset precisely these 15 small centered numbered lines: 1. VALENTÍN ALSINA; 2. CANCIÓN DE AMOR; 3. QUÉ MALA SUERTE!; 4. NOVEDADES; 5. ODIO LABURAR; 6. AMOR SUICIDA; 7. 14 BOTELLAS; 8. VOS NO CONFIASTE; 9. BARRICADA; 10. OTRA MUJER; 11. COMO CARAMELO DE LIMÓN; 12. DEMASIADO TARDE (LA MARCHA); 13. PELEA CALLEJERA; 14. ARREBATO; 15. YA NO SOS IGUAL. Every text stroke must be light silver gray, no black ink and no invented words. Flat clean print, no glow or cloudy backgrounds, no shirt/cups/tag. Keep complete layout and clear margins.",
+  "reviewNote": "Corregido y revisado con la referencia original."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "ref-019-front",
+  "n": 19,
+  "name": "Metallica · Ride the Lightning",
+  "side": "front",
+  "group": "Rock",
+  "collection": "Metallica",
+  "src": "/assets/designs/ref-019-front.png",
+  "tool": "image_gen",
+  "source": "019.jpg",
+  "reference": "C:/Users/eddgt/Documents/GitHub/Draxen/docs/imported-artwork/reference-panels/019-front.png",
+  "status": "approved",
+  "prompt": "Edit the provided reference into ONE standalone high-resolution apparel print. Subject: Metallica · Ride the Lightning, main FRONT print. The reference contains the correct target design. Faithfully recreate its actual illustration, composition, detailed linework, textures, colors and all readable lettering. Do not substitute a different front/back version. Keep the full dense detail rather than a simplified icon. Correct garment perspective and fabric distortion. Remove only the photographed garment, mannequin, decorative cups, shop, table and unrelated sale panels. Preserve artistic panels and backgrounds within the actual printed design. Genuine transparent background OUTSIDE the complete artwork, with clear margin around all edges. Crisp printable color and contours. No garment mockup. Preserve legible words and typographic hierarchy; do not invent new slogans, song titles or dates. If the source is an artwork rather than a shirt, preserve that whole artwork."
+}

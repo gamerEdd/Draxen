@@ -1,5 +1,126 @@
+import {classifyDesign,isPublishedDesign} from './designCategories.mjs';
 // Catálogo único de estampados locales; compartido por tienda y servidor.
-export const DESIGNS = [
+import { DROP100_DESIGNS } from './drop100.mjs';
+import { METAL_SLUG_DESIGNS } from './metalSlug.mjs';
+import { METAL_SLUG_NEO_DESIGNS } from './metalSlugNeo.mjs';
+import { IMPORTED_DESIGNS } from './importedDesigns.mjs';
+import { SOLO_LEVELING_MONARCH_DESIGNS } from './soloLevelingMonarch.mjs';
+import { HUNTER_EPIC_DESIGNS } from './hunterEpic.mjs';
+const RAW_DESIGNS = [
+  ...HUNTER_EPIC_DESIGNS,
+  ...SOLO_LEVELING_MONARCH_DESIGNS,
+  ...IMPORTED_DESIGNS,
+  {
+    id: 'doom-ramon',
+    name: 'Doom Ramón · El señor de la vecindad',
+    collection: 'Memes',
+    group: 'Memes',
+    priority: -6,
+    accent: '#13c74b',
+    src: '/assets/designs/doom-ramon.png'
+  },
+  ...METAL_SLUG_NEO_DESIGNS,
+  ...METAL_SLUG_DESIGNS,
+  ...DROP100_DESIGNS,
+  {
+    "id": "alien-rebel",
+    "name": "Alien · Rebelde Neón",
+    "collection": "Memes",
+    "group": "Memes",
+    "priority": -2,
+    "accent": "#b5ed12",
+    "src": "/assets/designs/alien-rebel.png"
+  },
+  {
+    "id": "futurama-bender",
+    "name": "Bender · Metal Rebelde",
+    "accent": "#b9c8cb",
+    "collection": "Futurama",
+    "group": "Futurama",
+    "priority": -1,
+    "src": "/assets/designs/futurama-bender.png"
+  },
+  {
+    "id": "futurama-fry",
+    "name": "Fry · Delivery Cósmico",
+    "accent": "#ed6b36",
+    "collection": "Futurama",
+    "group": "Futurama",
+    "priority": -1,
+    "src": "/assets/designs/futurama-fry.png"
+  },
+  {
+    "id": "futurama-leela",
+    "name": "Leela · Capitana Estelar",
+    "accent": "#ad8ae0",
+    "collection": "Futurama",
+    "group": "Futurama",
+    "priority": -1,
+    "src": "/assets/designs/futurama-leela.png"
+  },
+  {
+    "id": "futurama-zoidberg",
+    "name": "Zoidberg · Disco Galáctico",
+    "accent": "#eb6e61",
+    "collection": "Futurama",
+    "group": "Futurama",
+    "priority": -1,
+    "src": "/assets/designs/futurama-zoidberg.png"
+  },
+  {
+    "id": "futurama-nibbler",
+    "name": "Nibbler · Hambre Infinita",
+    "accent": "#e2b858",
+    "collection": "Futurama",
+    "group": "Futurama",
+    "priority": -1,
+    "src": "/assets/designs/futurama-nibbler.png"
+  },
+  {
+    "id": "futurama-profesor",
+    "name": "Profesor · Laboratorio 3000",
+    "accent": "#9acda0",
+    "collection": "Futurama",
+    "group": "Futurama",
+    "priority": -1,
+    "src": "/assets/designs/futurama-profesor.png"
+  },
+  {
+    "id": "futurama-planet-express",
+    "name": "Planet Express · Ruta 3000",
+    "accent": "#67c7b4",
+    "collection": "Futurama",
+    "group": "Futurama",
+    "priority": -1,
+    "src": "/assets/designs/futurama-planet-express.png"
+  },
+  {
+    "id": "futurama-hypnotoad",
+    "name": "Hypnotoad · Frecuencia Hipnótica",
+    "accent": "#c5cd68",
+    "collection": "Futurama",
+    "group": "Futurama",
+    "priority": -1,
+    "src": "/assets/designs/futurama-hypnotoad.png"
+  },
+  {
+    "id": "futurama-bender-fry",
+    "name": "Fry & Bender · Turno Espacial",
+    "accent": "#f08d4e",
+    "collection": "Futurama",
+    "group": "Futurama",
+    "priority": -1,
+    "src": "/assets/designs/futurama-bender-fry.png"
+  },
+  {
+    "id": "futurama-calculon",
+    "name": "Calculon · Drama Cósmico",
+    "accent": "#d9ad58",
+    "collection": "Futurama",
+    "group": "Futurama",
+    "priority": -1,
+    "src": "/assets/designs/futurama-calculon.png"
+  },
   {
     "id": "imu-crimson",
     "name": "Imu · Eclipse Carmesí",
@@ -315,3 +436,5 @@ export const DESIGNS = [
     "src": "/assets/designs/toast-existential.png"
   }
 ];
+
+export const DESIGNS=RAW_DESIGNS.filter(isPublishedDesign).map(classifyDesign);

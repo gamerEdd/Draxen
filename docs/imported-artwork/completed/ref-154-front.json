@@ -1,0 +1,24 @@
+{
+  "id": "ref-154-front",
+  "n": 154,
+  "name": "Ryuk · Luna violeta",
+  "side": "front",
+  "group": "Anime",
+  "collection": "Death Note",
+  "src": "/assets/designs/ref-154-front.png",
+  "tool": "image_gen",
+  "source": "154.jpg",
+  "reference": "C:/Users/eddgt/Documents/GitHub/Draxen/docs/imported-artwork/originals/154.jpg",
+  "status": "approved",
+  "prompt": "Edit the provided reference into ONE standalone high-resolution apparel print. Subject: Ryuk · Luna violeta, main FRONT print. The reference contains the correct target design. Faithfully recreate its actual illustration, composition, detailed linework, textures, colors and all readable lettering. Do not substitute a different front/back version. Keep the full dense detail rather than a simplified icon. Correct garment perspective and fabric distortion. Remove only the photographed garment, mannequin, decorative cups, shop, table and unrelated sale panels. Preserve artistic panels and backgrounds within the actual printed design. Genuine transparent background OUTSIDE the complete artwork, with clear margin around all edges. Crisp printable color and contours. No garment mockup. Preserve legible words and typographic hierarchy; do not invent new slogans, song titles or dates. If the source is an artwork rather than a shirt, preserve that whole artwork.",
+  "classificationReview": {
+    "date": "2026-11-14",
+    "status": "reviewed",
+    "reason": "Ryuk con manzana, ojos amarillos y silueta de shinigami; no Saint Seiya.",
+    "previous": {
+      "name": "Ryuk · Luna violeta",
+      "collection": "Saint Seiya",
+      "group": "Anime"
+    }
+  }
+}

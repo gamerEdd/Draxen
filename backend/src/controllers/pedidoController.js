@@ -99,7 +99,7 @@ export const getPedido = asyncHandler(async (req, res) => {
 });
 
 export const getPedidosUsuario = asyncHandler(async (req, res) => {
-  const page = parseInt(req.query.page) || 1;
+  const page = Math.max(1,parseInt(req.query.page)||1);
   const limit = parseInt(req.query.limit) || 10;
   const offset = (page - 1) * limit;
 
@@ -114,8 +114,8 @@ export const getPedidosUsuario = asyncHandler(async (req, res) => {
 });
 
 export const getAllPedidos = asyncHandler(async (req, res) => {
-  const page = parseInt(req.query.page) || 1;
-  const limit = parseInt(req.query.limit) || 20;
+  const page = Math.max(1,parseInt(req.query.page)||1);
+  const limit = Math.min(100,Math.max(1,parseInt(req.query.limit)||20));
   const offset = (page - 1) * limit;
 
   const pedidos = await Pedido.getAll(limit, offset);
@@ -131,6 +131,8 @@ export const getAllPedidos = asyncHandler(async (req, res) => {
 export const updateEstadoPedido = asyncHandler(async (req, res) => {
   const { id } = req.params;
   const { estado } = req.body;
+  const tracking=req.body.numero_seguimiento??'';
+  if(typeof tracking!=='string'||tracking.length>100)return res.status(400).json({success:false,message:'Guía inválida.'});
 
   const estadosValidos = ['PENDIENTE', 'CONFIRMADO', 'ENVIADO', 'ENTREGADO', 'CANCELADO'];
   if (!estadosValidos.includes(estado)) {
@@ -148,7 +150,7 @@ export const updateEstadoPedido = asyncHandler(async (req, res) => {
     });
   }
 
-  await Pedido.updateEstado(id, estado);
+  await Pedido.updateEstado(id, estado, tracking);
 
   res.json({
     success: true,

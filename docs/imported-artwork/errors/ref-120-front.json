@@ -1,0 +1,6 @@
+{
+  "id": "ref-120-front",
+  "n": 120,
+  "side": "front",
+  "error": "image generation failed: http 400 Bad Request: Some(\"{\\n  \\\"error\\\": {\\n    \\\"message\\\": \\\"Your request was rejected by the safety system. If you believe this is an error, contact us at help.openai.com and include the request ID b88de90e-3381-411d-925e-ddec2af4bcd6. safety_violations=[violence, sexual].\\\",\\n    \\\"type\\\": \\\"image_generation_user_error\\\",\\n    \\\"param\\\": null,\\n    \\\"code\\\": \\\"moderation_blocked\\\",\\n    \\\"moderation_details\\\": {\\n      \\\"moderation_stage\\\": \\\"output\\\",\\n      \\\"categories\\\": [\\n        \\\"sexual\\\",\\n        \\\"violence\\\"\\n      ]\\n    }\\n  }\\n}\")"
+}

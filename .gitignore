@@ -1,7 +1,10 @@
 node_modules/
 dist/
+frontend/.dist-staging/
+frontend/.dist-staging-*/
 .env
 .env.*
 !.env.example
 backend/data/
 *.log
+tools/cloudflared/

@@ -1,0 +1,16 @@
+{
+  "id": "ref-014-front",
+  "n": 14,
+  "name": "Lacrimosa · Elodia",
+  "side": "front",
+  "group": "Rock",
+  "collection": "Lacrimosa",
+  "src": "/assets/designs/ref-014-front.png",
+  "tool": "image_gen",
+  "source": "014.jpg",
+  "reference": "C:/Users/eddgt/Documents/GitHub/Draxen/docs/imported-artwork/reference-panels/014-front.png",
+  "status": "approved",
+  "prompt": "Faithfully recreate ONLY the LACRIMOSA ELODIA printed illustration from this reference as a standalone transparent print. The jester AND ALL LETTERS LACRIMOSA and ELODIA must be solid WHITE INK as in the reference, with transparent internal negative spaces. Preserve exact detailed silhouette, lettering shapes and arrangement. Remove shirt, shop, cups and tag. Absolutely no black letters. Full art uncropped, clean transparent alpha outside.",
+  "reviewNote": "Corregido y revisado con la referencia original.",
+  "revisionPrompt": "Clean this existing white Lacrimosa ELODIA print. Remove every stray speckle and splatter outside the letters and clown silhouette. Preserve correct readable LACRIMOSA/ELODIA lettering and clown shapes; create clean flat white ink, with transparent negative spaces and transparent background, no new decorations."
+}

@@ -1,3 +1,5 @@
+import {createCustomOrder,listCustomOrders,getCustomOrder,editCustomOrder,orderImage} from '../controllers/customOrderController.js';
+import {orderLimit} from '../middleware/limits.js';
 import express from 'express';
 import {
   createPedido,
@@ -12,9 +14,11 @@ import { authMiddleware, adminMiddleware } from '../middleware/auth.js';
 const router = express.Router();
 
 // Rutas protegidas
-router.post('/', authMiddleware, createPedido);
-router.get('/usuario/mis-pedidos', authMiddleware, getPedidosUsuario);
-router.get('/:id', authMiddleware, getPedido);
+router.post('/', authMiddleware, orderLimit,createCustomOrder);
+router.put('/:id',authMiddleware,orderLimit,editCustomOrder);
+router.get('/:id/imagen',authMiddleware,orderImage);
+router.get('/usuario/mis-pedidos', authMiddleware, listCustomOrders);
+router.get('/:id', authMiddleware, getCustomOrder);
 
 // Rutas admin
 router.get('/', authMiddleware, adminMiddleware, getAllPedidos);

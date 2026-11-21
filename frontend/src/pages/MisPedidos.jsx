@@ -1,83 +1,27 @@
-import { useState, useEffect } from 'react';
-import { useAuth } from '../context/AuthContext';
-import { api } from '../utils/api';
-import BrandLogo from '../components/BrandLogo';
-
-export default function MisPedidos() {
-  const { user, token } = useAuth();
-  const [pedidos, setPedidos] = useState([]);
-  const [loading, setLoading] = useState(true);
-
-  useEffect(() => {
-    if (!user) return;
-
-    api.getPedidosUsuario(token).then(data => {
-      if (data.success) {
-        setPedidos(data.pedidos);
-      }
-      setLoading(false);
-    });
-  }, [user, token]);
-
-  return (
-    <div className="min-h-screen bg-black py-8">
-      <div className="max-w-4xl mx-auto px-4">
-        <div className="flex items-center gap-4 mb-8">
-          <BrandLogo/>
-          <h1 className="text-4xl font-black text-white">MIS PEDIDOS</h1>
-        </div>
-
-        {loading ? (
-          <p className="text-gray-400">Cargando pedidos...</p>
-        ) : pedidos.length === 0 ? (
-          <p className="text-gray-400">No tienes pedidos aún</p>
-        ) : (
-          <div className="space-y-6">
-            {pedidos.map(pedido => (
-              <div
-                key={pedido.id}
-                className="bg-gray-900 p-6 rounded border border-gray-700"
-              >
-                <div className="grid grid-cols-1 md:grid-cols-4 gap-4 mb-4 pb-4 border-b border-gray-700">
-                  <div>
-                    <p className="text-gray-400 text-sm">Número de Pedido</p>
-                    <p className="text-white font-bold">{pedido.numero_pedido}</p>
-                  </div>
-                  <div>
-                    <p className="text-gray-400 text-sm">Total</p>
-                    <p className="text-orange-500 font-bold">${pedido.total.toFixed(2)}</p>
-                  </div>
-                  <div>
-                    <p className="text-gray-400 text-sm">Estado</p>
-                    <p className={`font-bold ${
-                      pedido.estado === 'ENTREGADO' ? 'text-green-500' :
-                      pedido.estado === 'CANCELADO' ? 'text-red-500' :
-                      'text-yellow-500'
-                    }`}>
-                      {pedido.estado}
-                    </p>
-                  </div>
-                  <div>
-                    <p className="text-gray-400 text-sm">Fecha</p>
-                    <p className="text-white">
-                      {new Date(pedido.fecha_creacion).toLocaleDateString()}
-                    </p>
-                  </div>
-                </div>
-
-                <div className="space-y-2">
-                  <p className="text-gray-400 text-sm font-bold">Productos:</p>
-                  {pedido.items && pedido.items.map(item => (
-                    <p key={item.id} className="text-gray-300">
-                      • {item.nombre} - Talla {item.talla} x{item.cantidad} - ${(item.precio_unitario * item.cantidad).toFixed(2)}
-                    </p>
-                  ))}
-                </div>
-              </div>
-            ))}
-          </div>
-        )}
-      </div>
-    </div>
-  );
+import {useState,useEffect} from 'react';
+import {Link} from 'react-router-dom';
+import {useAuth} from '../context/AuthContext';
+import {orderRequest,generateOrderImage} from '../utils/orders';
+import {garments,designs,money} from '../data/catalog';
+import {placementLabels} from '../utils/placement';
+import OrderShare from '../components/OrderShare';
+import GarmentPreview from '../components/GarmentPreview';
+import '../components/orders.css';
+const states=['PENDIENTE','CONFIRMADO','ENVIADO','ENTREGADO'];
+export function Orders({admin=false}){
+ const {token,user}=useAuth();const [orders,setOrders]=useState([]),[selected,setSelected]=useState(null),[draft,setDraft]=useState(null),[error,setError]=useState(''),[loading,setLoading]=useState(true),[busy,setBusy]=useState(false),[status,setStatus]=useState(''),[tracking,setTracking]=useState('');
+ async function load(){setError('');setLoading(true);try{const data=await orderRequest(admin?'':'/usuario/mis-pedidos',token);setOrders(data.pedidos);}catch(e){setError(e.message);}finally{setLoading(false);}}
+ useEffect(()=>{load();},[token,admin]);
+ async function open(id){setError('');try{const data=await orderRequest('/'+id,token);setSelected(data.pedido);setStatus(data.pedido.estado);setTracking(data.pedido.numero_seguimiento||'');setDraft(null);}catch(e){setError(e.message);}}
+ const change=(index,key,value)=>setDraft(d=>({...d,items:d.items.map((item,i)=>i===index?{...item,[key]:value}:item)}));
+ async function save(e){e.preventDefault();setBusy(true);setError('');try{const image=await generateOrderImage(draft.items,user.nombre);await orderRequest('/'+selected.id,token,{method:'PUT',body:{...draft,image,revision:selected.revision,requestId:crypto.randomUUID()}});await open(selected.id);await load();}catch(e){setError(e.message);}finally{setBusy(false);}}
+ async function saveStatus(e){e.preventDefault();setBusy(true);setError('');try{await orderRequest('/'+selected.id+'/estado',token,{method:'PUT',body:{estado:status,numero_seguimiento:tracking}});await open(selected.id);await load();}catch(e){setError(e.message);}finally{setBusy(false);}}
+ const Root=admin?'section':'main';
+ return <Root className="orders-page shell" id={admin?undefined:'main-content'}><span className="eyebrow">DRAXEN / {admin?'GESTIÓN':'MI CUENTA'}</span><h1>{admin?'Gestionar pedidos':'Mis pedidos'}</h1><p>Consulta el diseño, los datos y el avance de cada pedido.</p><button className="button button-outline" disabled={loading||busy} onClick={async()=>{await load();if(selected)await open(selected.id);}}>Actualizar seguimiento</button>{error&&<p className="error-message" role="alert">{error}</p>}{loading?<p role="status">Cargando pedidos…</p>:!orders.length?<p>Todavía no hay pedidos. <Link to="/personalizar">Crear una prenda</Link></p>:<div className="order-list">{orders.map(order=><button key={order.id} className="order-list-item" disabled={busy} onClick={()=>open(order.id)}><strong>{order.numero_pedido}</strong><span>{new Date(order.fecha_creacion).toLocaleDateString('es-EC',{timeZone:'America/Guayaquil'})}</span><span>{order.estado}</span><strong>{money(Number(order.total))}</strong><span>Ver detalle y seguimiento →</span></button>)}</div>}
+ {selected&&<article className="order-detail"><h2>{selected.numero_pedido}</h2><p>Estado actual: <strong>{selected.estado}</strong> · Total: {money(Number(selected.total))}</p>{selected.numero_seguimiento&&<p>Guía de envío: <strong>{selected.numero_seguimiento}</strong></p>}<ol className="order-progress">{states.map(state=><li key={state} aria-current={selected.estado===state?'step':undefined} className={states.indexOf(state)<=states.indexOf(selected.estado)?'done':''}>{state}</li>)}</ol>{selected.estado==='CANCELADO'&&<p>Pedido cancelado.</p>}<ul>{selected.historial?.map((event,i)=><li key={i}>{new Date(event.fecha).toLocaleString('es-EC',{timeZone:'America/Guayaquil'})} · {event.estado}: {event.nota}</li>)}</ul>
+ {selected.configuracion&&<><p>{selected.configuracion.contact.name} · {selected.configuracion.contact.email} · {selected.configuracion.contact.phone}</p><p>{selected.configuracion.notes}</p><div className="order-items">{selected.configuracion.items.map((item,i)=><div key={i}><GarmentPreview {...item}/><p>{designs.find(d=>d.id===item.designId)?.name} · {garments.find(g=>g.id===item.garmentId)?.name} · Talla {item.size} · {item.color} · {item.quantity} unidad(es)</p></div>)}</div><OrderShare order={selected} token={token}/>{!admin&&selected.estado==='PENDIENTE'&&!draft&&<button className="button button-dark" onClick={()=>setDraft(structuredClone(selected.configuracion))}>Editar mi pedido</button>}</>}
+ {draft&&<form className="order-edit" onSubmit={save}><h3>Editar pedido pendiente</h3><p>Al guardar se recalcula el total y se genera una imagen nueva. Vuelve a enviarla por WhatsApp para comunicar los cambios.</p>{draft.items.map((item,i)=><fieldset key={i}><legend>Prenda {i+1}</legend><label>Prenda<select value={item.garmentId} onChange={e=>change(i,'garmentId',e.target.value)}>{garments.map(g=><option key={g.id} value={g.id}>{g.name}</option>)}</select></label><label>Estampado<select value={item.designId} onChange={e=>change(i,'designId',e.target.value)}>{designs.map(d=><option key={d.id} value={d.id}>{d.name}</option>)}</select></label><label>Talla<select value={item.size} onChange={e=>change(i,'size',e.target.value)}>{['XS','S','M','L','XL','XXL'].map(s=><option key={s}>{s}</option>)}</select></label><label>Color<select value={item.color} onChange={e=>change(i,'color',e.target.value)}>{['negro','hueso','lavanda'].map(c=><option key={c}>{c}</option>)}</select></label><label>Caras<select value={item.placement} onChange={e=>change(i,'placement',e.target.value)}>{Object.entries(placementLabels).map(([value,label])=><option key={value} value={value}>{label}</option>)}</select></label><label>Posición<select value={item.printPosition} onChange={e=>change(i,'printPosition',e.target.value)}>{[['center','Centrado'],['chest','Pecho izquierdo'],['lower','Zona inferior']].map(([value,label])=><option key={value} value={value}>{label}</option>)}</select></label><label>Tamaño (%)<input type="number" min="70" max="130" value={item.printScale} onChange={e=>change(i,'printScale',Number(e.target.value))}/></label><label>Cantidad<input type="number" min="1" max="20" value={item.quantity} onChange={e=>change(i,'quantity',Number(e.target.value))}/></label><GarmentPreview {...item}/></fieldset>)}<label>Teléfono<input type="tel" maxLength={30} value={draft.contact.phone} onChange={e=>setDraft({...draft,contact:{...draft.contact,phone:e.target.value}})}/></label><label>Notas y dirección de envío<textarea maxLength={1000} value={draft.notes} onChange={e=>setDraft({...draft,notes:e.target.value})}/></label><button className="button button-dark" disabled={busy}>{busy?'Guardando…':'Guardar cambios y generar imagen'}</button><button type="button" disabled={busy} onClick={()=>setDraft(null)}>Cancelar edición</button></form>}
+ {admin&&<form className="order-edit" onSubmit={saveStatus}><h3>Actualizar seguimiento</h3><label>Estado<select value={status} onChange={e=>setStatus(e.target.value)}>{[...states,'CANCELADO'].map(s=><option key={s}>{s}</option>)}</select></label><label>Número de guía<input maxLength={100} value={tracking} onChange={e=>setTracking(e.target.value)}/></label><button className="button button-dark" disabled={busy}>Guardar seguimiento</button></form>}
+ </article>}</Root>;
 }
+export default function MisPedidos(){return <Orders/>;}

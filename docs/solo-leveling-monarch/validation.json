@@ -1,0 +1,45 @@
+{
+  "previousDesignsPreserved": 483,
+  "results": [
+    {
+      "id": "shadow-monarch-throne",
+      "src": "/assets/designs/shadow-monarch-throne.png",
+      "width": 1122,
+      "height": 1402,
+      "alphaMean": 209.77924775149327,
+      "valid": true
+    },
+    {
+      "id": "shadow-monarch-daggers",
+      "src": "/assets/designs/shadow-monarch-daggers.png",
+      "width": 1199,
+      "height": 1312,
+      "alphaMean": 189.70426892837528,
+      "valid": true
+    },
+    {
+      "id": "shadow-monarch-awakening",
+      "src": "/assets/designs/shadow-monarch-awakening.png",
+      "width": 1086,
+      "height": 1448,
+      "alphaMean": 203.57780147634892,
+      "valid": true
+    },
+    {
+      "id": "shadow-monarch-armor",
+      "src": "/assets/designs/shadow-monarch-armor.png",
+      "width": 1024,
+      "height": 1536,
+      "alphaMean": 186.06116485595703,
+      "valid": true
+    },
+    {
+      "id": "shadow-monarch-arise",
+      "src": "/assets/designs/shadow-monarch-arise.png",
+      "width": 1131,
+      "height": 1391,
+      "alphaMean": 191.47661072411313,
+      "valid": true
+    }
+  ]
+}

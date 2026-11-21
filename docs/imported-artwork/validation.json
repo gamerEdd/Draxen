@@ -1,0 +1,2410 @@
+[
+  {
+    "id": "ref-001-back",
+    "valid": true,
+    "width": 1197,
+    "height": 1315,
+    "alphaMean": 159.6803377264454,
+    "status": "approved"
+  },
+  {
+    "id": "ref-001-front",
+    "valid": true,
+    "width": 1123,
+    "height": 1400,
+    "alphaMean": 210.85517809439003,
+    "status": "approved"
+  },
+  {
+    "id": "ref-002-back",
+    "valid": true,
+    "width": 1122,
+    "height": 1402,
+    "alphaMean": 112.33331235489916,
+    "status": "approved"
+  },
+  {
+    "id": "ref-003-back",
+    "valid": true,
+    "width": 1123,
+    "height": 1400,
+    "alphaMean": 135.01842577280243,
+    "status": "approved"
+  },
+  {
+    "id": "ref-003-front",
+    "valid": true,
+    "width": 1198,
+    "height": 1313,
+    "alphaMean": 175.57760331702877,
+    "status": "approved"
+  },
+  {
+    "id": "ref-004-back",
+    "valid": true,
+    "width": 1199,
+    "height": 1312,
+    "alphaMean": 134.84133246201102,
+    "status": "approved"
+  },
+  {
+    "id": "ref-004-front",
+    "valid": true,
+    "width": 1223,
+    "height": 1286,
+    "alphaMean": 160.67661615307438,
+    "status": "approved"
+  },
+  {
+    "id": "ref-005-back",
+    "valid": true,
+    "width": 1199,
+    "height": 1312,
+    "alphaMean": 53.974176905551374,
+    "status": "approved"
+  },
+  {
+    "id": "ref-005-front",
+    "valid": true,
+    "width": 1312,
+    "height": 1199,
+    "alphaMean": 163.6144926412254,
+    "status": "approved"
+  },
+  {
+    "id": "ref-006-back",
+    "valid": true,
+    "width": 1123,
+    "height": 1400,
+    "alphaMean": 190.5623196794301,
+    "status": "approved"
+  },
+  {
+    "id": "ref-006-front",
+    "valid": true,
+    "width": 1198,
+    "height": 1313,
+    "alphaMean": 163.1382044458459,
+    "status": "approved"
+  },
+  {
+    "id": "ref-007-back",
+    "valid": true,
+    "width": 1076,
+    "height": 1462,
+    "alphaMean": 39.22762778492567,
+    "status": "approved"
+  },
+  {
+    "id": "ref-007-front",
+    "valid": true,
+    "width": 1313,
+    "height": 1198,
+    "alphaMean": 158.35360025022663,
+    "status": "approved"
+  },
+  {
+    "id": "ref-008-back",
+    "valid": true,
+    "width": 1044,
+    "height": 1507,
+    "alphaMean": 170.12320537364585,
+    "status": "approved"
+  },
+  {
+    "id": "ref-008-front",
+    "valid": true,
+    "width": 1159,
+    "height": 1357,
+    "alphaMean": 201.86206440512652,
+    "status": "approved"
+  },
+  {
+    "id": "ref-009-back",
+    "valid": true,
+    "width": 1199,
+    "height": 1312,
+    "alphaMean": 128.29923500783173,
+    "status": "approved"
+  },
+  {
+    "id": "ref-009-front",
+    "valid": true,
+    "width": 1286,
+    "height": 1223,
+    "alphaMean": 136.48708654368258,
+    "status": "approved"
+  },
+  {
+    "id": "ref-010-back",
+    "valid": true,
+    "width": 1218,
+    "height": 1292,
+    "alphaMean": 61.2123119665289,
+    "status": "approved"
+  },
+  {
+    "id": "ref-010-front",
+    "valid": true,
+    "width": 1086,
+    "height": 1448,
+    "alphaMean": 176.94224013817242,
+    "status": "approved"
+  },
+  {
+    "id": "ref-011-back",
+    "valid": true,
+    "width": 1199,
+    "height": 1312,
+    "alphaMean": 61.36716382046014,
+    "status": "approved"
+  },
+  {
+    "id": "ref-011-front",
+    "valid": true,
+    "width": 1024,
+    "height": 1536,
+    "alphaMean": 196.45737838745117,
+    "status": "approved"
+  },
+  {
+    "id": "ref-012-back",
+    "valid": true,
+    "width": 1122,
+    "height": 1402,
+    "alphaMean": 151.2181420227279,
+    "status": "approved"
+  },
+  {
+    "id": "ref-012-front",
+    "valid": true,
+    "width": 1112,
+    "height": 1414,
+    "alphaMean": 133.89874952937225,
+    "status": "approved"
+  },
+  {
+    "id": "ref-013-back",
+    "valid": true,
+    "width": 1086,
+    "height": 1448,
+    "alphaMean": 81.55692617237976,
+    "status": "approved"
+  },
+  {
+    "id": "ref-013-front",
+    "valid": true,
+    "width": 1110,
+    "height": 1417,
+    "alphaMean": 157.19689548405145,
+    "status": "approved"
+  },
+  {
+    "id": "ref-014-back",
+    "valid": true,
+    "width": 1312,
+    "height": 1199,
+    "alphaMean": 74.4634534113794,
+    "status": "approved"
+  },
+  {
+    "id": "ref-014-front",
+    "valid": true,
+    "width": 1309,
+    "height": 1201,
+    "alphaMean": 59.09646214098386,
+    "status": "approved"
+  },
+  {
+    "id": "ref-016-back",
+    "valid": true,
+    "width": 1307,
+    "height": 1203,
+    "alphaMean": 116.45050597174496,
+    "status": "approved"
+  },
+  {
+    "id": "ref-016-front",
+    "valid": true,
+    "width": 1153,
+    "height": 1364,
+    "alphaMean": 173.32478832473237,
+    "status": "approved"
+  },
+  {
+    "id": "ref-017-back",
+    "valid": true,
+    "width": 1200,
+    "height": 1311,
+    "alphaMean": 165.6337134502924,
+    "status": "approved"
+  },
+  {
+    "id": "ref-017-front",
+    "valid": true,
+    "width": 1161,
+    "height": 1354,
+    "alphaMean": 167.76815369524311,
+    "status": "approved"
+  },
+  {
+    "id": "ref-018-back",
+    "valid": true,
+    "width": 1182,
+    "height": 1331,
+    "alphaMean": 121.43326773630503,
+    "status": "approved"
+  },
+  {
+    "id": "ref-019-back",
+    "valid": true,
+    "width": 1122,
+    "height": 1402,
+    "alphaMean": 182.9117634344621,
+    "status": "approved"
+  },
+  {
+    "id": "ref-019-front",
+    "valid": true,
+    "width": 1173,
+    "height": 1341,
+    "alphaMean": 197.23501248893035,
+    "status": "approved"
+  },
+  {
+    "id": "ref-020-back",
+    "valid": true,
+    "width": 1139,
+    "height": 1381,
+    "alphaMean": 162.54497288231926,
+    "status": "approved"
+  },
+  {
+    "id": "ref-020-front",
+    "valid": true,
+    "width": 1086,
+    "height": 1448,
+    "alphaMean": 164.1662310623404,
+    "status": "approved"
+  },
+  {
+    "id": "ref-021-back",
+    "valid": true,
+    "width": 1086,
+    "height": 1448,
+    "alphaMean": 136.05799070032458,
+    "status": "approved"
+  },
+  {
+    "id": "ref-021-front",
+    "valid": true,
+    "width": 1086,
+    "height": 1448,
+    "alphaMean": 182.40362079403354,
+    "status": "approved"
+  },
+  {
+    "id": "ref-022-back",
+    "valid": true,
+    "width": 1536,
+    "height": 1024,
+    "alphaMean": 61.05889765421549,
+    "status": "approved"
+  },
+  {
+    "id": "ref-022-front",
+    "valid": true,
+    "width": 1159,
+    "height": 1356,
+    "alphaMean": 155.63493348197127,
+    "status": "approved"
+  },
+  {
+    "id": "ref-023-back",
+    "valid": true,
+    "width": 1112,
+    "height": 1415,
+    "alphaMean": 183.86947720975164,
+    "status": "approved"
+  },
+  {
+    "id": "ref-023-front",
+    "valid": true,
+    "width": 1138,
+    "height": 1382,
+    "alphaMean": 188.72786313612883,
+    "status": "approved"
+  },
+  {
+    "id": "ref-024-back",
+    "valid": true,
+    "width": 1327,
+    "height": 1186,
+    "alphaMean": 182.52564330654928,
+    "status": "approved"
+  },
+  {
+    "id": "ref-024-front",
+    "valid": true,
+    "width": 1108,
+    "height": 1420,
+    "alphaMean": 212.1723407230386,
+    "status": "approved"
+  },
+  {
+    "id": "ref-025-back",
+    "valid": true,
+    "width": 1168,
+    "height": 1346,
+    "alphaMean": 112.22877017647419,
+    "status": "approved"
+  },
+  {
+    "id": "ref-026-back",
+    "valid": true,
+    "width": 1173,
+    "height": 1341,
+    "alphaMean": 183.9668707998065,
+    "status": "approved"
+  },
+  {
+    "id": "ref-026-front",
+    "valid": true,
+    "width": 1165,
+    "height": 1350,
+    "alphaMean": 209.06852137974886,
+    "status": "approved"
+  },
+  {
+    "id": "ref-027-back",
+    "valid": true,
+    "width": 1154,
+    "height": 1363,
+    "alphaMean": 134.15755908505426,
+    "status": "approved"
+  },
+  {
+    "id": "ref-029-back",
+    "valid": true,
+    "width": 1129,
+    "height": 1393,
+    "alphaMean": 143.4453801336176,
+    "status": "approved"
+  },
+  {
+    "id": "ref-029-front",
+    "valid": true,
+    "width": 1261,
+    "height": 1247,
+    "alphaMean": 91.61291206747104,
+    "status": "approved"
+  },
+  {
+    "id": "ref-030-back",
+    "valid": true,
+    "width": 1312,
+    "height": 1199,
+    "alphaMean": 66.27466677007263,
+    "status": "approved"
+  },
+  {
+    "id": "ref-030-front",
+    "valid": true,
+    "width": 1086,
+    "height": 1448,
+    "alphaMean": 154.85380228523752,
+    "status": "approved"
+  },
+  {
+    "id": "ref-031-back",
+    "valid": true,
+    "width": 1190,
+    "height": 1322,
+    "alphaMean": 126.55543103777063,
+    "status": "approved"
+  },
+  {
+    "id": "ref-031-front",
+    "valid": true,
+    "width": 1103,
+    "height": 1426,
+    "alphaMean": 212.95808384375647,
+    "status": "approved"
+  },
+  {
+    "id": "ref-032-back",
+    "valid": true,
+    "width": 1149,
+    "height": 1369,
+    "alphaMean": 61.4172148296769,
+    "status": "approved"
+  },
+  {
+    "id": "ref-032-front",
+    "valid": true,
+    "width": 1312,
+    "height": 1199,
+    "alphaMean": 127.7146364348339,
+    "status": "approved"
+  },
+  {
+    "id": "ref-033-back",
+    "valid": true,
+    "width": 1316,
+    "height": 1195,
+    "alphaMean": 79.144784499752,
+    "status": "approved"
+  },
+  {
+    "id": "ref-033-front",
+    "valid": true,
+    "width": 1024,
+    "height": 1536,
+    "alphaMean": 223.19145011901855,
+    "status": "approved"
+  },
+  {
+    "id": "ref-034-back",
+    "valid": true,
+    "width": 1160,
+    "height": 1356,
+    "alphaMean": 51.93479490896145,
+    "status": "approved"
+  },
+  {
+    "id": "ref-034-front",
+    "valid": true,
+    "width": 1148,
+    "height": 1370,
+    "alphaMean": 208.16309862916148,
+    "status": "approved"
+  },
+  {
+    "id": "ref-035-back",
+    "valid": true,
+    "width": 1155,
+    "height": 1362,
+    "alphaMean": 96.11225534133023,
+    "status": "approved"
+  },
+  {
+    "id": "ref-035-front",
+    "valid": true,
+    "width": 1122,
+    "height": 1402,
+    "alphaMean": 136.328662771035,
+    "status": "approved"
+  },
+  {
+    "id": "ref-036-back",
+    "valid": true,
+    "width": 1199,
+    "height": 1312,
+    "alphaMean": 130.92201008462337,
+    "status": "approved"
+  },
+  {
+    "id": "ref-036-front",
+    "valid": true,
+    "width": 1145,
+    "height": 1374,
+    "alphaMean": 207.57415635348931,
+    "status": "approved"
+  },
+  {
+    "id": "ref-037-back",
+    "valid": true,
+    "width": 1185,
+    "height": 1327,
+    "alphaMean": 124.82112121183215,
+    "status": "approved"
+  },
+  {
+    "id": "ref-037-front",
+    "valid": true,
+    "width": 1089,
+    "height": 1444,
+    "alphaMean": 164.98052865598825,
+    "status": "approved"
+  },
+  {
+    "id": "ref-038-back",
+    "valid": true,
+    "width": 1132,
+    "height": 1390,
+    "alphaMean": 43.82706230775097,
+    "status": "approved"
+  },
+  {
+    "id": "ref-038-front",
+    "valid": true,
+    "width": 1181,
+    "height": 1331,
+    "alphaMean": 202.9413630924397,
+    "status": "approved"
+  },
+  {
+    "id": "ref-040-back",
+    "valid": true,
+    "width": 1136,
+    "height": 1385,
+    "alphaMean": 80.69457848172065,
+    "status": "approved"
+  },
+  {
+    "id": "ref-040-front",
+    "valid": true,
+    "width": 1130,
+    "height": 1392,
+    "alphaMean": 197.55591941308106,
+    "status": "approved"
+  },
+  {
+    "id": "ref-041-back",
+    "valid": true,
+    "width": 1312,
+    "height": 1199,
+    "alphaMean": 70.31000490754491,
+    "status": "approved"
+  },
+  {
+    "id": "ref-041-front",
+    "valid": true,
+    "width": 1200,
+    "height": 1310,
+    "alphaMean": 203.91141412213742,
+    "status": "approved"
+  },
+  {
+    "id": "ref-042-back",
+    "valid": true,
+    "width": 1128,
+    "height": 1394,
+    "alphaMean": 169.4691198093145,
+    "status": "approved"
+  },
+  {
+    "id": "ref-042-front",
+    "valid": true,
+    "width": 1187,
+    "height": 1326,
+    "alphaMean": 188.59402641232762,
+    "status": "approved"
+  },
+  {
+    "id": "ref-043-front",
+    "valid": true,
+    "width": 1168,
+    "height": 1346,
+    "alphaMean": 131.87514757068126,
+    "status": "approved"
+  },
+  {
+    "id": "ref-044-back",
+    "valid": true,
+    "width": 1158,
+    "height": 1359,
+    "alphaMean": 77.21439428310718,
+    "status": "approved"
+  },
+  {
+    "id": "ref-045-back",
+    "valid": true,
+    "width": 1536,
+    "height": 1024,
+    "alphaMean": 37.7379461924235,
+    "status": "approved"
+  },
+  {
+    "id": "ref-045-front",
+    "valid": true,
+    "width": 1103,
+    "height": 1426,
+    "alphaMean": 168.86323224051708,
+    "status": "approved"
+  },
+  {
+    "id": "ref-046-back",
+    "valid": true,
+    "width": 2172,
+    "height": 724,
+    "alphaMean": 67.73191765106885,
+    "status": "approved"
+  },
+  {
+    "id": "ref-046-front",
+    "valid": true,
+    "width": 1100,
+    "height": 1430,
+    "alphaMean": 212.61715321042593,
+    "status": "approved"
+  },
+  {
+    "id": "ref-047-back",
+    "valid": true,
+    "width": 2113,
+    "height": 744,
+    "alphaMean": 112.51932481463953,
+    "status": "approved"
+  },
+  {
+    "id": "ref-047-front",
+    "valid": true,
+    "width": 1145,
+    "height": 1374,
+    "alphaMean": 90.30559422334942,
+    "status": "approved"
+  },
+  {
+    "id": "ref-048-back",
+    "valid": true,
+    "width": 1105,
+    "height": 1423,
+    "alphaMean": 84.1572918090962,
+    "status": "approved"
+  },
+  {
+    "id": "ref-048-front",
+    "valid": true,
+    "width": 1086,
+    "height": 1448,
+    "alphaMean": 201.91161238464434,
+    "status": "approved"
+  },
+  {
+    "id": "ref-049-back",
+    "valid": true,
+    "width": 1182,
+    "height": 1331,
+    "alphaMean": 134.1615949739455,
+    "status": "approved"
+  },
+  {
+    "id": "ref-049-front",
+    "valid": true,
+    "width": 1070,
+    "height": 1470,
+    "alphaMean": 170.16224426219085,
+    "status": "approved"
+  },
+  {
+    "id": "ref-050-back",
+    "valid": true,
+    "width": 1312,
+    "height": 1199,
+    "alphaMean": 56.28529427470046,
+    "status": "approved"
+  },
+  {
+    "id": "ref-050-front",
+    "valid": true,
+    "width": 1077,
+    "height": 1460,
+    "alphaMean": 168.22524834331793,
+    "status": "approved"
+  },
+  {
+    "id": "ref-051-back",
+    "valid": true,
+    "width": 1312,
+    "height": 1199,
+    "alphaMean": 33.76292426107122,
+    "status": "approved"
+  },
+  {
+    "id": "ref-051-front",
+    "valid": true,
+    "width": 1266,
+    "height": 1243,
+    "alphaMean": 99.6375970839545,
+    "status": "approved"
+  },
+  {
+    "id": "ref-052-back",
+    "valid": true,
+    "width": 1312,
+    "height": 1199,
+    "alphaMean": 76.28701827234077,
+    "status": "approved"
+  },
+  {
+    "id": "ref-053-back",
+    "valid": true,
+    "width": 1536,
+    "height": 1024,
+    "alphaMean": 53.874220530192055,
+    "status": "approved"
+  },
+  {
+    "id": "ref-053-front",
+    "valid": true,
+    "width": 1308,
+    "height": 1203,
+    "alphaMean": 81.54874599942549,
+    "status": "approved"
+  },
+  {
+    "id": "ref-054-back",
+    "valid": true,
+    "width": 1315,
+    "height": 1196,
+    "alphaMean": 130.16845250963286,
+    "status": "approved"
+  },
+  {
+    "id": "ref-054-front",
+    "valid": true,
+    "width": 1132,
+    "height": 1389,
+    "alphaMean": 155.44845288701993,
+    "status": "approved"
+  },
+  {
+    "id": "ref-055-back",
+    "valid": true,
+    "width": 1150,
+    "height": 1368,
+    "alphaMean": 182.42289282990083,
+    "status": "approved"
+  },
+  {
+    "id": "ref-055-front",
+    "valid": true,
+    "width": 1089,
+    "height": 1444,
+    "alphaMean": 197.8383793869188,
+    "status": "approved"
+  },
+  {
+    "id": "ref-056-back",
+    "valid": true,
+    "width": 1199,
+    "height": 1312,
+    "alphaMean": 56.15432830204032,
+    "status": "approved"
+  },
+  {
+    "id": "ref-056-front",
+    "valid": true,
+    "width": 1158,
+    "height": 1358,
+    "alphaMean": 192.71073864084386,
+    "status": "approved"
+  },
+  {
+    "id": "ref-057-back",
+    "valid": true,
+    "width": 1132,
+    "height": 1390,
+    "alphaMean": 64.38312975061646,
+    "status": "approved"
+  },
+  {
+    "id": "ref-057-front",
+    "valid": true,
+    "width": 1143,
+    "height": 1376,
+    "alphaMean": 163.79123367209914,
+    "status": "approved"
+  },
+  {
+    "id": "ref-058-back",
+    "valid": true,
+    "width": 1024,
+    "height": 1536,
+    "alphaMean": 193.07678604125977,
+    "status": "approved"
+  },
+  {
+    "id": "ref-058-front",
+    "valid": true,
+    "width": 1117,
+    "height": 1409,
+    "alphaMean": 153.89846256289502,
+    "status": "approved"
+  },
+  {
+    "id": "ref-059-back",
+    "valid": true,
+    "width": 1294,
+    "height": 1216,
+    "alphaMean": 95.67713714105588,
+    "status": "approved"
+  },
+  {
+    "id": "ref-060-back",
+    "valid": true,
+    "width": 1328,
+    "height": 1184,
+    "alphaMean": 128.54146717783294,
+    "status": "approved"
+  },
+  {
+    "id": "ref-060-front",
+    "valid": true,
+    "width": 1149,
+    "height": 1368,
+    "alphaMean": 212.48800126222142,
+    "status": "approved"
+  },
+  {
+    "id": "ref-061-back",
+    "valid": true,
+    "width": 1132,
+    "height": 1389,
+    "alphaMean": 96.36984369872319,
+    "status": "approved"
+  },
+  {
+    "id": "ref-061-front",
+    "valid": true,
+    "width": 1098,
+    "height": 1433,
+    "alphaMean": 170.95663370691113,
+    "status": "approved"
+  },
+  {
+    "id": "ref-062-back",
+    "valid": true,
+    "width": 1247,
+    "height": 1261,
+    "alphaMean": 129.28106027026323,
+    "status": "approved"
+  },
+  {
+    "id": "ref-062-front",
+    "valid": true,
+    "width": 1199,
+    "height": 1312,
+    "alphaMean": 188.7926282572876,
+    "status": "approved"
+  },
+  {
+    "id": "ref-063-back",
+    "valid": true,
+    "width": 1137,
+    "height": 1383,
+    "alphaMean": 79.22586934830595,
+    "status": "approved"
+  },
+  {
+    "id": "ref-063-front",
+    "valid": true,
+    "width": 1103,
+    "height": 1426,
+    "alphaMean": 210.6456921643001,
+    "status": "approved"
+  },
+  {
+    "id": "ref-064-back",
+    "valid": true,
+    "width": 1161,
+    "height": 1354,
+    "alphaMean": 73.16217809991642,
+    "status": "approved"
+  },
+  {
+    "id": "ref-064-front",
+    "valid": true,
+    "width": 1119,
+    "height": 1406,
+    "alphaMean": 185.9015492139522,
+    "status": "approved"
+  },
+  {
+    "id": "ref-065-back",
+    "valid": true,
+    "width": 1190,
+    "height": 1322,
+    "alphaMean": 52.83770134377503,
+    "status": "approved"
+  },
+  {
+    "id": "ref-065-front",
+    "valid": true,
+    "width": 1145,
+    "height": 1374,
+    "alphaMean": 173.66582889977943,
+    "status": "approved"
+  },
+  {
+    "id": "ref-066-back",
+    "valid": true,
+    "width": 1199,
+    "height": 1312,
+    "alphaMean": 56.051979927378504,
+    "status": "approved"
+  },
+  {
+    "id": "ref-066-front",
+    "valid": true,
+    "width": 1101,
+    "height": 1429,
+    "alphaMean": 195.5525557591578,
+    "status": "approved"
+  },
+  {
+    "id": "ref-067-back",
+    "valid": true,
+    "width": 1122,
+    "height": 1402,
+    "alphaMean": 132.90615329259703,
+    "status": "approved"
+  },
+  {
+    "id": "ref-067-front",
+    "valid": true,
+    "width": 1158,
+    "height": 1358,
+    "alphaMean": 199.27020776260935,
+    "status": "approved"
+  },
+  {
+    "id": "ref-068-back",
+    "valid": true,
+    "width": 1199,
+    "height": 1312,
+    "alphaMean": 203.12633113977094,
+    "status": "approved"
+  },
+  {
+    "id": "ref-068-front",
+    "valid": true,
+    "width": 1122,
+    "height": 1402,
+    "alphaMean": 199.73911219266594,
+    "status": "approved"
+  },
+  {
+    "id": "ref-069-back",
+    "valid": true,
+    "width": 1292,
+    "height": 1218,
+    "alphaMean": 91.13544891640866,
+    "status": "approved"
+  },
+  {
+    "id": "ref-069-front",
+    "valid": true,
+    "width": 1105,
+    "height": 1424,
+    "alphaMean": 107.97316144694697,
+    "status": "approved"
+  },
+  {
+    "id": "ref-071-front",
+    "valid": true,
+    "width": 1083,
+    "height": 1453,
+    "alphaMean": 217.32216975226854,
+    "status": "approved"
+  },
+  {
+    "id": "ref-072-back",
+    "valid": true,
+    "width": 1186,
+    "height": 1326,
+    "alphaMean": 140.90644624693826,
+    "status": "approved"
+  },
+  {
+    "id": "ref-072-front",
+    "valid": true,
+    "width": 1117,
+    "height": 1409,
+    "alphaMean": 202.03215865776536,
+    "status": "approved"
+  },
+  {
+    "id": "ref-073-back",
+    "valid": true,
+    "width": 1122,
+    "height": 1402,
+    "alphaMean": 116.37755905111364,
+    "status": "approved"
+  },
+  {
+    "id": "ref-073-front",
+    "valid": true,
+    "width": 1123,
+    "height": 1401,
+    "alphaMean": 159.00653711920566,
+    "status": "approved"
+  },
+  {
+    "id": "ref-074-front",
+    "valid": true,
+    "width": 1200,
+    "height": 1310,
+    "alphaMean": 184.10472264631042,
+    "status": "approved"
+  },
+  {
+    "id": "ref-075-front",
+    "valid": true,
+    "width": 1156,
+    "height": 1361,
+    "alphaMean": 182.81529139727812,
+    "status": "approved"
+  },
+  {
+    "id": "ref-076-back",
+    "valid": true,
+    "width": 1962,
+    "height": 801,
+    "alphaMean": 95.111473171278,
+    "status": "approved"
+  },
+  {
+    "id": "ref-076-front",
+    "valid": true,
+    "width": 1151,
+    "height": 1366,
+    "alphaMean": 109.10824504250553,
+    "status": "approved"
+  },
+  {
+    "id": "ref-077-front",
+    "valid": true,
+    "width": 1140,
+    "height": 1380,
+    "alphaMean": 192.51821192473938,
+    "status": "approved"
+  },
+  {
+    "id": "ref-078-front",
+    "valid": true,
+    "width": 1212,
+    "height": 1298,
+    "alphaMean": 129.73889189766433,
+    "status": "approved"
+  },
+  {
+    "id": "ref-079-front",
+    "valid": true,
+    "width": 1086,
+    "height": 1448,
+    "alphaMean": 154.86168004639663,
+    "status": "approved"
+  },
+  {
+    "id": "ref-080-front",
+    "valid": true,
+    "width": 1378,
+    "height": 1142,
+    "alphaMean": 32.30828899976869,
+    "status": "approved"
+  },
+  {
+    "id": "ref-081-front",
+    "valid": true,
+    "width": 1159,
+    "height": 1358,
+    "alphaMean": 200.49733150689806,
+    "status": "approved"
+  },
+  {
+    "id": "ref-082-front",
+    "valid": true,
+    "width": 1086,
+    "height": 1448,
+    "alphaMean": 175.78405090402205,
+    "status": "approved"
+  },
+  {
+    "id": "ref-083-front",
+    "valid": true,
+    "width": 1194,
+    "height": 1317,
+    "alphaMean": 187.14593595667532,
+    "status": "approved"
+  },
+  {
+    "id": "ref-084-front",
+    "valid": true,
+    "width": 1254,
+    "height": 1254,
+    "alphaMean": 193.79534007921063,
+    "status": "approved"
+  },
+  {
+    "id": "ref-085-front",
+    "valid": true,
+    "width": 1254,
+    "height": 1254,
+    "alphaMean": 213.9607151850919,
+    "status": "approved"
+  },
+  {
+    "id": "ref-086-front",
+    "valid": true,
+    "width": 1536,
+    "height": 1024,
+    "alphaMean": 100.59389559427898,
+    "status": "approved"
+  },
+  {
+    "id": "ref-087-front",
+    "valid": true,
+    "width": 1402,
+    "height": 1122,
+    "alphaMean": 122.48500868380033,
+    "status": "approved"
+  },
+  {
+    "id": "ref-088-front",
+    "valid": true,
+    "width": 1194,
+    "height": 1317,
+    "alphaMean": 192.85282016256937,
+    "status": "approved"
+  },
+  {
+    "id": "ref-089-front",
+    "valid": true,
+    "width": 1217,
+    "height": 1293,
+    "alphaMean": 90.97250983584576,
+    "status": "approved"
+  },
+  {
+    "id": "ref-090-front",
+    "valid": true,
+    "width": 1096,
+    "height": 1435,
+    "alphaMean": 178.34607378112364,
+    "status": "approved"
+  },
+  {
+    "id": "ref-091-front",
+    "valid": true,
+    "width": 1312,
+    "height": 1199,
+    "alphaMean": 156.8584217793283,
+    "status": "approved"
+  },
+  {
+    "id": "ref-092-front",
+    "valid": true,
+    "width": 2172,
+    "height": 724,
+    "alphaMean": 71.0636058626619,
+    "status": "approved"
+  },
+  {
+    "id": "ref-093-front",
+    "valid": true,
+    "width": 1024,
+    "height": 1536,
+    "alphaMean": 179.74493598937988,
+    "status": "approved"
+  },
+  {
+    "id": "ref-094-front",
+    "valid": true,
+    "width": 1024,
+    "height": 1536,
+    "alphaMean": 39.476601918538414,
+    "status": "approved"
+  },
+  {
+    "id": "ref-096-front",
+    "valid": true,
+    "width": 1254,
+    "height": 1254,
+    "alphaMean": 120.06469759290208,
+    "status": "approved"
+  },
+  {
+    "id": "ref-097-front",
+    "valid": true,
+    "width": 1292,
+    "height": 1218,
+    "alphaMean": 124.22728029505814,
+    "status": "approved"
+  },
+  {
+    "id": "ref-098-front",
+    "valid": true,
+    "width": 1024,
+    "height": 1536,
+    "alphaMean": 187.76256624857584,
+    "status": "approved"
+  },
+  {
+    "id": "ref-100-front",
+    "valid": true,
+    "width": 1254,
+    "height": 1254,
+    "alphaMean": 124.33647161618705,
+    "status": "approved"
+  },
+  {
+    "id": "ref-101-front",
+    "valid": true,
+    "width": 1086,
+    "height": 1448,
+    "alphaMean": 207.27300181618386,
+    "status": "approved"
+  },
+  {
+    "id": "ref-102-front",
+    "valid": true,
+    "width": 1774,
+    "height": 887,
+    "alphaMean": 34.94415133285628,
+    "status": "approved"
+  },
+  {
+    "id": "ref-103-front",
+    "valid": true,
+    "width": 1536,
+    "height": 1024,
+    "alphaMean": 75.38124593098958,
+    "status": "approved"
+  },
+  {
+    "id": "ref-104-front",
+    "valid": true,
+    "width": 1345,
+    "height": 1170,
+    "alphaMean": 156.5149436024529,
+    "status": "approved"
+  },
+  {
+    "id": "ref-105-front",
+    "valid": true,
+    "width": 1402,
+    "height": 1122,
+    "alphaMean": 132.89726924358123,
+    "status": "approved"
+  },
+  {
+    "id": "ref-106-front",
+    "valid": true,
+    "width": 1167,
+    "height": 1347,
+    "alphaMean": 194.17179437755297,
+    "status": "approved"
+  },
+  {
+    "id": "ref-107-front",
+    "valid": true,
+    "width": 1293,
+    "height": 1217,
+    "alphaMean": 128.00162749804426,
+    "status": "approved"
+  },
+  {
+    "id": "ref-108-front",
+    "valid": true,
+    "width": 1176,
+    "height": 1337,
+    "alphaMean": 189.41782228972366,
+    "status": "approved"
+  },
+  {
+    "id": "ref-109-front",
+    "valid": true,
+    "width": 1086,
+    "height": 1448,
+    "alphaMean": 41.18151918439608,
+    "status": "approved"
+  },
+  {
+    "id": "ref-110-front",
+    "valid": true,
+    "width": 1024,
+    "height": 1536,
+    "alphaMean": 191.2809098561605,
+    "status": "approved"
+  },
+  {
+    "id": "ref-112-front",
+    "valid": true,
+    "width": 1060,
+    "height": 1484,
+    "alphaMean": 197.92791791689976,
+    "status": "approved"
+  },
+  {
+    "id": "ref-114-front",
+    "valid": true,
+    "width": 1105,
+    "height": 1423,
+    "alphaMean": 201.9033130566676,
+    "status": "approved"
+  },
+  {
+    "id": "ref-116-front",
+    "valid": true,
+    "width": 1199,
+    "height": 1312,
+    "alphaMean": 145.16394442014686,
+    "status": "approved"
+  },
+  {
+    "id": "ref-118-front",
+    "valid": true,
+    "width": 1312,
+    "height": 1199,
+    "alphaMean": 148.71705905836166,
+    "status": "approved"
+  },
+  {
+    "id": "ref-119-front",
+    "valid": true,
+    "width": 1122,
+    "height": 1402,
+    "alphaMean": 205.20968389949678,
+    "status": "approved"
+  },
+  {
+    "id": "ref-121-front",
+    "valid": true,
+    "width": 1202,
+    "height": 1308,
+    "alphaMean": 182.76527143853008,
+    "status": "approved"
+  },
+  {
+    "id": "ref-122-front",
+    "valid": true,
+    "width": 1312,
+    "height": 1199,
+    "alphaMean": 164.42640589719076,
+    "status": "approved"
+  },
+  {
+    "id": "ref-123-front",
+    "valid": true,
+    "width": 1024,
+    "height": 1536,
+    "alphaMean": 189.8724733988444,
+    "status": "approved"
+  },
+  {
+    "id": "ref-124-front",
+    "valid": true,
+    "width": 1286,
+    "height": 1223,
+    "alphaMean": 150.54529246975733,
+    "status": "approved"
+  },
+  {
+    "id": "ref-125-front",
+    "valid": true,
+    "width": 1186,
+    "height": 1327,
+    "alphaMean": 200.520617960608,
+    "status": "approved"
+  },
+  {
+    "id": "ref-126-front",
+    "valid": true,
+    "width": 1165,
+    "height": 1350,
+    "alphaMean": 178.19449117787315,
+    "status": "approved"
+  },
+  {
+    "id": "ref-127-front",
+    "valid": true,
+    "width": 1312,
+    "height": 1199,
+    "alphaMean": 158.6944067973311,
+    "status": "approved"
+  },
+  {
+    "id": "ref-128-front",
+    "valid": true,
+    "width": 1423,
+    "height": 1105,
+    "alphaMean": 97.64215998957019,
+    "status": "approved"
+  },
+  {
+    "id": "ref-129-front",
+    "valid": true,
+    "width": 1131,
+    "height": 1391,
+    "alphaMean": 95.5336770866903,
+    "status": "approved"
+  },
+  {
+    "id": "ref-130-front",
+    "valid": true,
+    "width": 1115,
+    "height": 1411,
+    "alphaMean": 115.15514106015198,
+    "status": "approved"
+  },
+  {
+    "id": "ref-132-front",
+    "valid": true,
+    "width": 1086,
+    "height": 1448,
+    "alphaMean": 152.18052079199862,
+    "status": "approved"
+  },
+  {
+    "id": "ref-133-front",
+    "valid": true,
+    "width": 1312,
+    "height": 1199,
+    "alphaMean": 111.3559209656421,
+    "status": "approved"
+  },
+  {
+    "id": "ref-134-front",
+    "valid": true,
+    "width": 1024,
+    "height": 1536,
+    "alphaMean": 208.8397585550944,
+    "status": "approved"
+  },
+  {
+    "id": "ref-135-front",
+    "valid": true,
+    "width": 1275,
+    "height": 1234,
+    "alphaMean": 141.96288429147995,
+    "status": "approved"
+  },
+  {
+    "id": "ref-136-front",
+    "valid": true,
+    "width": 1024,
+    "height": 1536,
+    "alphaMean": 118.6472708384196,
+    "status": "approved"
+  },
+  {
+    "id": "ref-138-front",
+    "valid": true,
+    "width": 1123,
+    "height": 1400,
+    "alphaMean": 205.08994084722045,
+    "status": "approved"
+  },
+  {
+    "id": "ref-139-front",
+    "valid": true,
+    "width": 1145,
+    "height": 1374,
+    "alphaMean": 143.43242246842485,
+    "status": "approved"
+  },
+  {
+    "id": "ref-140-front",
+    "valid": true,
+    "width": 1086,
+    "height": 1448,
+    "alphaMean": 72.65669800474141,
+    "status": "approved"
+  },
+  {
+    "id": "ref-141-front",
+    "valid": true,
+    "width": 1164,
+    "height": 1351,
+    "alphaMean": 170.1365184501235,
+    "status": "approved"
+  },
+  {
+    "id": "ref-143-front",
+    "valid": true,
+    "width": 1218,
+    "height": 1291,
+    "alphaMean": 191.04284620442905,
+    "status": "approved"
+  },
+  {
+    "id": "ref-146-front",
+    "valid": true,
+    "width": 1536,
+    "height": 1024,
+    "alphaMean": 121.85530789693196,
+    "status": "approved"
+  },
+  {
+    "id": "ref-147-front",
+    "valid": true,
+    "width": 1145,
+    "height": 1374,
+    "alphaMean": 198.16497842019285,
+    "status": "approved"
+  },
+  {
+    "id": "ref-148-front",
+    "valid": true,
+    "width": 1312,
+    "height": 1199,
+    "alphaMean": 107.1496438851482,
+    "status": "approved"
+  },
+  {
+    "id": "ref-149-front",
+    "valid": true,
+    "width": 1185,
+    "height": 1327,
+    "alphaMean": 140.28129628393094,
+    "status": "approved"
+  },
+  {
+    "id": "ref-150-front",
+    "valid": true,
+    "width": 1145,
+    "height": 1374,
+    "alphaMean": 181.96958740934255,
+    "status": "approved"
+  },
+  {
+    "id": "ref-151-front",
+    "valid": true,
+    "width": 1147,
+    "height": 1371,
+    "alphaMean": 161.46667010060813,
+    "status": "approved"
+  },
+  {
+    "id": "ref-152-front",
+    "valid": true,
+    "width": 1316,
+    "height": 1195,
+    "alphaMean": 133.5909444112373,
+    "status": "approved"
+  },
+  {
+    "id": "ref-153-front",
+    "valid": true,
+    "width": 1086,
+    "height": 1448,
+    "alphaMean": 183.86446855000355,
+    "status": "approved"
+  },
+  {
+    "id": "ref-154-front",
+    "valid": true,
+    "width": 1312,
+    "height": 1199,
+    "alphaMean": 205.32694865131512,
+    "status": "approved"
+  },
+  {
+    "id": "ref-155-front",
+    "valid": true,
+    "width": 1137,
+    "height": 1383,
+    "alphaMean": 181.83670350677374,
+    "status": "approved"
+  },
+  {
+    "id": "ref-156-front",
+    "valid": true,
+    "width": 1206,
+    "height": 1305,
+    "alphaMean": 168.23589333028346,
+    "status": "approved"
+  },
+  {
+    "id": "ref-157-front",
+    "valid": true,
+    "width": 1086,
+    "height": 1448,
+    "alphaMean": 204.91330837988258,
+    "status": "approved"
+  },
+  {
+    "id": "ref-158-front",
+    "valid": true,
+    "width": 1145,
+    "height": 1374,
+    "alphaMean": 148.99290059304744,
+    "status": "approved"
+  },
+  {
+    "id": "ref-159-front",
+    "valid": true,
+    "width": 1086,
+    "height": 1448,
+    "alphaMean": 185.59104066827427,
+    "status": "approved"
+  },
+  {
+    "id": "ref-160-front",
+    "valid": true,
+    "width": 1086,
+    "height": 1448,
+    "alphaMean": 174.7778481527833,
+    "status": "approved"
+  },
+  {
+    "id": "ref-161-front",
+    "valid": true,
+    "width": 1199,
+    "height": 1312,
+    "alphaMean": 157.64385654203707,
+    "status": "approved"
+  },
+  {
+    "id": "ref-162-front",
+    "valid": true,
+    "width": 1182,
+    "height": 1331,
+    "alphaMean": 118.38155414106666,
+    "status": "approved"
+  },
+  {
+    "id": "ref-163-front",
+    "valid": true,
+    "width": 1127,
+    "height": 1396,
+    "alphaMean": 181.5295692090216,
+    "status": "approved"
+  },
+  {
+    "id": "ref-164-front",
+    "valid": true,
+    "width": 1196,
+    "height": 1315,
+    "alphaMean": 173.45415008202247,
+    "status": "approved"
+  },
+  {
+    "id": "ref-165-front",
+    "valid": true,
+    "width": 1468,
+    "height": 1071,
+    "alphaMean": 137.89911959334142,
+    "status": "approved"
+  },
+  {
+    "id": "ref-166-front",
+    "valid": true,
+    "width": 1312,
+    "height": 1199,
+    "alphaMean": 178.25509316707013,
+    "status": "approved"
+  },
+  {
+    "id": "ref-167-front",
+    "valid": true,
+    "width": 1145,
+    "height": 1374,
+    "alphaMean": 191.06500384559155,
+    "status": "approved"
+  },
+  {
+    "id": "ref-168-front",
+    "valid": true,
+    "width": 1086,
+    "height": 1448,
+    "alphaMean": 189.86189625876295,
+    "status": "approved"
+  },
+  {
+    "id": "ref-169-front",
+    "valid": true,
+    "width": 1179,
+    "height": 1334,
+    "alphaMean": 115.64365399997203,
+    "status": "approved"
+  },
+  {
+    "id": "ref-170-front",
+    "valid": true,
+    "width": 1086,
+    "height": 1448,
+    "alphaMean": 186.29656514860147,
+    "status": "approved"
+  },
+  {
+    "id": "ref-171-front",
+    "valid": true,
+    "width": 1218,
+    "height": 1292,
+    "alphaMean": 131.91768849100438,
+    "status": "approved"
+  },
+  {
+    "id": "ref-172-front",
+    "valid": true,
+    "width": 1034,
+    "height": 1521,
+    "alphaMean": 214.83148938713586,
+    "status": "approved"
+  },
+  {
+    "id": "ref-173-front",
+    "valid": true,
+    "width": 1312,
+    "height": 1199,
+    "alphaMean": 144.32597222787282,
+    "status": "approved"
+  },
+  {
+    "id": "ref-174-front",
+    "valid": true,
+    "width": 1106,
+    "height": 1422,
+    "alphaMean": 196.7310883227403,
+    "status": "approved"
+  },
+  {
+    "id": "ref-175-front",
+    "valid": true,
+    "width": 1254,
+    "height": 1254,
+    "alphaMean": 213.60030804138083,
+    "status": "approved"
+  },
+  {
+    "id": "ref-176-front",
+    "valid": true,
+    "width": 1254,
+    "height": 1254,
+    "alphaMean": 213.7904886182398,
+    "status": "approved"
+  },
+  {
+    "id": "ref-177-front",
+    "valid": true,
+    "width": 1254,
+    "height": 1254,
+    "alphaMean": 195.6262969661358,
+    "status": "approved"
+  },
+  {
+    "id": "ref-178-front",
+    "valid": true,
+    "width": 1084,
+    "height": 1451,
+    "alphaMean": 136.56533857550843,
+    "status": "approved"
+  },
+  {
+    "id": "ref-179-front",
+    "valid": true,
+    "width": 1254,
+    "height": 1254,
+    "alphaMean": 176.70704272643331,
+    "status": "approved"
+  },
+  {
+    "id": "ref-180-front",
+    "valid": true,
+    "width": 1254,
+    "height": 1254,
+    "alphaMean": 212.08555652215938,
+    "status": "approved"
+  },
+  {
+    "id": "ref-181-front",
+    "valid": true,
+    "width": 1086,
+    "height": 1448,
+    "alphaMean": 204.57591343365587,
+    "status": "approved"
+  },
+  {
+    "id": "ref-182-front",
+    "valid": true,
+    "width": 1086,
+    "height": 1448,
+    "alphaMean": 195.04709932033006,
+    "status": "approved"
+  },
+  {
+    "id": "ref-183-front",
+    "valid": true,
+    "width": 1086,
+    "height": 1448,
+    "alphaMean": 198.18108103639491,
+    "status": "approved"
+  },
+  {
+    "id": "ref-184-front",
+    "valid": true,
+    "width": 1086,
+    "height": 1448,
+    "alphaMean": 220.1799643631147,
+    "status": "approved"
+  },
+  {
+    "id": "ref-185-front",
+    "valid": true,
+    "width": 1089,
+    "height": 1444,
+    "alphaMean": 207.23259095614927,
+    "status": "approved"
+  },
+  {
+    "id": "ref-186-front",
+    "valid": true,
+    "width": 1024,
+    "height": 1536,
+    "alphaMean": 222.95378303527832,
+    "status": "approved"
+  },
+  {
+    "id": "ref-187-front",
+    "valid": true,
+    "width": 1087,
+    "height": 1446,
+    "alphaMean": 223.63662789588003,
+    "status": "approved"
+  },
+  {
+    "id": "ref-188-front",
+    "valid": true,
+    "width": 1024,
+    "height": 1536,
+    "alphaMean": 224.92003313700357,
+    "status": "approved"
+  },
+  {
+    "id": "ref-189-front",
+    "valid": true,
+    "width": 1024,
+    "height": 1536,
+    "alphaMean": 218.58500989278158,
+    "status": "approved"
+  },
+  {
+    "id": "ref-190-front",
+    "valid": true,
+    "width": 1054,
+    "height": 1492,
+    "alphaMean": 222.7563208713391,
+    "status": "approved"
+  },
+  {
+    "id": "ref-191-front",
+    "valid": true,
+    "width": 1086,
+    "height": 1448,
+    "alphaMean": 197.7258064721264,
+    "status": "approved"
+  },
+  {
+    "id": "ref-192-front",
+    "valid": true,
+    "width": 1402,
+    "height": 1122,
+    "alphaMean": 207.32978098514727,
+    "status": "approved"
+  },
+  {
+    "id": "ref-193-front",
+    "valid": true,
+    "width": 1254,
+    "height": 1254,
+    "alphaMean": 185.29395312988865,
+    "status": "approved"
+  },
+  {
+    "id": "ref-194-front",
+    "valid": true,
+    "width": 1128,
+    "height": 1394,
+    "alphaMean": 211.36970056574785,
+    "status": "approved"
+  },
+  {
+    "id": "ref-195-front",
+    "valid": true,
+    "width": 1024,
+    "height": 1536,
+    "alphaMean": 214.97695032755533,
+    "status": "approved"
+  },
+  {
+    "id": "ref-198-front",
+    "valid": true,
+    "width": 1086,
+    "height": 1448,
+    "alphaMean": 136.05707179776766,
+    "status": "approved"
+  },
+  {
+    "id": "ref-199-front",
+    "valid": true,
+    "width": 1199,
+    "height": 1312,
+    "alphaMean": 185.607373522651,
+    "status": "approved"
+  },
+  {
+    "id": "ref-200-front",
+    "valid": true,
+    "width": 1131,
+    "height": 1391,
+    "alphaMean": 148.39343042077368,
+    "status": "approved"
+  },
+  {
+    "id": "ref-201-front",
+    "valid": true,
+    "width": 1086,
+    "height": 1448,
+    "alphaMean": 199.12958815359727,
+    "status": "approved"
+  },
+  {
+    "id": "ref-202-front",
+    "valid": true,
+    "width": 1199,
+    "height": 1312,
+    "alphaMean": 176.10577539209504,
+    "status": "approved"
+  },
+  {
+    "id": "ref-203-front",
+    "valid": true,
+    "width": 1114,
+    "height": 1411,
+    "alphaMean": 182.282723459049,
+    "status": "approved"
+  },
+  {
+    "id": "ref-204-front",
+    "valid": true,
+    "width": 1200,
+    "height": 1310,
+    "alphaMean": 123.3288524173028,
+    "status": "approved"
+  },
+  {
+    "id": "ref-206-front",
+    "valid": true,
+    "width": 1024,
+    "height": 1536,
+    "alphaMean": 180.5949935913086,
+    "status": "approved"
+  },
+  {
+    "id": "ref-207-front",
+    "valid": true,
+    "width": 1105,
+    "height": 1424,
+    "alphaMean": 197.36420509431085,
+    "status": "approved"
+  },
+  {
+    "id": "ref-208-front",
+    "valid": true,
+    "width": 1290,
+    "height": 1219,
+    "alphaMean": 183.14838697369174,
+    "status": "approved"
+  },
+  {
+    "id": "ref-209-front",
+    "valid": true,
+    "width": 1218,
+    "height": 1291,
+    "alphaMean": 134.89667191965597,
+    "status": "approved"
+  },
+  {
+    "id": "ref-211-front",
+    "valid": true,
+    "width": 1131,
+    "height": 1391,
+    "alphaMean": 187.12571914562545,
+    "status": "approved"
+  },
+  {
+    "id": "ref-212-front",
+    "valid": true,
+    "width": 1199,
+    "height": 1312,
+    "alphaMean": 183.65405241156247,
+    "status": "approved"
+  },
+  {
+    "id": "ref-213-front",
+    "valid": true,
+    "width": 1086,
+    "height": 1448,
+    "alphaMean": 180.39619771476248,
+    "status": "approved"
+  },
+  {
+    "id": "ref-214-front",
+    "valid": true,
+    "width": 1199,
+    "height": 1312,
+    "alphaMean": 175.824346762546,
+    "status": "approved"
+  },
+  {
+    "id": "ref-215-front",
+    "valid": true,
+    "width": 1278,
+    "height": 1230,
+    "alphaMean": 131.2070473427739,
+    "status": "approved"
+  },
+  {
+    "id": "ref-216-front",
+    "valid": true,
+    "width": 1120,
+    "height": 1404,
+    "alphaMean": 197.47888176638176,
+    "status": "approved"
+  },
+  {
+    "id": "ref-218-front",
+    "valid": true,
+    "width": 1159,
+    "height": 1356,
+    "alphaMean": 159.35460904909888,
+    "status": "approved"
+  },
+  {
+    "id": "ref-219-front",
+    "valid": true,
+    "width": 1122,
+    "height": 1402,
+    "alphaMean": 189.90672034602974,
+    "status": "approved"
+  },
+  {
+    "id": "ref-220-front",
+    "valid": true,
+    "width": 1199,
+    "height": 1312,
+    "alphaMean": 159.2315687361419,
+    "status": "approved"
+  },
+  {
+    "id": "ref-221-front",
+    "valid": true,
+    "width": 1106,
+    "height": 1422,
+    "alphaMean": 132.68307251330805,
+    "status": "approved"
+  },
+  {
+    "id": "ref-222-front",
+    "valid": true,
+    "width": 1086,
+    "height": 1448,
+    "alphaMean": 186.6080947366279,
+    "status": "approved"
+  },
+  {
+    "id": "ref-223-front",
+    "valid": true,
+    "width": 1111,
+    "height": 1416,
+    "alphaMean": 198.6425937085234,
+    "status": "approved"
+  },
+  {
+    "id": "ref-224-front",
+    "valid": true,
+    "width": 1287,
+    "height": 1222,
+    "alphaMean": 179.2581174962517,
+    "status": "approved"
+  },
+  {
+    "id": "ref-225-front",
+    "valid": true,
+    "width": 1086,
+    "height": 1448,
+    "alphaMean": 189.4571746894173,
+    "status": "approved"
+  },
+  {
+    "id": "ref-226-front",
+    "valid": true,
+    "width": 1199,
+    "height": 1312,
+    "alphaMean": 158.92792583758825,
+    "status": "approved"
+  },
+  {
+    "id": "ref-227-front",
+    "valid": true,
+    "width": 1157,
+    "height": 1359,
+    "alphaMean": 196.7072953255705,
+    "status": "approved"
+  },
+  {
+    "id": "ref-228-front",
+    "valid": true,
+    "width": 1058,
+    "height": 1486,
+    "alphaMean": 209.46979941330173,
+    "status": "approved"
+  },
+  {
+    "id": "ref-229-front",
+    "valid": true,
+    "width": 1086,
+    "height": 1448,
+    "alphaMean": 206.0513262720918,
+    "status": "approved"
+  },
+  {
+    "id": "ref-230-front",
+    "valid": true,
+    "width": 1123,
+    "height": 1400,
+    "alphaMean": 210.43932769367765,
+    "status": "approved"
+  },
+  {
+    "id": "ref-231-front",
+    "valid": true,
+    "width": 1211,
+    "height": 1299,
+    "alphaMean": 188.82106288963942,
+    "status": "approved"
+  },
+  {
+    "id": "ref-232-front",
+    "valid": true,
+    "width": 1122,
+    "height": 1402,
+    "alphaMean": 194.05676065005176,
+    "status": "approved"
+  },
+  {
+    "id": "ref-233-front",
+    "valid": true,
+    "width": 1086,
+    "height": 1448,
+    "alphaMean": 188.6285147227903,
+    "status": "approved"
+  },
+  {
+    "id": "ref-234-front",
+    "valid": true,
+    "width": 1086,
+    "height": 1448,
+    "alphaMean": 194.52829075221555,
+    "status": "approved"
+  },
+  {
+    "id": "ref-235-front",
+    "valid": true,
+    "width": 1312,
+    "height": 1199,
+    "alphaMean": 73.5797933745601,
+    "status": "approved"
+  },
+  {
+    "id": "ref-236-front",
+    "valid": true,
+    "width": 1154,
+    "height": 1363,
+    "alphaMean": 187.4486814817452,
+    "status": "approved"
+  },
+  {
+    "id": "ref-237-front",
+    "valid": true,
+    "width": 1145,
+    "height": 1374,
+    "alphaMean": 183.22197135828836,
+    "status": "approved"
+  },
+  {
+    "id": "ref-238-front",
+    "valid": true,
+    "width": 1297,
+    "height": 1212,
+    "alphaMean": 178.73485970416624,
+    "status": "approved"
+  },
+  {
+    "id": "ref-239-front",
+    "valid": true,
+    "width": 1115,
+    "height": 1411,
+    "alphaMean": 199.82173823227492,
+    "status": "approved"
+  },
+  {
+    "id": "ref-240-front",
+    "valid": true,
+    "width": 1179,
+    "height": 1334,
+    "alphaMean": 180.27548439520697,
+    "status": "approved"
+  },
+  {
+    "id": "ref-241-front",
+    "valid": true,
+    "width": 1219,
+    "height": 1290,
+    "alphaMean": 148.77519570622763,
+    "status": "approved"
+  },
+  {
+    "id": "ref-242-front",
+    "valid": true,
+    "width": 1086,
+    "height": 1448,
+    "alphaMean": 174.441901829411,
+    "status": "approved"
+  },
+  {
+    "id": "ref-243-front",
+    "valid": true,
+    "width": 1155,
+    "height": 1362,
+    "alphaMean": 174.1062049062049,
+    "status": "approved"
+  },
+  {
+    "id": "ref-244-front",
+    "valid": true,
+    "width": 1024,
+    "height": 1536,
+    "alphaMean": 156.37354596455893,
+    "status": "approved"
+  },
+  {
+    "id": "ref-245-front",
+    "valid": true,
+    "width": 1086,
+    "height": 1448,
+    "alphaMean": 166.6236423135232,
+    "status": "approved"
+  },
+  {
+    "id": "ref-246-front",
+    "valid": true,
+    "width": 1122,
+    "height": 1402,
+    "alphaMean": 189.61173559035856,
+    "status": "approved"
+  },
+  {
+    "id": "ref-247-front",
+    "valid": true,
+    "width": 1122,
+    "height": 1402,
+    "alphaMean": 211.22383162835877,
+    "status": "approved"
+  },
+  {
+    "id": "ref-248-front",
+    "valid": true,
+    "width": 1149,
+    "height": 1368,
+    "alphaMean": 213.54455883325954,
+    "status": "approved"
+  },
+  {
+    "id": "ref-249-front",
+    "valid": true,
+    "width": 1024,
+    "height": 1536,
+    "alphaMean": 195.0460745493571,
+    "status": "approved"
+  },
+  {
+    "id": "ref-250-front",
+    "valid": true,
+    "width": 1086,
+    "height": 1448,
+    "alphaMean": 205.9138877018406,
+    "status": "approved"
+  },
+  {
+    "id": "ref-251-front",
+    "valid": true,
+    "width": 941,
+    "height": 1672,
+    "alphaMean": 208.81826380873449,
+    "status": "approved"
+  },
+  {
+    "id": "ref-252-front",
+    "valid": true,
+    "width": 1086,
+    "height": 1448,
+    "alphaMean": 193.68468033637558,
+    "status": "approved"
+  },
+  {
+    "id": "ref-253-front",
+    "valid": true,
+    "width": 1086,
+    "height": 1448,
+    "alphaMean": 213.46968003113457,
+    "status": "approved"
+  },
+  {
+    "id": "ref-254-front",
+    "valid": true,
+    "width": 1086,
+    "height": 1448,
+    "alphaMean": 219.18937850391217,
+    "status": "approved"
+  },
+  {
+    "id": "ref-255-front",
+    "valid": true,
+    "width": 1086,
+    "height": 1448,
+    "alphaMean": 191.48644412054983,
+    "status": "approved"
+  },
+  {
+    "id": "ref-256-front",
+    "valid": true,
+    "width": 1024,
+    "height": 1536,
+    "alphaMean": 224.66274197896323,
+    "status": "approved"
+  },
+  {
+    "id": "ref-257-front",
+    "valid": true,
+    "width": 1086,
+    "height": 1448,
+    "alphaMean": 220.10776787440352,
+    "status": "approved"
+  },
+  {
+    "id": "ref-258-front",
+    "valid": true,
+    "width": 1024,
+    "height": 1536,
+    "alphaMean": 223.0665454864502,
+    "status": "approved"
+  },
+  {
+    "id": "ref-259-front",
+    "valid": true,
+    "width": 1024,
+    "height": 1536,
+    "alphaMean": 223.87622769673666,
+    "status": "approved"
+  },
+  {
+    "id": "ref-260-front",
+    "valid": true,
+    "width": 1024,
+    "height": 1536,
+    "alphaMean": 217.54739697774252,
+    "status": "approved"
+  },
+  {
+    "id": "ref-261-front",
+    "valid": true,
+    "width": 1086,
+    "height": 1448,
+    "alphaMean": 194.7753356379028,
+    "status": "approved"
+  }
+]

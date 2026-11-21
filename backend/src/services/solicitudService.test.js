@@ -61,3 +61,25 @@ test('concurrent requests persist as separate complete private records', async (
     await rm(directory, { recursive: true, force: true });
   }
 });
+
+test('preserves double-sided placement and print position', () => {
+ const body = valid();
+ body.items[0].placement = 'both';
+ body.items[0].printPosition = 'chest';
+ const result = validateSolicitud(body);
+ assert.equal(result.items[0].placement, 'both');
+ assert.equal(result.items[0].printPosition, 'chest');
+ body.items[0].printPosition = 'outside';
+ assert.throws(() => validateSolicitud(body), SolicitudValidationError);
+});
+
+ test('preserves the main side and opposite miniature in requests', () => {
+ for (const placement of ['front-mini', 'back-mini']) {
+  const body = valid();
+  body.items[0] = {...body.items[0], placement, printPosition:'lower', printScale:125};
+  const item = validateSolicitud(body).items[0];
+  assert.equal(item.placement, placement);
+  assert.equal(item.printPosition, 'lower');
+  assert.equal(item.printScale, 125);
+ }
+});

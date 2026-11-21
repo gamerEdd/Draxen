@@ -4,7 +4,10 @@ import { generateToken } from '../config/jwt.js';
 import { asyncHandler } from '../utils/errors.js';
 
 export const register = asyncHandler(async (req, res) => {
-  const { nombre, email, password } = req.body;
+  const {password}=req.body;
+  const nombre=typeof req.body.nombre==='string'?req.body.nombre.trim():'';
+  const email=typeof req.body.email==='string'?req.body.email.trim().toLowerCase():'';
+  if(!nombre||nombre.length>100||email.length>100||!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)||typeof password!=='string'||password.length<8||Buffer.byteLength(password)>72)return res.status(400).json({success:false,message:'Revisa nombre, correo y contraseña (8 caracteres mínimo, 72 bytes máximo).'});
 
   // Validar
   if (!nombre || !email || !password) {
@@ -51,7 +54,9 @@ export const register = asyncHandler(async (req, res) => {
 });
 
 export const login = asyncHandler(async (req, res) => {
-  const { email, password } = req.body;
+  const email=typeof req.body.email==='string'?req.body.email.trim().toLowerCase():'';
+  const {password}=req.body;
+  if(typeof password!=='string'||Buffer.byteLength(password)>72||email.length>100)return res.status(400).json({success:false,message:'Credenciales inválidas.'});
 
   // Validar
   if (!email || !password) {
@@ -63,7 +68,7 @@ export const login = asyncHandler(async (req, res) => {
 
   // Buscar usuario
   const usuario = await Usuario.findByEmail(email);
-  if (!usuario) {
+  if (!usuario || !usuario.activo) {
     return res.status(401).json({ 
       success: false, 
       message: 'Email o contraseña incorrectos' 

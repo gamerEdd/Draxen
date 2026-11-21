@@ -1,0 +1,3350 @@
+{
+  "sources": 261,
+  "artworks": 334,
+  "counts": {
+    "approved": 301,
+    "generation-rejected": 33
+  },
+  "rows": [
+    {
+      "id": "ref-001-front",
+      "source": 1,
+      "side": "front",
+      "name": "Iron Maiden · Run for Your Lives",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-001-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-001-back",
+      "source": 1,
+      "side": "back",
+      "name": "Iron Maiden · Run for Your Lives",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-001-back.png",
+      "note": ""
+    },
+    {
+      "id": "ref-002-front",
+      "source": 2,
+      "side": "front",
+      "name": "Avenged Sevenfold · Deathbat",
+      "group": "Rock",
+      "status": "generation-rejected",
+      "src": null,
+      "note": "El generador rechazó la solicitud; original conservado."
+    },
+    {
+      "id": "ref-002-back",
+      "source": 2,
+      "side": "back",
+      "name": "Avenged Sevenfold · Deathbat",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-002-back.png",
+      "note": ""
+    },
+    {
+      "id": "ref-003-front",
+      "source": 3,
+      "side": "front",
+      "name": "Sodom · Agent Orange",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-003-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-003-back",
+      "source": 3,
+      "side": "back",
+      "name": "Sodom · Agent Orange",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-003-back.png",
+      "note": ""
+    },
+    {
+      "id": "ref-004-front",
+      "source": 4,
+      "side": "front",
+      "name": "Barón Rojo · Aviador",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-004-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-004-back",
+      "source": 4,
+      "side": "back",
+      "name": "Barón Rojo · Aviador",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-004-back.png",
+      "note": ""
+    },
+    {
+      "id": "ref-005-front",
+      "source": 5,
+      "side": "front",
+      "name": "Los Suaves · Gato negro",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-005-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-005-back",
+      "source": 5,
+      "side": "back",
+      "name": "Los Suaves · Gato negro",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-005-back.png",
+      "note": "Corregido y revisado con la referencia original."
+    },
+    {
+      "id": "ref-006-front",
+      "source": 6,
+      "side": "front",
+      "name": "La Parca · Serpiente y cráneo",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-006-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-006-back",
+      "source": 6,
+      "side": "back",
+      "name": "La Parca · Serpiente y cráneo",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-006-back.png",
+      "note": ""
+    },
+    {
+      "id": "ref-007-front",
+      "source": 7,
+      "side": "front",
+      "name": "2 Minutos · Valentín Alsina",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-007-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-007-back",
+      "source": 7,
+      "side": "back",
+      "name": "2 Minutos · Valentín Alsina",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-007-back.png",
+      "note": "Corregido y revisado con la referencia original."
+    },
+    {
+      "id": "ref-008-front",
+      "source": 8,
+      "side": "front",
+      "name": "Iron Maiden · World Tour",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-008-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-008-back",
+      "source": 8,
+      "side": "back",
+      "name": "Iron Maiden · World Tour",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-008-back.png",
+      "note": ""
+    },
+    {
+      "id": "ref-009-front",
+      "source": 9,
+      "side": "front",
+      "name": "Rammstein · Sehnsucht emblema",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-009-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-009-back",
+      "source": 9,
+      "side": "back",
+      "name": "Rammstein · Sehnsucht emblema",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-009-back.png",
+      "note": ""
+    },
+    {
+      "id": "ref-010-front",
+      "source": 10,
+      "side": "front",
+      "name": "Slipknot · Máscaras y estrella",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-010-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-010-back",
+      "source": 10,
+      "side": "back",
+      "name": "Slipknot · Máscaras y estrella",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-010-back.png",
+      "note": ""
+    },
+    {
+      "id": "ref-011-front",
+      "source": 11,
+      "side": "front",
+      "name": "Nokturnal Mortum · Bosque",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-011-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-011-back",
+      "source": 11,
+      "side": "back",
+      "name": "Nokturnal Mortum · Bosque",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-011-back.png",
+      "note": ""
+    },
+    {
+      "id": "ref-012-front",
+      "source": 12,
+      "side": "front",
+      "name": "Sagitario · Armadura dorada",
+      "group": "Anime",
+      "status": "approved",
+      "src": "/assets/designs/ref-012-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-012-back",
+      "source": 12,
+      "side": "back",
+      "name": "Sagitario · Armadura dorada",
+      "group": "Anime",
+      "status": "approved",
+      "src": "/assets/designs/ref-012-back.png",
+      "note": ""
+    },
+    {
+      "id": "ref-013-front",
+      "source": 13,
+      "side": "front",
+      "name": "Death · Human",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-013-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-013-back",
+      "source": 13,
+      "side": "back",
+      "name": "Death · Human",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-013-back.png",
+      "note": ""
+    },
+    {
+      "id": "ref-014-front",
+      "source": 14,
+      "side": "front",
+      "name": "Lacrimosa · Elodia",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-014-front.png",
+      "note": "Corregido y revisado con la referencia original."
+    },
+    {
+      "id": "ref-014-back",
+      "source": 14,
+      "side": "back",
+      "name": "Lacrimosa · Elodia",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-014-back.png",
+      "note": ""
+    },
+    {
+      "id": "ref-015-front",
+      "source": 15,
+      "side": "front",
+      "name": "AC/DC · Back in Black",
+      "group": "Rock",
+      "status": "generation-rejected",
+      "src": null,
+      "note": "El generador rechazó la solicitud; original conservado."
+    },
+    {
+      "id": "ref-015-back",
+      "source": 15,
+      "side": "back",
+      "name": "AC/DC · Back in Black",
+      "group": "Rock",
+      "status": "generation-rejected",
+      "src": null,
+      "note": "El generador rechazó la solicitud; original conservado."
+    },
+    {
+      "id": "ref-016-front",
+      "source": 16,
+      "side": "front",
+      "name": "Gorillaz · Grupo verde",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-016-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-016-back",
+      "source": 16,
+      "side": "back",
+      "name": "Gorillaz · Grupo verde",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-016-back.png",
+      "note": ""
+    },
+    {
+      "id": "ref-017-front",
+      "source": 17,
+      "side": "front",
+      "name": "Megadeth · Fire in Latin America",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-017-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-017-back",
+      "source": 17,
+      "side": "back",
+      "name": "Megadeth · Fire in Latin America",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-017-back.png",
+      "note": ""
+    },
+    {
+      "id": "ref-018-front",
+      "source": 18,
+      "side": "front",
+      "name": "Slayer · Show No Mercy",
+      "group": "Rock",
+      "status": "generation-rejected",
+      "src": null,
+      "note": "El generador rechazó la solicitud; original conservado."
+    },
+    {
+      "id": "ref-018-back",
+      "source": 18,
+      "side": "back",
+      "name": "Slayer · Show No Mercy",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-018-back.png",
+      "note": ""
+    },
+    {
+      "id": "ref-019-front",
+      "source": 19,
+      "side": "front",
+      "name": "Metallica · Ride the Lightning",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-019-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-019-back",
+      "source": 19,
+      "side": "back",
+      "name": "Metallica · Ride the Lightning",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-019-back.png",
+      "note": ""
+    },
+    {
+      "id": "ref-020-front",
+      "source": 20,
+      "side": "front",
+      "name": "Misfits · Fiend verde",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-020-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-020-back",
+      "source": 20,
+      "side": "back",
+      "name": "Misfits · Fiend verde",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-020-back.png",
+      "note": ""
+    },
+    {
+      "id": "ref-021-front",
+      "source": 21,
+      "side": "front",
+      "name": "Linkin Park · Meteora",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-021-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-021-back",
+      "source": 21,
+      "side": "back",
+      "name": "Linkin Park · Meteora",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-021-back.png",
+      "note": ""
+    },
+    {
+      "id": "ref-022-front",
+      "source": 22,
+      "side": "front",
+      "name": "Nirvana · Kurt Cobain ángel",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-022-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-022-back",
+      "source": 22,
+      "side": "back",
+      "name": "Nirvana · Kurt Cobain ángel",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-022-back.png",
+      "note": ""
+    },
+    {
+      "id": "ref-023-front",
+      "source": 23,
+      "side": "front",
+      "name": "Black Sabbath · Back to the Beginning",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-023-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-023-back",
+      "source": 23,
+      "side": "back",
+      "name": "Black Sabbath · Back to the Beginning",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-023-back.png",
+      "note": ""
+    },
+    {
+      "id": "ref-024-front",
+      "source": 24,
+      "side": "front",
+      "name": "La Parca · Portal nocturno",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-024-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-024-back",
+      "source": 24,
+      "side": "back",
+      "name": "La Parca · Portal nocturno",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-024-back.png",
+      "note": ""
+    },
+    {
+      "id": "ref-025-front",
+      "source": 25,
+      "side": "front",
+      "name": "Marilyn Manson · Retrato",
+      "group": "Rock",
+      "status": "generation-rejected",
+      "src": null,
+      "note": "El generador rechazó la solicitud; original conservado."
+    },
+    {
+      "id": "ref-025-back",
+      "source": 25,
+      "side": "back",
+      "name": "Marilyn Manson · Retrato",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-025-back.png",
+      "note": ""
+    },
+    {
+      "id": "ref-026-front",
+      "source": 26,
+      "side": "front",
+      "name": "Metallica · Master of Puppets",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-026-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-026-back",
+      "source": 26,
+      "side": "back",
+      "name": "Metallica · Master of Puppets",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-026-back.png",
+      "note": ""
+    },
+    {
+      "id": "ref-027-front",
+      "source": 27,
+      "side": "front",
+      "name": "Ozzy Osbourne · Prince of Darkness",
+      "group": "Rock",
+      "status": "generation-rejected",
+      "src": null,
+      "note": "El generador rechazó la solicitud; original conservado."
+    },
+    {
+      "id": "ref-027-back",
+      "source": 27,
+      "side": "back",
+      "name": "Ozzy Osbourne · Prince of Darkness",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-027-back.png",
+      "note": ""
+    },
+    {
+      "id": "ref-028-front",
+      "source": 28,
+      "side": "front",
+      "name": "Pink Floyd · Dark Side 1973",
+      "group": "Rock",
+      "status": "generation-rejected",
+      "src": null,
+      "note": "El generador rechazó la solicitud; original conservado."
+    },
+    {
+      "id": "ref-028-back",
+      "source": 28,
+      "side": "back",
+      "name": "Pink Floyd · Dark Side 1973",
+      "group": "Rock",
+      "status": "generation-rejected",
+      "src": null,
+      "note": "El generador rechazó la solicitud; original conservado."
+    },
+    {
+      "id": "ref-029-front",
+      "source": 29,
+      "side": "front",
+      "name": "Héroes del Silencio · Emblema",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-029-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-029-back",
+      "source": 29,
+      "side": "back",
+      "name": "Héroes del Silencio · Emblema",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-029-back.png",
+      "note": ""
+    },
+    {
+      "id": "ref-030-front",
+      "source": 30,
+      "side": "front",
+      "name": "Hermética · Ácido argentino",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-030-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-030-back",
+      "source": 30,
+      "side": "back",
+      "name": "Hermética · Ácido argentino",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-030-back.png",
+      "note": ""
+    },
+    {
+      "id": "ref-031-front",
+      "source": 31,
+      "side": "front",
+      "name": "Helloween · Walls of Jericho",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-031-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-031-back",
+      "source": 31,
+      "side": "back",
+      "name": "Helloween · Walls of Jericho",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-031-back.png",
+      "note": ""
+    },
+    {
+      "id": "ref-032-front",
+      "source": 32,
+      "side": "front",
+      "name": "Soda Stereo · Gracias totales",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-032-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-032-back",
+      "source": 32,
+      "side": "back",
+      "name": "Soda Stereo · Gracias totales",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-032-back.png",
+      "note": ""
+    },
+    {
+      "id": "ref-033-front",
+      "source": 33,
+      "side": "front",
+      "name": "Lacrimosa · Catedral",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-033-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-033-back",
+      "source": 33,
+      "side": "back",
+      "name": "Lacrimosa · Catedral",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-033-back.png",
+      "note": ""
+    },
+    {
+      "id": "ref-034-front",
+      "source": 34,
+      "side": "front",
+      "name": "Sepultura · Chaos AD",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-034-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-034-back",
+      "source": 34,
+      "side": "back",
+      "name": "Sepultura · Chaos AD",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-034-back.png",
+      "note": ""
+    },
+    {
+      "id": "ref-035-front",
+      "source": 35,
+      "side": "front",
+      "name": "Slipknot · Des Moines 1995",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-035-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-035-back",
+      "source": 35,
+      "side": "back",
+      "name": "Slipknot · Des Moines 1995",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-035-back.png",
+      "note": ""
+    },
+    {
+      "id": "ref-036-front",
+      "source": 36,
+      "side": "front",
+      "name": "Iron Maiden · Seventh Son",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-036-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-036-back",
+      "source": 36,
+      "side": "back",
+      "name": "Iron Maiden · Seventh Son",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-036-back.png",
+      "note": ""
+    },
+    {
+      "id": "ref-037-front",
+      "source": 37,
+      "side": "front",
+      "name": "Kiss · Gene Simmons",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-037-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-037-back",
+      "source": 37,
+      "side": "back",
+      "name": "Kiss · Gene Simmons",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-037-back.png",
+      "note": ""
+    },
+    {
+      "id": "ref-038-front",
+      "source": 38,
+      "side": "front",
+      "name": "Stratovarius · Visions",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-038-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-038-back",
+      "source": 38,
+      "side": "back",
+      "name": "Stratovarius · Visions",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-038-back.png",
+      "note": ""
+    },
+    {
+      "id": "ref-039-front",
+      "source": 39,
+      "side": "front",
+      "name": "Guns N Roses · Appetite for Destruction",
+      "group": "Rock",
+      "status": "generation-rejected",
+      "src": null,
+      "note": "El generador rechazó la solicitud; original conservado."
+    },
+    {
+      "id": "ref-039-back",
+      "source": 39,
+      "side": "back",
+      "name": "Guns N Roses · Appetite for Destruction",
+      "group": "Rock",
+      "status": "generation-rejected",
+      "src": null,
+      "note": "El generador rechazó la solicitud; original conservado."
+    },
+    {
+      "id": "ref-040-front",
+      "source": 40,
+      "side": "front",
+      "name": "Saratoga · Némesis",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-040-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-040-back",
+      "source": 40,
+      "side": "back",
+      "name": "Saratoga · Némesis",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-040-back.png",
+      "note": ""
+    },
+    {
+      "id": "ref-041-front",
+      "source": 41,
+      "side": "front",
+      "name": "Mägo de Oz · Gaia",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-041-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-041-back",
+      "source": 41,
+      "side": "back",
+      "name": "Mägo de Oz · Gaia",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-041-back.png",
+      "note": ""
+    },
+    {
+      "id": "ref-042-front",
+      "source": 42,
+      "side": "front",
+      "name": "System of a Down · Hypnotize",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-042-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-042-back",
+      "source": 42,
+      "side": "back",
+      "name": "System of a Down · Hypnotize",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-042-back.png",
+      "note": ""
+    },
+    {
+      "id": "ref-043-front",
+      "source": 43,
+      "side": "front",
+      "name": "Queen · Bohemian Rhapsody",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-043-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-043-back",
+      "source": 43,
+      "side": "back",
+      "name": "Queen · Bohemian Rhapsody",
+      "group": "Rock",
+      "status": "generation-rejected",
+      "src": null,
+      "note": "El generador rechazó la solicitud; original conservado."
+    },
+    {
+      "id": "ref-044-front",
+      "source": 44,
+      "side": "front",
+      "name": "AC/DC · Highway to Hell",
+      "group": "Rock",
+      "status": "generation-rejected",
+      "src": null,
+      "note": "El generador rechazó la solicitud; original conservado."
+    },
+    {
+      "id": "ref-044-back",
+      "source": 44,
+      "side": "back",
+      "name": "AC/DC · Highway to Hell",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-044-back.png",
+      "note": ""
+    },
+    {
+      "id": "ref-045-front",
+      "source": 45,
+      "side": "front",
+      "name": "Def Leppard · Hysteria",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-045-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-045-back",
+      "source": 45,
+      "side": "back",
+      "name": "Def Leppard · Hysteria",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-045-back.png",
+      "note": ""
+    },
+    {
+      "id": "ref-046-front",
+      "source": 46,
+      "side": "front",
+      "name": "Rammstein · Rosenrot",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-046-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-046-back",
+      "source": 46,
+      "side": "back",
+      "name": "Rammstein · Rosenrot",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-046-back.png",
+      "note": ""
+    },
+    {
+      "id": "ref-047-front",
+      "source": 47,
+      "side": "front",
+      "name": "Led Zeppelin · United States 1977",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-047-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-047-back",
+      "source": 47,
+      "side": "back",
+      "name": "Led Zeppelin · United States 1977",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-047-back.png",
+      "note": ""
+    },
+    {
+      "id": "ref-048-front",
+      "source": 48,
+      "side": "front",
+      "name": "Motörhead · Aftershock",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-048-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-048-back",
+      "source": 48,
+      "side": "back",
+      "name": "Motörhead · Aftershock",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-048-back.png",
+      "note": ""
+    },
+    {
+      "id": "ref-049-front",
+      "source": 49,
+      "side": "front",
+      "name": "Megadeth · Symphony of Destruction",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-049-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-049-back",
+      "source": 49,
+      "side": "back",
+      "name": "Megadeth · Symphony of Destruction",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-049-back.png",
+      "note": ""
+    },
+    {
+      "id": "ref-050-front",
+      "source": 50,
+      "side": "front",
+      "name": "Foo Fighters · Águila y cráneo",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-050-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-050-back",
+      "source": 50,
+      "side": "back",
+      "name": "Foo Fighters · Águila y cráneo",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-050-back.png",
+      "note": ""
+    },
+    {
+      "id": "ref-051-front",
+      "source": 51,
+      "side": "front",
+      "name": "Judas Priest · British Steel",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-051-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-051-back",
+      "source": 51,
+      "side": "back",
+      "name": "Judas Priest · British Steel",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-051-back.png",
+      "note": ""
+    },
+    {
+      "id": "ref-052-front",
+      "source": 52,
+      "side": "front",
+      "name": "Baphomet · Grabado",
+      "group": "Rock",
+      "status": "generation-rejected",
+      "src": null,
+      "note": "El generador rechazó la solicitud; original conservado."
+    },
+    {
+      "id": "ref-052-back",
+      "source": 52,
+      "side": "back",
+      "name": "Baphomet · Grabado",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-052-back.png",
+      "note": ""
+    },
+    {
+      "id": "ref-053-front",
+      "source": 53,
+      "side": "front",
+      "name": "Baphomet · Estrella",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-053-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-053-back",
+      "source": 53,
+      "side": "back",
+      "name": "Baphomet · Estrella",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-053-back.png",
+      "note": ""
+    },
+    {
+      "id": "ref-054-front",
+      "source": 54,
+      "side": "front",
+      "name": "Bathory · Hordes",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-054-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-054-back",
+      "source": 54,
+      "side": "back",
+      "name": "Bathory · Hordes",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-054-back.png",
+      "note": ""
+    },
+    {
+      "id": "ref-055-front",
+      "source": 55,
+      "side": "front",
+      "name": "Marduk · Panzer Division",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-055-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-055-back",
+      "source": 55,
+      "side": "back",
+      "name": "Marduk · Panzer Division",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-055-back.png",
+      "note": ""
+    },
+    {
+      "id": "ref-056-front",
+      "source": 56,
+      "side": "front",
+      "name": "Dissection · Storm of the Lights Bane",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-056-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-056-back",
+      "source": 56,
+      "side": "back",
+      "name": "Dissection · Storm of the Lights Bane",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-056-back.png",
+      "note": ""
+    },
+    {
+      "id": "ref-057-front",
+      "source": 57,
+      "side": "front",
+      "name": "Mayhem · Liturgy of Death",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-057-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-057-back",
+      "source": 57,
+      "side": "back",
+      "name": "Mayhem · Liturgy of Death",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-057-back.png",
+      "note": ""
+    },
+    {
+      "id": "ref-058-front",
+      "source": 58,
+      "side": "front",
+      "name": "Behemoth · Abismo",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-058-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-058-back",
+      "source": 58,
+      "side": "back",
+      "name": "Behemoth · Abismo",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-058-back.png",
+      "note": ""
+    },
+    {
+      "id": "ref-059-front",
+      "source": 59,
+      "side": "front",
+      "name": "Cradle of Filth · Cruelty and the Beast",
+      "group": "Rock",
+      "status": "generation-rejected",
+      "src": null,
+      "note": "El generador rechazó la solicitud; original conservado."
+    },
+    {
+      "id": "ref-059-back",
+      "source": 59,
+      "side": "back",
+      "name": "Cradle of Filth · Cruelty and the Beast",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-059-back.png",
+      "note": ""
+    },
+    {
+      "id": "ref-060-front",
+      "source": 60,
+      "side": "front",
+      "name": "Unleashed · No Sign of Life",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-060-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-060-back",
+      "source": 60,
+      "side": "back",
+      "name": "Unleashed · No Sign of Life",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-060-back.png",
+      "note": ""
+    },
+    {
+      "id": "ref-061-front",
+      "source": 61,
+      "side": "front",
+      "name": "Behemoth · The Satanist",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-061-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-061-back",
+      "source": 61,
+      "side": "back",
+      "name": "Behemoth · The Satanist",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-061-back.png",
+      "note": ""
+    },
+    {
+      "id": "ref-062-front",
+      "source": 62,
+      "side": "front",
+      "name": "Krisiun · Mortem Solis",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-062-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-062-back",
+      "source": 62,
+      "side": "back",
+      "name": "Krisiun · Mortem Solis",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-062-back.png",
+      "note": ""
+    },
+    {
+      "id": "ref-063-front",
+      "source": 63,
+      "side": "front",
+      "name": "Dimmu Borgir · Abrahadabra",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-063-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-063-back",
+      "source": 63,
+      "side": "back",
+      "name": "Dimmu Borgir · Abrahadabra",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-063-back.png",
+      "note": ""
+    },
+    {
+      "id": "ref-064-front",
+      "source": 64,
+      "side": "front",
+      "name": "Rotting Christ · Crucifixión",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-064-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-064-back",
+      "source": 64,
+      "side": "back",
+      "name": "Rotting Christ · Crucifixión",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-064-back.png",
+      "note": ""
+    },
+    {
+      "id": "ref-065-front",
+      "source": 65,
+      "side": "front",
+      "name": "Sarcófago · Rotting",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-065-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-065-back",
+      "source": 65,
+      "side": "back",
+      "name": "Sarcófago · Rotting",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-065-back.png",
+      "note": ""
+    },
+    {
+      "id": "ref-066-front",
+      "source": 66,
+      "side": "front",
+      "name": "Nocturnal Depression · Siluetas",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-066-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-066-back",
+      "source": 66,
+      "side": "back",
+      "name": "Nocturnal Depression · Siluetas",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-066-back.png",
+      "note": ""
+    },
+    {
+      "id": "ref-067-front",
+      "source": 67,
+      "side": "front",
+      "name": "Kreator · Terrible Certainty",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-067-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-067-back",
+      "source": 67,
+      "side": "back",
+      "name": "Kreator · Terrible Certainty",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-067-back.png",
+      "note": ""
+    },
+    {
+      "id": "ref-068-front",
+      "source": 68,
+      "side": "front",
+      "name": "Amon Amarth · Guerrero",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-068-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-068-back",
+      "source": 68,
+      "side": "back",
+      "name": "Amon Amarth · Guerrero",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-068-back.png",
+      "note": ""
+    },
+    {
+      "id": "ref-069-front",
+      "source": 69,
+      "side": "front",
+      "name": "Vital Remains · Baphomet",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-069-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-069-back",
+      "source": 69,
+      "side": "back",
+      "name": "Vital Remains · Baphomet",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-069-back.png",
+      "note": ""
+    },
+    {
+      "id": "ref-070-front",
+      "source": 70,
+      "side": "front",
+      "name": "Cannibal Corpse · The Bleeding",
+      "group": "Rock",
+      "status": "generation-rejected",
+      "src": null,
+      "note": "El generador rechazó la solicitud; original conservado."
+    },
+    {
+      "id": "ref-070-back",
+      "source": 70,
+      "side": "back",
+      "name": "Cannibal Corpse · The Bleeding",
+      "group": "Rock",
+      "status": "generation-rejected",
+      "src": null,
+      "note": "El generador rechazó la solicitud; original conservado."
+    },
+    {
+      "id": "ref-071-front",
+      "source": 71,
+      "side": "front",
+      "name": "One Piece · Retrato dividido",
+      "group": "Anime",
+      "status": "approved",
+      "src": "/assets/designs/ref-071-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-072-front",
+      "source": 72,
+      "side": "front",
+      "name": "Obituary · Cause of Death",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-072-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-072-back",
+      "source": 72,
+      "side": "back",
+      "name": "Obituary · Cause of Death",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-072-back.png",
+      "note": ""
+    },
+    {
+      "id": "ref-073-front",
+      "source": 73,
+      "side": "front",
+      "name": "Brujería · Matando güeros",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-073-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-073-back",
+      "source": 73,
+      "side": "back",
+      "name": "Brujería · Matando güeros",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-073-back.png",
+      "note": ""
+    },
+    {
+      "id": "ref-074-front",
+      "source": 74,
+      "side": "front",
+      "name": "Iron Maiden · Cyborg rojo",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-074-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-075-front",
+      "source": 75,
+      "side": "front",
+      "name": "Linkin Park · Meteora azul",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-075-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-076-front",
+      "source": 76,
+      "side": "front",
+      "name": "Venom · Black Metal",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-076-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-076-back",
+      "source": 76,
+      "side": "back",
+      "name": "Venom · Black Metal",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-076-back.png",
+      "note": ""
+    },
+    {
+      "id": "ref-077-front",
+      "source": 77,
+      "side": "front",
+      "name": "Metallica · And Justice for All",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-077-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-078-front",
+      "source": 78,
+      "side": "front",
+      "name": "Black Sabbath · US Tour 78",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-078-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-079-front",
+      "source": 79,
+      "side": "front",
+      "name": "Metallica · Harvester of Sorrow",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-079-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-080-front",
+      "source": 80,
+      "side": "front",
+      "name": "Venom · Black Metal blanco",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-080-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-081-front",
+      "source": 81,
+      "side": "front",
+      "name": "Sepultura · Arise",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-081-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-082-front",
+      "source": 82,
+      "side": "front",
+      "name": "Deftones · Calavera alada",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-082-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-083-front",
+      "source": 83,
+      "side": "front",
+      "name": "Iron Maiden · No Prayer for the Dying",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-083-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-084-front",
+      "source": 84,
+      "side": "front",
+      "name": "Rammstein · Völkerball",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-084-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-085-front",
+      "source": 85,
+      "side": "front",
+      "name": "Rock · Collage de leyendas",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-085-front.png",
+      "note": "Collage recreado a partir de las ilustraciones; se retiraron camisetas, marca de tienda y publicidad."
+    },
+    {
+      "id": "ref-086-front",
+      "source": 86,
+      "side": "front",
+      "name": "Rock · Serpiente blanca",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-086-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-087-front",
+      "source": 87,
+      "side": "front",
+      "name": "Metallica · Master of Puppets vintage",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-087-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-088-front",
+      "source": 88,
+      "side": "front",
+      "name": "Megadeth · Peace Sells",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-088-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-089-front",
+      "source": 89,
+      "side": "front",
+      "name": "Cannabis Corpse · Monstruo del pantano",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-089-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-090-front",
+      "source": 90,
+      "side": "front",
+      "name": "Iron Maiden · Fear of the Dark",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-090-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-091-front",
+      "source": 91,
+      "side": "front",
+      "name": "Calavera encadenada · Metal",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-091-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-092-front",
+      "source": 92,
+      "side": "front",
+      "name": "Megadeth · Logo plata",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-092-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-093-front",
+      "source": 93,
+      "side": "front",
+      "name": "Slipknot · Nido",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-093-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-094-front",
+      "source": 94,
+      "side": "front",
+      "name": "Slipknot · Símbolo amarillo",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-094-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-095-front",
+      "source": 95,
+      "side": "front",
+      "name": "Metallica · Justicia quebrada",
+      "group": "Rock",
+      "status": "generation-rejected",
+      "src": null,
+      "note": "El generador rechazó la solicitud; original conservado."
+    },
+    {
+      "id": "ref-096-front",
+      "source": 96,
+      "side": "front",
+      "name": "Iron Maiden · Calavera ardiente",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-096-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-097-front",
+      "source": 97,
+      "side": "front",
+      "name": "Alice in Chains · Trípode",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-097-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-098-front",
+      "source": 98,
+      "side": "front",
+      "name": "Anthrax · Guerrero",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-098-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-099-front",
+      "source": 99,
+      "side": "front",
+      "name": "Megadeth · Vic en llamas",
+      "group": "Rock",
+      "status": "generation-rejected",
+      "src": null,
+      "note": "El generador rechazó la solicitud; original conservado."
+    },
+    {
+      "id": "ref-100-front",
+      "source": 100,
+      "side": "front",
+      "name": "Iron Maiden · The Clairvoyant",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-100-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-101-front",
+      "source": 101,
+      "side": "front",
+      "name": "Iron Maiden · The Number of the Beast",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-101-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-102-front",
+      "source": 102,
+      "side": "front",
+      "name": "Metallica · Ninja Star",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-102-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-103-front",
+      "source": 103,
+      "side": "front",
+      "name": "Pantera · Sello pequeño",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-103-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-104-front",
+      "source": 104,
+      "side": "front",
+      "name": "Pantera · Stronger Than All",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-104-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-105-front",
+      "source": 105,
+      "side": "front",
+      "name": "Pantera · Cowboys from Hell",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-105-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-106-front",
+      "source": 106,
+      "side": "front",
+      "name": "Pantera · Vulgar Display of Power",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-106-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-107-front",
+      "source": 107,
+      "side": "front",
+      "name": "Rammstein · Emblema industrial",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-107-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-108-front",
+      "source": 108,
+      "side": "front",
+      "name": "Megadeth · Countdown",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-108-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-109-front",
+      "source": 109,
+      "side": "front",
+      "name": "Nirvana · In Utero",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-109-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-110-front",
+      "source": 110,
+      "side": "front",
+      "name": "Guns N Roses · Use Your Illusion",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-110-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-111-front",
+      "source": 111,
+      "side": "front",
+      "name": "Guns N Roses · Franjas",
+      "group": "Rock",
+      "status": "generation-rejected",
+      "src": null,
+      "note": "El generador rechazó la solicitud; original conservado."
+    },
+    {
+      "id": "ref-112-front",
+      "source": 112,
+      "side": "front",
+      "name": "Parálisis Permanente · El acto",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-112-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-113-front",
+      "source": 113,
+      "side": "front",
+      "name": "Queen · Retratos",
+      "group": "Rock",
+      "status": "generation-rejected",
+      "src": null,
+      "note": "El generador rechazó la solicitud; original conservado."
+    },
+    {
+      "id": "ref-114-front",
+      "source": 114,
+      "side": "front",
+      "name": "Slayer · Calavera",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-114-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-115-front",
+      "source": 115,
+      "side": "front",
+      "name": "Megadeth · Vic dividido",
+      "group": "Rock",
+      "status": "generation-rejected",
+      "src": null,
+      "note": "El generador rechazó la solicitud; original conservado."
+    },
+    {
+      "id": "ref-116-front",
+      "source": 116,
+      "side": "front",
+      "name": "Whitesnake · Serpiente",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-116-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-117-front",
+      "source": 117,
+      "side": "front",
+      "name": "Queen · We Will Rock You",
+      "group": "Rock",
+      "status": "generation-rejected",
+      "src": null,
+      "note": "El generador rechazó la solicitud; original conservado."
+    },
+    {
+      "id": "ref-118-front",
+      "source": 118,
+      "side": "front",
+      "name": "Oasis · Retratos",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-118-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-119-front",
+      "source": 119,
+      "side": "front",
+      "name": "Iron Maiden · Fear of the Dark bosque",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-119-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-120-front",
+      "source": 120,
+      "side": "front",
+      "name": "Motörhead · Cráneo circular",
+      "group": "Rock",
+      "status": "generation-rejected",
+      "src": null,
+      "note": "El generador rechazó la solicitud; original conservado."
+    },
+    {
+      "id": "ref-121-front",
+      "source": 121,
+      "side": "front",
+      "name": "Iron Maiden · Killers",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-121-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-122-front",
+      "source": 122,
+      "side": "front",
+      "name": "Kiss · The Demon",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-122-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-123-front",
+      "source": 123,
+      "side": "front",
+      "name": "The Beatles · Abbey Road",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-123-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-124-front",
+      "source": 124,
+      "side": "front",
+      "name": "Iron Maiden · Eddie bestia",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-124-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-125-front",
+      "source": 125,
+      "side": "front",
+      "name": "Iron Maiden · Best of the Beast",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-125-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-126-front",
+      "source": 126,
+      "side": "front",
+      "name": "AC/DC · Highway to Hell rojo",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-126-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-127-front",
+      "source": 127,
+      "side": "front",
+      "name": "Red Hot Chili Peppers · Estrella roja",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-127-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-128-front",
+      "source": 128,
+      "side": "front",
+      "name": "Children of Bodom · Parca",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-128-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-129-front",
+      "source": 129,
+      "side": "front",
+      "name": "Metallica · Cráneo amarillo",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-129-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-130-front",
+      "source": 130,
+      "side": "front",
+      "name": "Nirvana · Zapatillas",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-130-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-131-front",
+      "source": 131,
+      "side": "front",
+      "name": "AC/DC · Retratos de colores",
+      "group": "Rock",
+      "status": "generation-rejected",
+      "src": null,
+      "note": "El generador rechazó la solicitud; original conservado."
+    },
+    {
+      "id": "ref-132-front",
+      "source": 132,
+      "side": "front",
+      "name": "Bullet for My Valentine · Árbol",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-132-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-133-front",
+      "source": 133,
+      "side": "front",
+      "name": "Alice in Chains · Dirt",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-133-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-134-front",
+      "source": 134,
+      "side": "front",
+      "name": "Pink Floyd · Live on Stage",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-134-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-135-front",
+      "source": 135,
+      "side": "front",
+      "name": "As I Lay Dying · Alas y cráneo",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-135-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-136-front",
+      "source": 136,
+      "side": "front",
+      "name": "Slipknot · Máscara roja",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-136-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-137-front",
+      "source": 137,
+      "side": "front",
+      "name": "Iron Maiden · Samurai",
+      "group": "Rock",
+      "status": "generation-rejected",
+      "src": null,
+      "note": "El generador rechazó la solicitud; original conservado."
+    },
+    {
+      "id": "ref-138-front",
+      "source": 138,
+      "side": "front",
+      "name": "Iron Maiden · Eddie azul",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-138-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-139-front",
+      "source": 139,
+      "side": "front",
+      "name": "Slipknot · Prepare for Hell",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-139-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-140-front",
+      "source": 140,
+      "side": "front",
+      "name": "Deftones · Estrella",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-140-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-141-front",
+      "source": 141,
+      "side": "front",
+      "name": "Danzig · Calavera",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-141-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-142-front",
+      "source": 142,
+      "side": "front",
+      "name": "Metallica · Justice for All",
+      "group": "Rock",
+      "status": "generation-rejected",
+      "src": null,
+      "note": "El generador rechazó la solicitud; original conservado."
+    },
+    {
+      "id": "ref-143-front",
+      "source": 143,
+      "side": "front",
+      "name": "Black Clover · Trío",
+      "group": "Anime",
+      "status": "approved",
+      "src": "/assets/designs/ref-143-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-144-front",
+      "source": 144,
+      "side": "front",
+      "name": "Batman · Silueta",
+      "group": "Cómics",
+      "status": "generation-rejected",
+      "src": null,
+      "note": "El generador rechazó la solicitud; original conservado."
+    },
+    {
+      "id": "ref-145-front",
+      "source": 145,
+      "side": "front",
+      "name": "Attack on Titan · Fuego",
+      "group": "Anime",
+      "status": "generation-rejected",
+      "src": null,
+      "note": "El generador rechazó la solicitud; original conservado."
+    },
+    {
+      "id": "ref-146-front",
+      "source": 146,
+      "side": "front",
+      "name": "Saitama · Luna",
+      "group": "Anime",
+      "status": "approved",
+      "src": "/assets/designs/ref-146-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-147-front",
+      "source": 147,
+      "side": "front",
+      "name": "Saitama · Golpe",
+      "group": "Anime",
+      "status": "approved",
+      "src": "/assets/designs/ref-147-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-148-front",
+      "source": 148,
+      "side": "front",
+      "name": "Attack on Titan · Alas de libertad",
+      "group": "Anime",
+      "status": "approved",
+      "src": "/assets/designs/ref-148-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-149-front",
+      "source": 149,
+      "side": "front",
+      "name": "My Hero Academia · Grupo",
+      "group": "Anime",
+      "status": "approved",
+      "src": "/assets/designs/ref-149-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-150-front",
+      "source": 150,
+      "side": "front",
+      "name": "Garou · Aura violeta",
+      "group": "Anime",
+      "status": "approved",
+      "src": "/assets/designs/ref-150-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-151-front",
+      "source": 151,
+      "side": "front",
+      "name": "Eren · Titán",
+      "group": "Anime",
+      "status": "approved",
+      "src": "/assets/designs/ref-151-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-152-front",
+      "source": 152,
+      "side": "front",
+      "name": "Tokyo Ghoul · Kaneki",
+      "group": "Anime",
+      "status": "approved",
+      "src": "/assets/designs/ref-152-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-153-front",
+      "source": 153,
+      "side": "front",
+      "name": "Sung Jinwoo · Aura oscura",
+      "group": "Anime",
+      "status": "approved",
+      "src": "/assets/designs/ref-153-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-154-front",
+      "source": 154,
+      "side": "front",
+      "name": "Ryuk · Luna violeta",
+      "group": "Anime",
+      "status": "approved",
+      "src": "/assets/designs/ref-154-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-155-front",
+      "source": 155,
+      "side": "front",
+      "name": "Zoro · Energía morada",
+      "group": "Anime",
+      "status": "approved",
+      "src": "/assets/designs/ref-155-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-156-front",
+      "source": 156,
+      "side": "front",
+      "name": "Chopper · Formas",
+      "group": "Anime",
+      "status": "approved",
+      "src": "/assets/designs/ref-156-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-157-front",
+      "source": 157,
+      "side": "front",
+      "name": "Trafalgar Law · Círculo rojo",
+      "group": "Anime",
+      "status": "approved",
+      "src": "/assets/designs/ref-157-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-158-front",
+      "source": 158,
+      "side": "front",
+      "name": "Luffy · Gear 5",
+      "group": "Anime",
+      "status": "approved",
+      "src": "/assets/designs/ref-158-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-159-front",
+      "source": 159,
+      "side": "front",
+      "name": "Luffy · Panel manga",
+      "group": "Anime",
+      "status": "approved",
+      "src": "/assets/designs/ref-159-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-160-front",
+      "source": 160,
+      "side": "front",
+      "name": "Brook · Soul King",
+      "group": "Anime",
+      "status": "approved",
+      "src": "/assets/designs/ref-160-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-161-front",
+      "source": 161,
+      "side": "front",
+      "name": "Yuji Itadori · Divergent Fist",
+      "group": "Anime",
+      "status": "approved",
+      "src": "/assets/designs/ref-161-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-162-front",
+      "source": 162,
+      "side": "front",
+      "name": "Gojo y Geto · Strongest",
+      "group": "Anime",
+      "status": "approved",
+      "src": "/assets/designs/ref-162-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-163-front",
+      "source": 163,
+      "side": "front",
+      "name": "Demon Slayer · Grupo",
+      "group": "Anime",
+      "status": "approved",
+      "src": "/assets/designs/ref-163-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-164-front",
+      "source": 164,
+      "side": "front",
+      "name": "Inosuke · Doble espada",
+      "group": "Anime",
+      "status": "approved",
+      "src": "/assets/designs/ref-164-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-165-front",
+      "source": 165,
+      "side": "front",
+      "name": "Demon Slayer · Mugen Train",
+      "group": "Anime",
+      "status": "approved",
+      "src": "/assets/designs/ref-165-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-166-front",
+      "source": 166,
+      "side": "front",
+      "name": "Demon Slayer · Hermanos",
+      "group": "Anime",
+      "status": "approved",
+      "src": "/assets/designs/ref-166-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-167-front",
+      "source": 167,
+      "side": "front",
+      "name": "Pochita · Chainsaw",
+      "group": "Anime",
+      "status": "approved",
+      "src": "/assets/designs/ref-167-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-168-front",
+      "source": 168,
+      "side": "front",
+      "name": "Denji · Chainsaw Man",
+      "group": "Anime",
+      "status": "approved",
+      "src": "/assets/designs/ref-168-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-169-front",
+      "source": 169,
+      "side": "front",
+      "name": "Chainsaw Man · Makima",
+      "group": "Anime",
+      "status": "approved",
+      "src": "/assets/designs/ref-169-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-170-front",
+      "source": 170,
+      "side": "front",
+      "name": "Denji · Lengua y sierra",
+      "group": "Anime",
+      "status": "approved",
+      "src": "/assets/designs/ref-170-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-171-front",
+      "source": 171,
+      "side": "front",
+      "name": "Zoro · Colores",
+      "group": "Anime",
+      "status": "approved",
+      "src": "/assets/designs/ref-171-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-172-front",
+      "source": 172,
+      "side": "front",
+      "name": "Chainsaw Man · Inferno",
+      "group": "Anime",
+      "status": "approved",
+      "src": "/assets/designs/ref-172-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-173-front",
+      "source": 173,
+      "side": "front",
+      "name": "Gojo · Infinity",
+      "group": "Anime",
+      "status": "approved",
+      "src": "/assets/designs/ref-173-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-174-front",
+      "source": 174,
+      "side": "front",
+      "name": "One Piece · Tripulación",
+      "group": "Anime",
+      "status": "approved",
+      "src": "/assets/designs/ref-174-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-175-front",
+      "source": 175,
+      "side": "front",
+      "name": "Luffy · Sonrisa",
+      "group": "Anime",
+      "status": "approved",
+      "src": "/assets/designs/ref-175-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-176-front",
+      "source": 176,
+      "side": "front",
+      "name": "Luffy · Mirada",
+      "group": "Anime",
+      "status": "approved",
+      "src": "/assets/designs/ref-176-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-177-front",
+      "source": 177,
+      "side": "front",
+      "name": "Skeletor · Capucha",
+      "group": "Cómics",
+      "status": "approved",
+      "src": "/assets/designs/ref-177-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-178-front",
+      "source": 178,
+      "side": "front",
+      "name": "Imu · Trono manga",
+      "group": "Anime",
+      "status": "approved",
+      "src": "/assets/designs/ref-178-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-179-front",
+      "source": 179,
+      "side": "front",
+      "name": "Imu · Trono lunar",
+      "group": "Anime",
+      "status": "approved",
+      "src": "/assets/designs/ref-179-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-180-front",
+      "source": 180,
+      "side": "front",
+      "name": "Imu · Ojo carmesí",
+      "group": "Anime",
+      "status": "approved",
+      "src": "/assets/designs/ref-180-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-181-front",
+      "source": 181,
+      "side": "front",
+      "name": "Killua · Collage eléctrico",
+      "group": "Anime",
+      "status": "approved",
+      "src": "/assets/designs/ref-181-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-182-front",
+      "source": 182,
+      "side": "front",
+      "name": "Gon · Crecimiento",
+      "group": "Anime",
+      "status": "approved",
+      "src": "/assets/designs/ref-182-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-183-front",
+      "source": 183,
+      "side": "front",
+      "name": "Gon · Rage Live",
+      "group": "Anime",
+      "status": "approved",
+      "src": "/assets/designs/ref-183-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-184-front",
+      "source": 184,
+      "side": "front",
+      "name": "Luffy · Despedida del Merry",
+      "group": "Anime",
+      "status": "approved",
+      "src": "/assets/designs/ref-184-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-185-front",
+      "source": 185,
+      "side": "front",
+      "name": "Akame ga Kill · Collage rojo",
+      "group": "Anime",
+      "status": "approved",
+      "src": "/assets/designs/ref-185-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-186-front",
+      "source": 186,
+      "side": "front",
+      "name": "Jinbe · Caballero del mar",
+      "group": "Anime",
+      "status": "approved",
+      "src": "/assets/designs/ref-186-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-187-front",
+      "source": 187,
+      "side": "front",
+      "name": "Zoro · Tres espadas",
+      "group": "Anime",
+      "status": "approved",
+      "src": "/assets/designs/ref-187-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-188-front",
+      "source": 188,
+      "side": "front",
+      "name": "Sung Jinwoo · Shadow Monarch",
+      "group": "Anime",
+      "status": "approved",
+      "src": "/assets/designs/ref-188-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-189-front",
+      "source": 189,
+      "side": "front",
+      "name": "Meliodas · Pecado del dragón",
+      "group": "Anime",
+      "status": "approved",
+      "src": "/assets/designs/ref-189-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-190-front",
+      "source": 190,
+      "side": "front",
+      "name": "Deadman Wonderland · Ganta y Shiro",
+      "group": "Anime",
+      "status": "approved",
+      "src": "/assets/designs/ref-190-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-191-front",
+      "source": 191,
+      "side": "front",
+      "name": "Mägo de Oz · La magia sigue viva",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-191-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-192-front",
+      "source": 192,
+      "side": "front",
+      "name": "Thorfinn · No tengo enemigos",
+      "group": "Anime",
+      "status": "approved",
+      "src": "/assets/designs/ref-192-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-193-front",
+      "source": 193,
+      "side": "front",
+      "name": "Soberano oscuro · Corona violeta",
+      "group": "Fantasía",
+      "status": "approved",
+      "src": "/assets/designs/ref-193-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-194-front",
+      "source": 194,
+      "side": "front",
+      "name": "Iron Maiden · Leyendas",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-194-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-195-front",
+      "source": 195,
+      "side": "front",
+      "name": "Bunbury · Héroe nocturno",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-195-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-196-front",
+      "source": 196,
+      "side": "front",
+      "name": "Superman · Escudo rojo",
+      "group": "Cómics",
+      "status": "generation-rejected",
+      "src": null,
+      "note": "El generador rechazó la solicitud; original conservado."
+    },
+    {
+      "id": "ref-197-front",
+      "source": 197,
+      "side": "front",
+      "name": "Rammstein · Sehnsucht retrato",
+      "group": "Rock",
+      "status": "generation-rejected",
+      "src": null,
+      "note": "El generador rechazó la solicitud; original conservado."
+    },
+    {
+      "id": "ref-198-front",
+      "source": 198,
+      "side": "front",
+      "name": "Judas Priest · British Steel navaja",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-198-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-199-front",
+      "source": 199,
+      "side": "front",
+      "name": "Linkin Park · Meteora retrato",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-199-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-200-front",
+      "source": 200,
+      "side": "front",
+      "name": "Black Clover · Calavera",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-200-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-201-front",
+      "source": 201,
+      "side": "front",
+      "name": "Black Clover · Grupo",
+      "group": "Anime",
+      "status": "approved",
+      "src": "/assets/designs/ref-201-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-202-front",
+      "source": 202,
+      "side": "front",
+      "name": "Attack on Titan · Transformación",
+      "group": "Anime",
+      "status": "approved",
+      "src": "/assets/designs/ref-202-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-203-front",
+      "source": 203,
+      "side": "front",
+      "name": "Alucard · Hellsing",
+      "group": "Anime",
+      "status": "approved",
+      "src": "/assets/designs/ref-203-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-204-front",
+      "source": 204,
+      "side": "front",
+      "name": "Reiner · Titán acorazado",
+      "group": "Anime",
+      "status": "approved",
+      "src": "/assets/designs/ref-204-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-205-front",
+      "source": 205,
+      "side": "front",
+      "name": "One Punch Man · Héroes",
+      "group": "Anime",
+      "status": "generation-rejected",
+      "src": null,
+      "note": "El generador rechazó la solicitud; original conservado."
+    },
+    {
+      "id": "ref-206-front",
+      "source": 206,
+      "side": "front",
+      "name": "Attack on Titan · Paneles rojos",
+      "group": "Anime",
+      "status": "approved",
+      "src": "/assets/designs/ref-206-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-207-front",
+      "source": 207,
+      "side": "front",
+      "name": "Mikasa · Ackerman",
+      "group": "Anime",
+      "status": "approved",
+      "src": "/assets/designs/ref-207-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-208-front",
+      "source": 208,
+      "side": "front",
+      "name": "Luffy · Ying Yang",
+      "group": "Anime",
+      "status": "approved",
+      "src": "/assets/designs/ref-208-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-209-front",
+      "source": 209,
+      "side": "front",
+      "name": "One Punch Man · Saitama serio",
+      "group": "Anime",
+      "status": "approved",
+      "src": "/assets/designs/ref-209-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-210-front",
+      "source": 210,
+      "side": "front",
+      "name": "My Hero Academia · Héroes amarillos",
+      "group": "Anime",
+      "status": "generation-rejected",
+      "src": null,
+      "note": "El generador rechazó la solicitud; original conservado."
+    },
+    {
+      "id": "ref-211-front",
+      "source": 211,
+      "side": "front",
+      "name": "My Hero Academia · Deku y Bakugo",
+      "group": "Anime",
+      "status": "approved",
+      "src": "/assets/designs/ref-211-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-212-front",
+      "source": 212,
+      "side": "front",
+      "name": "Saitama · Dragón",
+      "group": "Anime",
+      "status": "approved",
+      "src": "/assets/designs/ref-212-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-213-front",
+      "source": 213,
+      "side": "front",
+      "name": "My Hero Academia · Bakugo",
+      "group": "Anime",
+      "status": "approved",
+      "src": "/assets/designs/ref-213-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-214-front",
+      "source": 214,
+      "side": "front",
+      "name": "My Hero Academia · Batalla",
+      "group": "Anime",
+      "status": "approved",
+      "src": "/assets/designs/ref-214-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-215-front",
+      "source": 215,
+      "side": "front",
+      "name": "My Hero Academia · All Might y Deku",
+      "group": "Anime",
+      "status": "approved",
+      "src": "/assets/designs/ref-215-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-216-front",
+      "source": 216,
+      "side": "front",
+      "name": "Bakugo · Explosión",
+      "group": "Anime",
+      "status": "approved",
+      "src": "/assets/designs/ref-216-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-217-front",
+      "source": 217,
+      "side": "front",
+      "name": "My Hero Academia · Clase",
+      "group": "Anime",
+      "status": "generation-rejected",
+      "src": null,
+      "note": "El generador rechazó la solicitud; original conservado."
+    },
+    {
+      "id": "ref-218-front",
+      "source": 218,
+      "side": "front",
+      "name": "Tokyo Ghoul · Kaneki oscuro",
+      "group": "Anime",
+      "status": "approved",
+      "src": "/assets/designs/ref-218-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-219-front",
+      "source": 219,
+      "side": "front",
+      "name": "Sung Jinwoo · Dagas",
+      "group": "Anime",
+      "status": "approved",
+      "src": "/assets/designs/ref-219-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-220-front",
+      "source": 220,
+      "side": "front",
+      "name": "Sung Jinwoo · Caballero rojo",
+      "group": "Anime",
+      "status": "approved",
+      "src": "/assets/designs/ref-220-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-221-front",
+      "source": 221,
+      "side": "front",
+      "name": "One Piece · Trío marino",
+      "group": "Anime",
+      "status": "approved",
+      "src": "/assets/designs/ref-221-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-222-front",
+      "source": 222,
+      "side": "front",
+      "name": "Natsu · Fuego púrpura",
+      "group": "Anime",
+      "status": "approved",
+      "src": "/assets/designs/ref-222-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-223-front",
+      "source": 223,
+      "side": "front",
+      "name": "Eustass Kid · Metal",
+      "group": "Anime",
+      "status": "approved",
+      "src": "/assets/designs/ref-223-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-224-front",
+      "source": 224,
+      "side": "front",
+      "name": "One Piece · Calavera pirata",
+      "group": "Anime",
+      "status": "approved",
+      "src": "/assets/designs/ref-224-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-225-front",
+      "source": 225,
+      "side": "front",
+      "name": "Trafalgar Law · Room",
+      "group": "Anime",
+      "status": "approved",
+      "src": "/assets/designs/ref-225-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-226-front",
+      "source": 226,
+      "side": "front",
+      "name": "Luffy · Boundman",
+      "group": "Anime",
+      "status": "approved",
+      "src": "/assets/designs/ref-226-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-227-front",
+      "source": 227,
+      "side": "front",
+      "name": "Sabo · Puño de fuego",
+      "group": "Anime",
+      "status": "approved",
+      "src": "/assets/designs/ref-227-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-228-front",
+      "source": 228,
+      "side": "front",
+      "name": "Tony Chopper · Aventura",
+      "group": "Anime",
+      "status": "approved",
+      "src": "/assets/designs/ref-228-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-229-front",
+      "source": 229,
+      "side": "front",
+      "name": "One Piece · Three Legends",
+      "group": "Anime",
+      "status": "approved",
+      "src": "/assets/designs/ref-229-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-230-front",
+      "source": 230,
+      "side": "front",
+      "name": "Jujutsu Kaisen · Mahito",
+      "group": "Anime",
+      "status": "approved",
+      "src": "/assets/designs/ref-230-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-231-front",
+      "source": 231,
+      "side": "front",
+      "name": "Jujutsu Kaisen · Sukuna",
+      "group": "Anime",
+      "status": "approved",
+      "src": "/assets/designs/ref-231-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-232-front",
+      "source": 232,
+      "side": "front",
+      "name": "Zoro · Asura",
+      "group": "Anime",
+      "status": "approved",
+      "src": "/assets/designs/ref-232-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-233-front",
+      "source": 233,
+      "side": "front",
+      "name": "Jujutsu Kaisen · Suguru Geto",
+      "group": "Anime",
+      "status": "approved",
+      "src": "/assets/designs/ref-233-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-234-front",
+      "source": 234,
+      "side": "front",
+      "name": "Jujutsu Kaisen · Mahoraga",
+      "group": "Anime",
+      "status": "approved",
+      "src": "/assets/designs/ref-234-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-235-front",
+      "source": 235,
+      "side": "front",
+      "name": "Jujutsu Kaisen · Toji",
+      "group": "Anime",
+      "status": "approved",
+      "src": "/assets/designs/ref-235-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-236-front",
+      "source": 236,
+      "side": "front",
+      "name": "Jinbe · Llamas del mar",
+      "group": "Anime",
+      "status": "approved",
+      "src": "/assets/designs/ref-236-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-237-front",
+      "source": 237,
+      "side": "front",
+      "name": "Jujutsu Kaisen · Maldiciones",
+      "group": "Anime",
+      "status": "approved",
+      "src": "/assets/designs/ref-237-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-238-front",
+      "source": 238,
+      "side": "front",
+      "name": "One Piece · Hermanos",
+      "group": "Anime",
+      "status": "approved",
+      "src": "/assets/designs/ref-238-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-239-front",
+      "source": 239,
+      "side": "front",
+      "name": "Demon Slayer · Hashira",
+      "group": "Anime",
+      "status": "approved",
+      "src": "/assets/designs/ref-239-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-240-front",
+      "source": 240,
+      "side": "front",
+      "name": "My Hero Academia · Plus Ultra",
+      "group": "Anime",
+      "status": "approved",
+      "src": "/assets/designs/ref-240-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-241-front",
+      "source": 241,
+      "side": "front",
+      "name": "Power · Chainsaw Man",
+      "group": "Anime",
+      "status": "approved",
+      "src": "/assets/designs/ref-241-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-242-front",
+      "source": 242,
+      "side": "front",
+      "name": "Denji · Pochita",
+      "group": "Anime",
+      "status": "approved",
+      "src": "/assets/designs/ref-242-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-243-front",
+      "source": 243,
+      "side": "front",
+      "name": "Yuta · Rika",
+      "group": "Anime",
+      "status": "approved",
+      "src": "/assets/designs/ref-243-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-244-front",
+      "source": 244,
+      "side": "front",
+      "name": "Sung Jinwoo · Despertar",
+      "group": "Anime",
+      "status": "approved",
+      "src": "/assets/designs/ref-244-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-245-front",
+      "source": 245,
+      "side": "front",
+      "name": "Luffy · Evolución Gear",
+      "group": "Anime",
+      "status": "approved",
+      "src": "/assets/designs/ref-245-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-246-front",
+      "source": 246,
+      "side": "front",
+      "name": "Iron Maiden · Union Jack",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-246-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-247-front",
+      "source": 247,
+      "side": "front",
+      "name": "Luffy · Gear 5 Nika",
+      "group": "Anime",
+      "status": "approved",
+      "src": "/assets/designs/ref-247-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-248-front",
+      "source": 248,
+      "side": "front",
+      "name": "Luffy · Cinco Gears",
+      "group": "Anime",
+      "status": "approved",
+      "src": "/assets/designs/ref-248-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-249-front",
+      "source": 249,
+      "side": "front",
+      "name": "Gon · Evolución",
+      "group": "Anime",
+      "status": "approved",
+      "src": "/assets/designs/ref-249-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-250-front",
+      "source": 250,
+      "side": "front",
+      "name": "Alucard · No Life King",
+      "group": "Anime",
+      "status": "approved",
+      "src": "/assets/designs/ref-250-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-251-front",
+      "source": 251,
+      "side": "front",
+      "name": "Gon · Aura dorada",
+      "group": "Anime",
+      "status": "approved",
+      "src": "/assets/designs/ref-251-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-252-front",
+      "source": 252,
+      "side": "front",
+      "name": "Yato · Noragami",
+      "group": "Anime",
+      "status": "approved",
+      "src": "/assets/designs/ref-252-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-253-front",
+      "source": 253,
+      "side": "front",
+      "name": "Denji · Devil Hunter",
+      "group": "Anime",
+      "status": "approved",
+      "src": "/assets/designs/ref-253-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-254-front",
+      "source": 254,
+      "side": "front",
+      "name": "Akame · Night Raid",
+      "group": "Anime",
+      "status": "approved",
+      "src": "/assets/designs/ref-254-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-255-front",
+      "source": 255,
+      "side": "front",
+      "name": "Chopper · Collage tierno",
+      "group": "Anime",
+      "status": "approved",
+      "src": "/assets/designs/ref-255-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-256-front",
+      "source": 256,
+      "side": "front",
+      "name": "Dororo · Hyakkimaru",
+      "group": "Anime",
+      "status": "approved",
+      "src": "/assets/designs/ref-256-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-257-front",
+      "source": 257,
+      "side": "front",
+      "name": "Brook · Soul King collage",
+      "group": "Anime",
+      "status": "approved",
+      "src": "/assets/designs/ref-257-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-258-front",
+      "source": 258,
+      "side": "front",
+      "name": "Sanji · Pierna negra",
+      "group": "Anime",
+      "status": "approved",
+      "src": "/assets/designs/ref-258-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-259-front",
+      "source": 259,
+      "side": "front",
+      "name": "Escanor · Orgullo",
+      "group": "Anime",
+      "status": "approved",
+      "src": "/assets/designs/ref-259-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-260-front",
+      "source": 260,
+      "side": "front",
+      "name": "Ban · Inmortal",
+      "group": "Anime",
+      "status": "approved",
+      "src": "/assets/designs/ref-260-front.png",
+      "note": ""
+    },
+    {
+      "id": "ref-261-front",
+      "source": 261,
+      "side": "front",
+      "name": "Bunbury · La vida sigue",
+      "group": "Rock",
+      "status": "approved",
+      "src": "/assets/designs/ref-261-front.png",
+      "note": ""
+    }
+  ]
+}

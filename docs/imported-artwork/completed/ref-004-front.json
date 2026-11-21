@@ -1,0 +1,13 @@
+{
+  "id": "ref-004-front",
+  "n": 4,
+  "name": "Barón Rojo · Aviador",
+  "side": "front",
+  "group": "Rock",
+  "collection": "Barón Rojo",
+  "src": "/assets/designs/ref-004-front.png",
+  "tool": "image_gen",
+  "source": "004.jpg",
+  "status": "approved",
+  "prompt": "Edit the upper FRONT print shown in the reference photo into a clean standalone apparel design. Preserve the Barón Rojo lettering, illustrated aviator skull with cracked goggles, the colorful yellow blue red accents, the detailed ink texture and the two red caption lines. Keep the same composition and fine details. Remove the mannequin, T-shirt fabric, shop background and cups. Ignore the lower photo of the back. Entire print centered with transparent background, complete edges and clear margins. One isolated design, no garment mockup."
+}

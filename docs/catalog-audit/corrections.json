@@ -1,0 +1,114 @@
+{
+  "ref-116-front": {
+    "name": "Rolling Stones · Serpiente y guitarra",
+    "collection": "Rolling Stones",
+    "reason": "La imagen muestra el nombre Rolling Stone y la iconografía de labios; no Whitesnake."
+  },
+  "ref-119-front": {
+    "name": "Avenged Sevenfold · Buried Alive",
+    "collection": "Avenged Sevenfold",
+    "reason": "Nombre Avenged Sevenfold y texto Buried Alive visibles."
+  },
+  "ref-096-front": {
+    "name": "Calavera ardiente",
+    "collection": "Calaveras",
+    "reason": "Calavera en llamas sin identificación visual suficiente de Iron Maiden."
+  },
+  "ref-154-front": {
+    "name": "Ryuk · Luna violeta",
+    "collection": "Death Note",
+    "reason": "Ryuk con manzana, ojos amarillos y silueta de shinigami; no Saint Seiya."
+  },
+  "ref-155-front": {
+    "name": "Espadachín y estatua · Ilustración híbrida",
+    "collection": "Crossovers",
+    "classificationStatus": "mixed",
+    "reason": "Mezcla texto Zoro y pendientes de espadachín con la estatua sonriente de Solo Leveling. No corresponde a una sola serie."
+  },
+  "ref-160-front": {
+    "name": "One Piece · Ramen pirata",
+    "collection": "One Piece",
+    "reason": "Calavera pirata y cuenco de ramen; no retrato de Brook."
+  },
+  "ref-169-front": {
+    "name": "Gyomei · Hacha y cadena",
+    "collection": "Demon Slayer",
+    "reason": "Pilar de la Roca con cuentas, ojos blancos y arma de hacha y maza encadenadas; no Makima."
+  },
+  "ref-177-front": {
+    "name": "Calavera encapuchada · Fantasía oscura",
+    "group": "Ilustraciones",
+    "collection": "Fantasía oscura",
+    "reason": "Calavera con capucha sin rasgos suficientes para afirmar Skeletor."
+  },
+  "ref-208-front": {
+    "name": "Saitama y Garou · Dualidad",
+    "collection": "One Punch Man",
+    "reason": "Saitama con traje amarillo junto a Garou cósmico; no Luffy."
+  },
+  "ref-219-front": {
+    "name": "Beru · Sombra del rey hormiga",
+    "collection": "Solo Leveling",
+    "reason": "Armadura de hormiga y nombre BERU legible; no Sung Jinwoo con dagas."
+  },
+  "ref-220-front": {
+    "name": "Igris · Caballero rojo",
+    "collection": "Solo Leveling",
+    "reason": "Caballero de armadura roja y penacho de Igris; no retrato de Sung Jinwoo."
+  },
+  "ref-221-front": {
+    "name": "Sung Jinwoo · Collage azul",
+    "collection": "Solo Leveling",
+    "reason": "Texto SOLO LEVELING y retratos de Sung Jinwoo visibles; no One Piece."
+  },
+  "ref-225-front": {
+    "name": "One Piece · Espadachín Asura",
+    "collection": "One Piece",
+    "reason": "Composición híbrida de rasgos de Law y múltiples espadas; se conserva solo la identificación de la serie."
+  },
+  "ref-226-front": {
+    "name": "Eustass Kid · Puño mecánico",
+    "collection": "One Piece",
+    "reason": "Cabello rojo, gafas y gran brazo mecánico; no Luffy Boundman."
+  },
+  "ref-227-front": {
+    "name": "One Piece · Puño de fuego",
+    "collection": "One Piece",
+    "reason": "Composición de personajes y fuego; se evita afirmar un único personaje con rasgos mezclados."
+  },
+  "ref-232-front": {
+    "name": "Kenjaku · Cerebro maldito",
+    "collection": "Jujutsu Kaisen",
+    "reason": "Cráneo abierto, cerebro y suturas de Kenjaku; no Zoro."
+  },
+  "ref-234-front": {
+    "name": "Yuta y Rika · Maldición rosa",
+    "collection": "Jujutsu Kaisen",
+    "reason": "Yuta ante una gran maldición de Rika; no la rueda ni el aspecto de Mahoraga."
+  },
+  "ref-236-front": {
+    "name": "Tanjiro · Agua y fuego",
+    "collection": "Demon Slayer",
+    "reason": "Tanjiro, pendientes y acompañantes de Demon Slayer visibles; no Jinbe."
+  },
+  "ref-238-front": {
+    "name": "Gyomei · Pilar de la Roca",
+    "collection": "Demon Slayer",
+    "reason": "Gyomei con cuentas y personajes de Demon Slayer; no One Piece."
+  },
+  "ref-239-front": {
+    "name": "Sanemi · Pilar del Viento",
+    "collection": "Demon Slayer",
+    "reason": "Sanemi con cicatrices y acompañantes de Demon Slayer."
+  },
+  "ref-240-front": {
+    "name": "Giyu Tomioka · Pilar del Agua",
+    "collection": "Demon Slayer",
+    "reason": "Texto GIYU TOMIOKA / WATER HASHIRA y personaje visibles; no My Hero Academia."
+  },
+  "ref-243-front": {
+    "name": "Obanai · Pilar de la Serpiente",
+    "collection": "Demon Slayer",
+    "reason": "Obanai, serpiente blanca y uniforme de los cazadores; no Yuta y Rika."
+  }
+}

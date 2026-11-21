@@ -1,0 +1,3025 @@
+// Recreaciones revisadas; diseños excluidos no se publican.
+export const IMPORTED_DESIGNS = [
+  {
+    "id": "ref-001-back",
+    "name": "Iron Maiden · Run for Your Lives · Espalda",
+    "collection": "Iron Maiden",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-001-back.png",
+    "referenceIndex": 1
+  },
+  {
+    "id": "ref-001-front",
+    "name": "Iron Maiden · Run for Your Lives",
+    "collection": "Iron Maiden",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-001-front.png",
+    "referenceIndex": 1
+  },
+  {
+    "id": "ref-002-back",
+    "name": "Avenged Sevenfold · Deathbat · Espalda",
+    "collection": "Avenged Sevenfold",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-002-back.png",
+    "referenceIndex": 2
+  },
+  {
+    "id": "ref-003-back",
+    "name": "Sodom · Agent Orange · Espalda",
+    "collection": "Sodom",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-003-back.png",
+    "referenceIndex": 3
+  },
+  {
+    "id": "ref-003-front",
+    "name": "Sodom · Agent Orange",
+    "collection": "Sodom",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-003-front.png",
+    "referenceIndex": 3
+  },
+  {
+    "id": "ref-004-back",
+    "name": "Barón Rojo · Aviador · Espalda",
+    "collection": "Barón Rojo",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-004-back.png",
+    "referenceIndex": 4
+  },
+  {
+    "id": "ref-004-front",
+    "name": "Barón Rojo · Aviador",
+    "collection": "Barón Rojo",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-004-front.png",
+    "referenceIndex": 4
+  },
+  {
+    "id": "ref-005-back",
+    "name": "Los Suaves · Gato negro · Espalda",
+    "collection": "Los Suaves",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-005-back.png",
+    "referenceIndex": 5
+  },
+  {
+    "id": "ref-005-front",
+    "name": "Los Suaves · Gato negro",
+    "collection": "Los Suaves",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-005-front.png",
+    "referenceIndex": 5
+  },
+  {
+    "id": "ref-006-back",
+    "name": "La Parca · Serpiente y cráneo · Espalda",
+    "collection": "La Parca",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-006-back.png",
+    "referenceIndex": 6
+  },
+  {
+    "id": "ref-006-front",
+    "name": "La Parca · Serpiente y cráneo",
+    "collection": "La Parca",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-006-front.png",
+    "referenceIndex": 6
+  },
+  {
+    "id": "ref-007-back",
+    "name": "2 Minutos · Valentín Alsina · Espalda",
+    "collection": "2 Minutos",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-007-back.png",
+    "referenceIndex": 7
+  },
+  {
+    "id": "ref-007-front",
+    "name": "2 Minutos · Valentín Alsina",
+    "collection": "2 Minutos",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-007-front.png",
+    "referenceIndex": 7
+  },
+  {
+    "id": "ref-008-back",
+    "name": "Iron Maiden · World Tour · Espalda",
+    "collection": "Iron Maiden",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-008-back.png",
+    "referenceIndex": 8
+  },
+  {
+    "id": "ref-008-front",
+    "name": "Iron Maiden · World Tour",
+    "collection": "Iron Maiden",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-008-front.png",
+    "referenceIndex": 8
+  },
+  {
+    "id": "ref-009-back",
+    "name": "Rammstein · Sehnsucht emblema · Espalda",
+    "collection": "Rammstein",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-009-back.png",
+    "referenceIndex": 9
+  },
+  {
+    "id": "ref-009-front",
+    "name": "Rammstein · Sehnsucht emblema",
+    "collection": "Rammstein",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-009-front.png",
+    "referenceIndex": 9
+  },
+  {
+    "id": "ref-010-back",
+    "name": "Slipknot · Máscaras y estrella · Espalda",
+    "collection": "Slipknot",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-010-back.png",
+    "referenceIndex": 10
+  },
+  {
+    "id": "ref-010-front",
+    "name": "Slipknot · Máscaras y estrella",
+    "collection": "Slipknot",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-010-front.png",
+    "referenceIndex": 10
+  },
+  {
+    "id": "ref-011-back",
+    "name": "Nokturnal Mortum · Bosque · Espalda",
+    "collection": "Nokturnal Mortum",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-011-back.png",
+    "referenceIndex": 11
+  },
+  {
+    "id": "ref-011-front",
+    "name": "Nokturnal Mortum · Bosque",
+    "collection": "Nokturnal Mortum",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-011-front.png",
+    "referenceIndex": 11
+  },
+  {
+    "id": "ref-012-back",
+    "name": "Sagitario · Armadura dorada · Espalda",
+    "collection": "Saint Seiya",
+    "group": "Anime",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-012-back.png",
+    "referenceIndex": 12
+  },
+  {
+    "id": "ref-012-front",
+    "name": "Sagitario · Armadura dorada",
+    "collection": "Saint Seiya",
+    "group": "Anime",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-012-front.png",
+    "referenceIndex": 12
+  },
+  {
+    "id": "ref-013-back",
+    "name": "Death · Human · Espalda",
+    "collection": "Death",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-013-back.png",
+    "referenceIndex": 13
+  },
+  {
+    "id": "ref-013-front",
+    "name": "Death · Human",
+    "collection": "Death",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-013-front.png",
+    "referenceIndex": 13
+  },
+  {
+    "id": "ref-014-back",
+    "name": "Lacrimosa · Elodia · Espalda",
+    "collection": "Lacrimosa",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-014-back.png",
+    "referenceIndex": 14
+  },
+  {
+    "id": "ref-014-front",
+    "name": "Lacrimosa · Elodia",
+    "collection": "Lacrimosa",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-014-front.png",
+    "referenceIndex": 14
+  },
+  {
+    "id": "ref-016-back",
+    "name": "Gorillaz · Grupo verde · Espalda",
+    "collection": "Gorillaz",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-016-back.png",
+    "referenceIndex": 16
+  },
+  {
+    "id": "ref-016-front",
+    "name": "Gorillaz · Grupo verde",
+    "collection": "Gorillaz",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-016-front.png",
+    "referenceIndex": 16
+  },
+  {
+    "id": "ref-017-back",
+    "name": "Megadeth · Fire in Latin America · Espalda",
+    "collection": "Megadeth",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-017-back.png",
+    "referenceIndex": 17
+  },
+  {
+    "id": "ref-017-front",
+    "name": "Megadeth · Fire in Latin America",
+    "collection": "Megadeth",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-017-front.png",
+    "referenceIndex": 17
+  },
+  {
+    "id": "ref-018-back",
+    "name": "Slayer · Show No Mercy · Espalda",
+    "collection": "Slayer",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-018-back.png",
+    "referenceIndex": 18
+  },
+  {
+    "id": "ref-019-back",
+    "name": "Metallica · Ride the Lightning · Espalda",
+    "collection": "Metallica",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-019-back.png",
+    "referenceIndex": 19
+  },
+  {
+    "id": "ref-019-front",
+    "name": "Metallica · Ride the Lightning",
+    "collection": "Metallica",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-019-front.png",
+    "referenceIndex": 19
+  },
+  {
+    "id": "ref-020-back",
+    "name": "Misfits · Fiend verde · Espalda",
+    "collection": "Misfits",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-020-back.png",
+    "referenceIndex": 20
+  },
+  {
+    "id": "ref-020-front",
+    "name": "Misfits · Fiend verde",
+    "collection": "Misfits",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-020-front.png",
+    "referenceIndex": 20
+  },
+  {
+    "id": "ref-021-back",
+    "name": "Linkin Park · Meteora · Espalda",
+    "collection": "Linkin Park",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-021-back.png",
+    "referenceIndex": 21
+  },
+  {
+    "id": "ref-021-front",
+    "name": "Linkin Park · Meteora",
+    "collection": "Linkin Park",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-021-front.png",
+    "referenceIndex": 21
+  },
+  {
+    "id": "ref-022-back",
+    "name": "Nirvana · Kurt Cobain ángel · Espalda",
+    "collection": "Nirvana",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-022-back.png",
+    "referenceIndex": 22
+  },
+  {
+    "id": "ref-022-front",
+    "name": "Nirvana · Kurt Cobain ángel",
+    "collection": "Nirvana",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-022-front.png",
+    "referenceIndex": 22
+  },
+  {
+    "id": "ref-023-back",
+    "name": "Black Sabbath · Back to the Beginning · Espalda",
+    "collection": "Black Sabbath",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-023-back.png",
+    "referenceIndex": 23
+  },
+  {
+    "id": "ref-023-front",
+    "name": "Black Sabbath · Back to the Beginning",
+    "collection": "Black Sabbath",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-023-front.png",
+    "referenceIndex": 23
+  },
+  {
+    "id": "ref-024-back",
+    "name": "La Parca · Portal nocturno · Espalda",
+    "collection": "La Parca",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-024-back.png",
+    "referenceIndex": 24
+  },
+  {
+    "id": "ref-024-front",
+    "name": "La Parca · Portal nocturno",
+    "collection": "La Parca",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-024-front.png",
+    "referenceIndex": 24
+  },
+  {
+    "id": "ref-025-back",
+    "name": "Marilyn Manson · Retrato · Espalda",
+    "collection": "Marilyn Manson",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-025-back.png",
+    "referenceIndex": 25
+  },
+  {
+    "id": "ref-026-back",
+    "name": "Metallica · Master of Puppets · Espalda",
+    "collection": "Metallica",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-026-back.png",
+    "referenceIndex": 26
+  },
+  {
+    "id": "ref-026-front",
+    "name": "Metallica · Master of Puppets",
+    "collection": "Metallica",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-026-front.png",
+    "referenceIndex": 26
+  },
+  {
+    "id": "ref-027-back",
+    "name": "Ozzy Osbourne · Prince of Darkness · Espalda",
+    "collection": "Ozzy Osbourne",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-027-back.png",
+    "referenceIndex": 27
+  },
+  {
+    "id": "ref-029-back",
+    "name": "Héroes del Silencio · Emblema · Espalda",
+    "collection": "Héroes del Silencio",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-029-back.png",
+    "referenceIndex": 29
+  },
+  {
+    "id": "ref-029-front",
+    "name": "Héroes del Silencio · Emblema",
+    "collection": "Héroes del Silencio",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-029-front.png",
+    "referenceIndex": 29
+  },
+  {
+    "id": "ref-030-back",
+    "name": "Hermética · Ácido argentino · Espalda",
+    "collection": "Hermética",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-030-back.png",
+    "referenceIndex": 30
+  },
+  {
+    "id": "ref-030-front",
+    "name": "Hermética · Ácido argentino",
+    "collection": "Hermética",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-030-front.png",
+    "referenceIndex": 30
+  },
+  {
+    "id": "ref-031-back",
+    "name": "Helloween · Walls of Jericho · Espalda",
+    "collection": "Helloween",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-031-back.png",
+    "referenceIndex": 31
+  },
+  {
+    "id": "ref-031-front",
+    "name": "Helloween · Walls of Jericho",
+    "collection": "Helloween",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-031-front.png",
+    "referenceIndex": 31
+  },
+  {
+    "id": "ref-032-back",
+    "name": "Soda Stereo · Gracias totales · Espalda",
+    "collection": "Soda Stereo",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-032-back.png",
+    "referenceIndex": 32
+  },
+  {
+    "id": "ref-032-front",
+    "name": "Soda Stereo · Gracias totales",
+    "collection": "Soda Stereo",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-032-front.png",
+    "referenceIndex": 32
+  },
+  {
+    "id": "ref-033-back",
+    "name": "Lacrimosa · Catedral · Espalda",
+    "collection": "Lacrimosa",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-033-back.png",
+    "referenceIndex": 33
+  },
+  {
+    "id": "ref-033-front",
+    "name": "Lacrimosa · Catedral",
+    "collection": "Lacrimosa",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-033-front.png",
+    "referenceIndex": 33
+  },
+  {
+    "id": "ref-034-back",
+    "name": "Sepultura · Chaos AD · Espalda",
+    "collection": "Sepultura",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-034-back.png",
+    "referenceIndex": 34
+  },
+  {
+    "id": "ref-034-front",
+    "name": "Sepultura · Chaos AD",
+    "collection": "Sepultura",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-034-front.png",
+    "referenceIndex": 34
+  },
+  {
+    "id": "ref-035-back",
+    "name": "Slipknot · Des Moines 1995 · Espalda",
+    "collection": "Slipknot",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-035-back.png",
+    "referenceIndex": 35
+  },
+  {
+    "id": "ref-035-front",
+    "name": "Slipknot · Des Moines 1995",
+    "collection": "Slipknot",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-035-front.png",
+    "referenceIndex": 35
+  },
+  {
+    "id": "ref-036-back",
+    "name": "Iron Maiden · Seventh Son · Espalda",
+    "collection": "Iron Maiden",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-036-back.png",
+    "referenceIndex": 36
+  },
+  {
+    "id": "ref-036-front",
+    "name": "Iron Maiden · Seventh Son",
+    "collection": "Iron Maiden",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-036-front.png",
+    "referenceIndex": 36
+  },
+  {
+    "id": "ref-037-back",
+    "name": "Kiss · Gene Simmons · Espalda",
+    "collection": "Kiss",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-037-back.png",
+    "referenceIndex": 37
+  },
+  {
+    "id": "ref-037-front",
+    "name": "Kiss · Gene Simmons",
+    "collection": "Kiss",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-037-front.png",
+    "referenceIndex": 37
+  },
+  {
+    "id": "ref-038-back",
+    "name": "Stratovarius · Visions · Espalda",
+    "collection": "Stratovarius",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-038-back.png",
+    "referenceIndex": 38
+  },
+  {
+    "id": "ref-038-front",
+    "name": "Stratovarius · Visions",
+    "collection": "Stratovarius",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-038-front.png",
+    "referenceIndex": 38
+  },
+  {
+    "id": "ref-040-back",
+    "name": "Saratoga · Némesis · Espalda",
+    "collection": "Saratoga",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-040-back.png",
+    "referenceIndex": 40
+  },
+  {
+    "id": "ref-040-front",
+    "name": "Saratoga · Némesis",
+    "collection": "Saratoga",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-040-front.png",
+    "referenceIndex": 40
+  },
+  {
+    "id": "ref-041-back",
+    "name": "Mägo de Oz · Gaia · Espalda",
+    "collection": "Mägo de Oz",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-041-back.png",
+    "referenceIndex": 41
+  },
+  {
+    "id": "ref-041-front",
+    "name": "Mägo de Oz · Gaia",
+    "collection": "Mägo de Oz",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-041-front.png",
+    "referenceIndex": 41
+  },
+  {
+    "id": "ref-042-back",
+    "name": "System of a Down · Hypnotize · Espalda",
+    "collection": "System of a Down",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-042-back.png",
+    "referenceIndex": 42
+  },
+  {
+    "id": "ref-042-front",
+    "name": "System of a Down · Hypnotize",
+    "collection": "System of a Down",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-042-front.png",
+    "referenceIndex": 42
+  },
+  {
+    "id": "ref-043-front",
+    "name": "Queen · Bohemian Rhapsody",
+    "collection": "Queen",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-043-front.png",
+    "referenceIndex": 43
+  },
+  {
+    "id": "ref-044-back",
+    "name": "AC/DC · Highway to Hell · Espalda",
+    "collection": "AC/DC",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-044-back.png",
+    "referenceIndex": 44
+  },
+  {
+    "id": "ref-045-back",
+    "name": "Def Leppard · Hysteria · Espalda",
+    "collection": "Def Leppard",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-045-back.png",
+    "referenceIndex": 45
+  },
+  {
+    "id": "ref-045-front",
+    "name": "Def Leppard · Hysteria",
+    "collection": "Def Leppard",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-045-front.png",
+    "referenceIndex": 45
+  },
+  {
+    "id": "ref-046-back",
+    "name": "Rammstein · Rosenrot · Espalda",
+    "collection": "Rammstein",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-046-back.png",
+    "referenceIndex": 46
+  },
+  {
+    "id": "ref-046-front",
+    "name": "Rammstein · Rosenrot",
+    "collection": "Rammstein",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-046-front.png",
+    "referenceIndex": 46
+  },
+  {
+    "id": "ref-047-back",
+    "name": "Led Zeppelin · United States 1977 · Espalda",
+    "collection": "Led Zeppelin",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-047-back.png",
+    "referenceIndex": 47
+  },
+  {
+    "id": "ref-047-front",
+    "name": "Led Zeppelin · United States 1977",
+    "collection": "Led Zeppelin",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-047-front.png",
+    "referenceIndex": 47
+  },
+  {
+    "id": "ref-048-back",
+    "name": "Motörhead · Aftershock · Espalda",
+    "collection": "Motörhead",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-048-back.png",
+    "referenceIndex": 48
+  },
+  {
+    "id": "ref-048-front",
+    "name": "Motörhead · Aftershock",
+    "collection": "Motörhead",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-048-front.png",
+    "referenceIndex": 48
+  },
+  {
+    "id": "ref-049-back",
+    "name": "Megadeth · Symphony of Destruction · Espalda",
+    "collection": "Megadeth",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-049-back.png",
+    "referenceIndex": 49
+  },
+  {
+    "id": "ref-049-front",
+    "name": "Megadeth · Symphony of Destruction",
+    "collection": "Megadeth",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-049-front.png",
+    "referenceIndex": 49
+  },
+  {
+    "id": "ref-050-back",
+    "name": "Foo Fighters · Águila y cráneo · Espalda",
+    "collection": "Foo Fighters",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-050-back.png",
+    "referenceIndex": 50
+  },
+  {
+    "id": "ref-050-front",
+    "name": "Foo Fighters · Águila y cráneo",
+    "collection": "Foo Fighters",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-050-front.png",
+    "referenceIndex": 50
+  },
+  {
+    "id": "ref-051-back",
+    "name": "Judas Priest · British Steel · Espalda",
+    "collection": "Judas Priest",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-051-back.png",
+    "referenceIndex": 51
+  },
+  {
+    "id": "ref-051-front",
+    "name": "Judas Priest · British Steel",
+    "collection": "Judas Priest",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-051-front.png",
+    "referenceIndex": 51
+  },
+  {
+    "id": "ref-052-back",
+    "name": "Baphomet · Grabado · Espalda",
+    "collection": "Baphomet",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-052-back.png",
+    "referenceIndex": 52
+  },
+  {
+    "id": "ref-053-back",
+    "name": "Baphomet · Estrella · Espalda",
+    "collection": "Baphomet",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-053-back.png",
+    "referenceIndex": 53
+  },
+  {
+    "id": "ref-053-front",
+    "name": "Baphomet · Estrella",
+    "collection": "Baphomet",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-053-front.png",
+    "referenceIndex": 53
+  },
+  {
+    "id": "ref-054-back",
+    "name": "Bathory · Hordes · Espalda",
+    "collection": "Bathory",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-054-back.png",
+    "referenceIndex": 54
+  },
+  {
+    "id": "ref-054-front",
+    "name": "Bathory · Hordes",
+    "collection": "Bathory",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-054-front.png",
+    "referenceIndex": 54
+  },
+  {
+    "id": "ref-055-back",
+    "name": "Marduk · Panzer Division · Espalda",
+    "collection": "Marduk",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-055-back.png",
+    "referenceIndex": 55
+  },
+  {
+    "id": "ref-055-front",
+    "name": "Marduk · Panzer Division",
+    "collection": "Marduk",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-055-front.png",
+    "referenceIndex": 55
+  },
+  {
+    "id": "ref-056-back",
+    "name": "Dissection · Storm of the Lights Bane · Espalda",
+    "collection": "Dissection",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-056-back.png",
+    "referenceIndex": 56
+  },
+  {
+    "id": "ref-056-front",
+    "name": "Dissection · Storm of the Lights Bane",
+    "collection": "Dissection",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-056-front.png",
+    "referenceIndex": 56
+  },
+  {
+    "id": "ref-057-back",
+    "name": "Mayhem · Liturgy of Death · Espalda",
+    "collection": "Mayhem",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-057-back.png",
+    "referenceIndex": 57
+  },
+  {
+    "id": "ref-057-front",
+    "name": "Mayhem · Liturgy of Death",
+    "collection": "Mayhem",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-057-front.png",
+    "referenceIndex": 57
+  },
+  {
+    "id": "ref-058-back",
+    "name": "Behemoth · Abismo · Espalda",
+    "collection": "Behemoth",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-058-back.png",
+    "referenceIndex": 58
+  },
+  {
+    "id": "ref-058-front",
+    "name": "Behemoth · Abismo",
+    "collection": "Behemoth",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-058-front.png",
+    "referenceIndex": 58
+  },
+  {
+    "id": "ref-059-back",
+    "name": "Cradle of Filth · Cruelty and the Beast · Espalda",
+    "collection": "Cradle of Filth",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-059-back.png",
+    "referenceIndex": 59
+  },
+  {
+    "id": "ref-060-back",
+    "name": "Unleashed · No Sign of Life · Espalda",
+    "collection": "Unleashed",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-060-back.png",
+    "referenceIndex": 60
+  },
+  {
+    "id": "ref-060-front",
+    "name": "Unleashed · No Sign of Life",
+    "collection": "Unleashed",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-060-front.png",
+    "referenceIndex": 60
+  },
+  {
+    "id": "ref-061-back",
+    "name": "Behemoth · The Satanist · Espalda",
+    "collection": "Behemoth",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-061-back.png",
+    "referenceIndex": 61
+  },
+  {
+    "id": "ref-061-front",
+    "name": "Behemoth · The Satanist",
+    "collection": "Behemoth",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-061-front.png",
+    "referenceIndex": 61
+  },
+  {
+    "id": "ref-062-back",
+    "name": "Krisiun · Mortem Solis · Espalda",
+    "collection": "Krisiun",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-062-back.png",
+    "referenceIndex": 62
+  },
+  {
+    "id": "ref-062-front",
+    "name": "Krisiun · Mortem Solis",
+    "collection": "Krisiun",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-062-front.png",
+    "referenceIndex": 62
+  },
+  {
+    "id": "ref-063-back",
+    "name": "Dimmu Borgir · Abrahadabra · Espalda",
+    "collection": "Dimmu Borgir",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-063-back.png",
+    "referenceIndex": 63
+  },
+  {
+    "id": "ref-063-front",
+    "name": "Dimmu Borgir · Abrahadabra",
+    "collection": "Dimmu Borgir",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-063-front.png",
+    "referenceIndex": 63
+  },
+  {
+    "id": "ref-064-back",
+    "name": "Rotting Christ · Crucifixión · Espalda",
+    "collection": "Rotting Christ",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-064-back.png",
+    "referenceIndex": 64
+  },
+  {
+    "id": "ref-064-front",
+    "name": "Rotting Christ · Crucifixión",
+    "collection": "Rotting Christ",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-064-front.png",
+    "referenceIndex": 64
+  },
+  {
+    "id": "ref-065-back",
+    "name": "Sarcófago · Rotting · Espalda",
+    "collection": "Sarcófago",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-065-back.png",
+    "referenceIndex": 65
+  },
+  {
+    "id": "ref-065-front",
+    "name": "Sarcófago · Rotting",
+    "collection": "Sarcófago",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-065-front.png",
+    "referenceIndex": 65
+  },
+  {
+    "id": "ref-066-back",
+    "name": "Nocturnal Depression · Siluetas · Espalda",
+    "collection": "Nocturnal Depression",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-066-back.png",
+    "referenceIndex": 66
+  },
+  {
+    "id": "ref-066-front",
+    "name": "Nocturnal Depression · Siluetas",
+    "collection": "Nocturnal Depression",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-066-front.png",
+    "referenceIndex": 66
+  },
+  {
+    "id": "ref-067-back",
+    "name": "Kreator · Terrible Certainty · Espalda",
+    "collection": "Kreator",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-067-back.png",
+    "referenceIndex": 67
+  },
+  {
+    "id": "ref-067-front",
+    "name": "Kreator · Terrible Certainty",
+    "collection": "Kreator",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-067-front.png",
+    "referenceIndex": 67
+  },
+  {
+    "id": "ref-068-back",
+    "name": "Amon Amarth · Guerrero · Espalda",
+    "collection": "Amon Amarth",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-068-back.png",
+    "referenceIndex": 68
+  },
+  {
+    "id": "ref-068-front",
+    "name": "Amon Amarth · Guerrero",
+    "collection": "Amon Amarth",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-068-front.png",
+    "referenceIndex": 68
+  },
+  {
+    "id": "ref-069-back",
+    "name": "Vital Remains · Baphomet · Espalda",
+    "collection": "Vital Remains",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-069-back.png",
+    "referenceIndex": 69
+  },
+  {
+    "id": "ref-069-front",
+    "name": "Vital Remains · Baphomet",
+    "collection": "Vital Remains",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-069-front.png",
+    "referenceIndex": 69
+  },
+  {
+    "id": "ref-071-front",
+    "name": "One Piece · Retrato dividido",
+    "collection": "One Piece",
+    "group": "Anime",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-071-front.png",
+    "referenceIndex": 71
+  },
+  {
+    "id": "ref-072-back",
+    "name": "Obituary · Cause of Death · Espalda",
+    "collection": "Obituary",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-072-back.png",
+    "referenceIndex": 72
+  },
+  {
+    "id": "ref-072-front",
+    "name": "Obituary · Cause of Death",
+    "collection": "Obituary",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-072-front.png",
+    "referenceIndex": 72
+  },
+  {
+    "id": "ref-073-back",
+    "name": "Brujería · Matando güeros · Espalda",
+    "collection": "Brujería",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-073-back.png",
+    "referenceIndex": 73
+  },
+  {
+    "id": "ref-073-front",
+    "name": "Brujería · Matando güeros",
+    "collection": "Brujería",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-073-front.png",
+    "referenceIndex": 73
+  },
+  {
+    "id": "ref-074-front",
+    "name": "Iron Maiden · Cyborg rojo",
+    "collection": "Iron Maiden",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-074-front.png",
+    "referenceIndex": 74
+  },
+  {
+    "id": "ref-075-front",
+    "name": "Linkin Park · Meteora azul",
+    "collection": "Linkin Park",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-075-front.png",
+    "referenceIndex": 75
+  },
+  {
+    "id": "ref-076-back",
+    "name": "Venom · Black Metal · Espalda",
+    "collection": "Venom",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-076-back.png",
+    "referenceIndex": 76
+  },
+  {
+    "id": "ref-076-front",
+    "name": "Venom · Black Metal",
+    "collection": "Venom",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-076-front.png",
+    "referenceIndex": 76
+  },
+  {
+    "id": "ref-077-front",
+    "name": "Metallica · And Justice for All",
+    "collection": "Metallica",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-077-front.png",
+    "referenceIndex": 77
+  },
+  {
+    "id": "ref-078-front",
+    "name": "Black Sabbath · US Tour 78",
+    "collection": "Black Sabbath",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-078-front.png",
+    "referenceIndex": 78
+  },
+  {
+    "id": "ref-079-front",
+    "name": "Metallica · Harvester of Sorrow",
+    "collection": "Metallica",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-079-front.png",
+    "referenceIndex": 79
+  },
+  {
+    "id": "ref-080-front",
+    "name": "Venom · Black Metal blanco",
+    "collection": "Venom",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-080-front.png",
+    "referenceIndex": 80
+  },
+  {
+    "id": "ref-081-front",
+    "name": "Sepultura · Arise",
+    "collection": "Sepultura",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-081-front.png",
+    "referenceIndex": 81
+  },
+  {
+    "id": "ref-082-front",
+    "name": "Deftones · Calavera alada",
+    "collection": "Deftones",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-082-front.png",
+    "referenceIndex": 82
+  },
+  {
+    "id": "ref-083-front",
+    "name": "Iron Maiden · No Prayer for the Dying",
+    "collection": "Iron Maiden",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-083-front.png",
+    "referenceIndex": 83
+  },
+  {
+    "id": "ref-084-front",
+    "name": "Rammstein · Völkerball",
+    "collection": "Rammstein",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-084-front.png",
+    "referenceIndex": 84
+  },
+  {
+    "id": "ref-085-front",
+    "name": "Rock · Collage de leyendas",
+    "collection": "Rock",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-085-front.png",
+    "referenceIndex": 85
+  },
+  {
+    "id": "ref-086-front",
+    "name": "Rock · Serpiente blanca",
+    "collection": "Rock",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-086-front.png",
+    "referenceIndex": 86
+  },
+  {
+    "id": "ref-087-front",
+    "name": "Metallica · Master of Puppets vintage",
+    "collection": "Metallica",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-087-front.png",
+    "referenceIndex": 87
+  },
+  {
+    "id": "ref-088-front",
+    "name": "Megadeth · Peace Sells",
+    "collection": "Megadeth",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-088-front.png",
+    "referenceIndex": 88
+  },
+  {
+    "id": "ref-089-front",
+    "name": "Cannabis Corpse · Monstruo del pantano",
+    "collection": "Cannabis Corpse",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-089-front.png",
+    "referenceIndex": 89
+  },
+  {
+    "id": "ref-090-front",
+    "name": "Iron Maiden · Fear of the Dark",
+    "collection": "Iron Maiden",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-090-front.png",
+    "referenceIndex": 90
+  },
+  {
+    "id": "ref-091-front",
+    "name": "Calavera encadenada · Metal",
+    "collection": "Metal",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-091-front.png",
+    "referenceIndex": 91
+  },
+  {
+    "id": "ref-092-front",
+    "name": "Megadeth · Logo plata",
+    "collection": "Megadeth",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-092-front.png",
+    "referenceIndex": 92
+  },
+  {
+    "id": "ref-093-front",
+    "name": "Slipknot · Nido",
+    "collection": "Slipknot",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-093-front.png",
+    "referenceIndex": 93
+  },
+  {
+    "id": "ref-094-front",
+    "name": "Slipknot · Símbolo amarillo",
+    "collection": "Slipknot",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-094-front.png",
+    "referenceIndex": 94
+  },
+  {
+    "id": "ref-096-front",
+    "name": "Calavera ardiente",
+    "collection": "Calaveras",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-096-front.png",
+    "referenceIndex": 96,
+    "classificationStatus": "reviewed"
+  },
+  {
+    "id": "ref-097-front",
+    "name": "Alice in Chains · Trípode",
+    "collection": "Alice in Chains",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-097-front.png",
+    "referenceIndex": 97
+  },
+  {
+    "id": "ref-098-front",
+    "name": "Anthrax · Guerrero",
+    "collection": "Anthrax",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-098-front.png",
+    "referenceIndex": 98
+  },
+  {
+    "id": "ref-100-front",
+    "name": "Iron Maiden · The Clairvoyant",
+    "collection": "Iron Maiden",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-100-front.png",
+    "referenceIndex": 100
+  },
+  {
+    "id": "ref-101-front",
+    "name": "Iron Maiden · The Number of the Beast",
+    "collection": "Iron Maiden",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-101-front.png",
+    "referenceIndex": 101
+  },
+  {
+    "id": "ref-102-front",
+    "name": "Metallica · Ninja Star",
+    "collection": "Metallica",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-102-front.png",
+    "referenceIndex": 102
+  },
+  {
+    "id": "ref-103-front",
+    "name": "Pantera · Sello pequeño",
+    "collection": "Pantera",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-103-front.png",
+    "referenceIndex": 103
+  },
+  {
+    "id": "ref-104-front",
+    "name": "Pantera · Stronger Than All",
+    "collection": "Pantera",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-104-front.png",
+    "referenceIndex": 104
+  },
+  {
+    "id": "ref-105-front",
+    "name": "Pantera · Cowboys from Hell",
+    "collection": "Pantera",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-105-front.png",
+    "referenceIndex": 105
+  },
+  {
+    "id": "ref-106-front",
+    "name": "Pantera · Vulgar Display of Power",
+    "collection": "Pantera",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-106-front.png",
+    "referenceIndex": 106
+  },
+  {
+    "id": "ref-107-front",
+    "name": "Rammstein · Emblema industrial",
+    "collection": "Rammstein",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-107-front.png",
+    "referenceIndex": 107
+  },
+  {
+    "id": "ref-108-front",
+    "name": "Megadeth · Countdown",
+    "collection": "Megadeth",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-108-front.png",
+    "referenceIndex": 108
+  },
+  {
+    "id": "ref-109-front",
+    "name": "Nirvana · In Utero",
+    "collection": "Nirvana",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-109-front.png",
+    "referenceIndex": 109
+  },
+  {
+    "id": "ref-110-front",
+    "name": "Guns N Roses · Use Your Illusion",
+    "collection": "Guns N Roses",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-110-front.png",
+    "referenceIndex": 110
+  },
+  {
+    "id": "ref-112-front",
+    "name": "Parálisis Permanente · El acto",
+    "collection": "Parálisis Permanente",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-112-front.png",
+    "referenceIndex": 112
+  },
+  {
+    "id": "ref-114-front",
+    "name": "Slayer · Calavera",
+    "collection": "Slayer",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-114-front.png",
+    "referenceIndex": 114
+  },
+  {
+    "id": "ref-116-front",
+    "name": "Rolling Stones · Serpiente y guitarra",
+    "collection": "Rolling Stones",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-116-front.png",
+    "referenceIndex": 116,
+    "classificationStatus": "reviewed"
+  },
+  {
+    "id": "ref-118-front",
+    "name": "Oasis · Retratos",
+    "collection": "Oasis",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-118-front.png",
+    "referenceIndex": 118
+  },
+  {
+    "id": "ref-119-front",
+    "name": "Avenged Sevenfold · Buried Alive",
+    "collection": "Avenged Sevenfold",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-119-front.png",
+    "referenceIndex": 119,
+    "classificationStatus": "reviewed"
+  },
+  {
+    "id": "ref-121-front",
+    "name": "Iron Maiden · Killers",
+    "collection": "Iron Maiden",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-121-front.png",
+    "referenceIndex": 121
+  },
+  {
+    "id": "ref-122-front",
+    "name": "Kiss · The Demon",
+    "collection": "Kiss",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-122-front.png",
+    "referenceIndex": 122
+  },
+  {
+    "id": "ref-123-front",
+    "name": "The Beatles · Abbey Road",
+    "collection": "The Beatles",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-123-front.png",
+    "referenceIndex": 123
+  },
+  {
+    "id": "ref-124-front",
+    "name": "Iron Maiden · Eddie bestia",
+    "collection": "Iron Maiden",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-124-front.png",
+    "referenceIndex": 124
+  },
+  {
+    "id": "ref-125-front",
+    "name": "Iron Maiden · Best of the Beast",
+    "collection": "Iron Maiden",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-125-front.png",
+    "referenceIndex": 125
+  },
+  {
+    "id": "ref-126-front",
+    "name": "AC/DC · Highway to Hell rojo",
+    "collection": "AC/DC",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-126-front.png",
+    "referenceIndex": 126
+  },
+  {
+    "id": "ref-127-front",
+    "name": "Red Hot Chili Peppers · Estrella roja",
+    "collection": "Red Hot Chili Peppers",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-127-front.png",
+    "referenceIndex": 127
+  },
+  {
+    "id": "ref-128-front",
+    "name": "Children of Bodom · Parca",
+    "collection": "Children of Bodom",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-128-front.png",
+    "referenceIndex": 128
+  },
+  {
+    "id": "ref-129-front",
+    "name": "Metallica · Cráneo amarillo",
+    "collection": "Metallica",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-129-front.png",
+    "referenceIndex": 129
+  },
+  {
+    "id": "ref-130-front",
+    "name": "Nirvana · Zapatillas",
+    "collection": "Nirvana",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-130-front.png",
+    "referenceIndex": 130
+  },
+  {
+    "id": "ref-132-front",
+    "name": "Bullet for My Valentine · Árbol",
+    "collection": "Bullet for My Valentine",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-132-front.png",
+    "referenceIndex": 132
+  },
+  {
+    "id": "ref-133-front",
+    "name": "Alice in Chains · Dirt",
+    "collection": "Alice in Chains",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-133-front.png",
+    "referenceIndex": 133
+  },
+  {
+    "id": "ref-134-front",
+    "name": "Pink Floyd · Live on Stage",
+    "collection": "Pink Floyd",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-134-front.png",
+    "referenceIndex": 134
+  },
+  {
+    "id": "ref-135-front",
+    "name": "As I Lay Dying · Alas y cráneo",
+    "collection": "As I Lay Dying",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-135-front.png",
+    "referenceIndex": 135
+  },
+  {
+    "id": "ref-136-front",
+    "name": "Slipknot · Máscara roja",
+    "collection": "Slipknot",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-136-front.png",
+    "referenceIndex": 136
+  },
+  {
+    "id": "ref-138-front",
+    "name": "Iron Maiden · Eddie azul",
+    "collection": "Iron Maiden",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-138-front.png",
+    "referenceIndex": 138
+  },
+  {
+    "id": "ref-139-front",
+    "name": "Slipknot · Prepare for Hell",
+    "collection": "Slipknot",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-139-front.png",
+    "referenceIndex": 139
+  },
+  {
+    "id": "ref-140-front",
+    "name": "Deftones · Estrella",
+    "collection": "Deftones",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-140-front.png",
+    "referenceIndex": 140
+  },
+  {
+    "id": "ref-141-front",
+    "name": "Danzig · Calavera",
+    "collection": "Danzig",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-141-front.png",
+    "referenceIndex": 141
+  },
+  {
+    "id": "ref-143-front",
+    "name": "Black Clover · Trío",
+    "collection": "Black Clover",
+    "group": "Anime",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-143-front.png",
+    "referenceIndex": 143
+  },
+  {
+    "id": "ref-146-front",
+    "name": "Saitama · Luna",
+    "collection": "One Punch Man",
+    "group": "Anime",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-146-front.png",
+    "referenceIndex": 146
+  },
+  {
+    "id": "ref-147-front",
+    "name": "Saitama · Golpe",
+    "collection": "One Punch Man",
+    "group": "Anime",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-147-front.png",
+    "referenceIndex": 147
+  },
+  {
+    "id": "ref-148-front",
+    "name": "Attack on Titan · Alas de libertad",
+    "collection": "Attack on Titan",
+    "group": "Anime",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-148-front.png",
+    "referenceIndex": 148
+  },
+  {
+    "id": "ref-149-front",
+    "name": "My Hero Academia · Grupo",
+    "collection": "My Hero Academia",
+    "group": "Anime",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-149-front.png",
+    "referenceIndex": 149
+  },
+  {
+    "id": "ref-150-front",
+    "name": "Garou · Aura violeta",
+    "collection": "One Punch Man",
+    "group": "Anime",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-150-front.png",
+    "referenceIndex": 150
+  },
+  {
+    "id": "ref-151-front",
+    "name": "Eren · Titán",
+    "collection": "Attack on Titan",
+    "group": "Anime",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-151-front.png",
+    "referenceIndex": 151
+  },
+  {
+    "id": "ref-152-front",
+    "name": "Tokyo Ghoul · Kaneki",
+    "collection": "Tokyo Ghoul",
+    "group": "Anime",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-152-front.png",
+    "referenceIndex": 152
+  },
+  {
+    "id": "ref-153-front",
+    "name": "Sung Jinwoo · Aura oscura",
+    "collection": "Solo Leveling",
+    "group": "Anime",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-153-front.png",
+    "referenceIndex": 153
+  },
+  {
+    "id": "ref-154-front",
+    "name": "Ryuk · Luna violeta",
+    "collection": "Death Note",
+    "group": "Anime",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-154-front.png",
+    "referenceIndex": 154,
+    "classificationStatus": "reviewed"
+  },
+  {
+    "id": "ref-155-front",
+    "name": "Espadachín y estatua · Ilustración híbrida",
+    "collection": "Crossovers",
+    "group": "Anime",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-155-front.png",
+    "referenceIndex": 155,
+    "classificationStatus": "mixed"
+  },
+  {
+    "id": "ref-156-front",
+    "name": "Chopper · Formas",
+    "collection": "One Piece",
+    "group": "Anime",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-156-front.png",
+    "referenceIndex": 156
+  },
+  {
+    "id": "ref-157-front",
+    "name": "Trafalgar Law · Círculo rojo",
+    "collection": "One Piece",
+    "group": "Anime",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-157-front.png",
+    "referenceIndex": 157
+  },
+  {
+    "id": "ref-158-front",
+    "name": "Luffy · Gear 5",
+    "collection": "One Piece",
+    "group": "Anime",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-158-front.png",
+    "referenceIndex": 158
+  },
+  {
+    "id": "ref-159-front",
+    "name": "Luffy · Panel manga",
+    "collection": "One Piece",
+    "group": "Anime",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-159-front.png",
+    "referenceIndex": 159
+  },
+  {
+    "id": "ref-160-front",
+    "name": "One Piece · Ramen pirata",
+    "collection": "One Piece",
+    "group": "Anime",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-160-front.png",
+    "referenceIndex": 160,
+    "classificationStatus": "reviewed"
+  },
+  {
+    "id": "ref-161-front",
+    "name": "Yuji Itadori · Divergent Fist",
+    "collection": "Jujutsu Kaisen",
+    "group": "Anime",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-161-front.png",
+    "referenceIndex": 161
+  },
+  {
+    "id": "ref-162-front",
+    "name": "Gojo y Geto · Strongest",
+    "collection": "Jujutsu Kaisen",
+    "group": "Anime",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-162-front.png",
+    "referenceIndex": 162
+  },
+  {
+    "id": "ref-163-front",
+    "name": "Demon Slayer · Grupo",
+    "collection": "Demon Slayer",
+    "group": "Anime",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-163-front.png",
+    "referenceIndex": 163
+  },
+  {
+    "id": "ref-164-front",
+    "name": "Inosuke · Doble espada",
+    "collection": "Demon Slayer",
+    "group": "Anime",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-164-front.png",
+    "referenceIndex": 164
+  },
+  {
+    "id": "ref-165-front",
+    "name": "Demon Slayer · Mugen Train",
+    "collection": "Demon Slayer",
+    "group": "Anime",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-165-front.png",
+    "referenceIndex": 165
+  },
+  {
+    "id": "ref-166-front",
+    "name": "Demon Slayer · Hermanos",
+    "collection": "Demon Slayer",
+    "group": "Anime",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-166-front.png",
+    "referenceIndex": 166
+  },
+  {
+    "id": "ref-167-front",
+    "name": "Pochita · Chainsaw",
+    "collection": "Chainsaw Man",
+    "group": "Anime",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-167-front.png",
+    "referenceIndex": 167
+  },
+  {
+    "id": "ref-168-front",
+    "name": "Denji · Chainsaw Man",
+    "collection": "Chainsaw Man",
+    "group": "Anime",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-168-front.png",
+    "referenceIndex": 168
+  },
+  {
+    "id": "ref-169-front",
+    "name": "Gyomei · Hacha y cadena",
+    "collection": "Demon Slayer",
+    "group": "Anime",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-169-front.png",
+    "referenceIndex": 169,
+    "classificationStatus": "reviewed"
+  },
+  {
+    "id": "ref-170-front",
+    "name": "Denji · Lengua y sierra",
+    "collection": "Chainsaw Man",
+    "group": "Anime",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-170-front.png",
+    "referenceIndex": 170
+  },
+  {
+    "id": "ref-171-front",
+    "name": "Zoro · Colores",
+    "collection": "One Piece",
+    "group": "Anime",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-171-front.png",
+    "referenceIndex": 171
+  },
+  {
+    "id": "ref-172-front",
+    "name": "Chainsaw Man · Inferno",
+    "collection": "Chainsaw Man",
+    "group": "Anime",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-172-front.png",
+    "referenceIndex": 172
+  },
+  {
+    "id": "ref-173-front",
+    "name": "Gojo · Infinity",
+    "collection": "Jujutsu Kaisen",
+    "group": "Anime",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-173-front.png",
+    "referenceIndex": 173
+  },
+  {
+    "id": "ref-174-front",
+    "name": "One Piece · Tripulación",
+    "collection": "One Piece",
+    "group": "Anime",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-174-front.png",
+    "referenceIndex": 174
+  },
+  {
+    "id": "ref-175-front",
+    "name": "Luffy · Sonrisa",
+    "collection": "One Piece",
+    "group": "Anime",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-175-front.png",
+    "referenceIndex": 175
+  },
+  {
+    "id": "ref-176-front",
+    "name": "Luffy · Mirada",
+    "collection": "One Piece",
+    "group": "Anime",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-176-front.png",
+    "referenceIndex": 176
+  },
+  {
+    "id": "ref-177-front",
+    "name": "Calavera encapuchada · Fantasía oscura",
+    "collection": "Fantasía oscura",
+    "group": "Ilustraciones",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-177-front.png",
+    "referenceIndex": 177,
+    "classificationStatus": "reviewed"
+  },
+  {
+    "id": "ref-178-front",
+    "name": "Imu · Trono manga",
+    "collection": "One Piece",
+    "group": "Anime",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-178-front.png",
+    "referenceIndex": 178
+  },
+  {
+    "id": "ref-179-front",
+    "name": "Imu · Trono lunar",
+    "collection": "One Piece",
+    "group": "Anime",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-179-front.png",
+    "referenceIndex": 179
+  },
+  {
+    "id": "ref-180-front",
+    "name": "Imu · Ojo carmesí",
+    "collection": "One Piece",
+    "group": "Anime",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-180-front.png",
+    "referenceIndex": 180
+  },
+  {
+    "id": "ref-181-front",
+    "name": "Killua · Collage eléctrico",
+    "collection": "Hunter x Hunter",
+    "group": "Anime",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-181-front.png",
+    "referenceIndex": 181
+  },
+  {
+    "id": "ref-182-front",
+    "name": "Gon · Crecimiento",
+    "collection": "Hunter x Hunter",
+    "group": "Anime",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-182-front.png",
+    "referenceIndex": 182
+  },
+  {
+    "id": "ref-183-front",
+    "name": "Gon · Rage Live",
+    "collection": "Hunter x Hunter",
+    "group": "Anime",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-183-front.png",
+    "referenceIndex": 183
+  },
+  {
+    "id": "ref-184-front",
+    "name": "Luffy · Despedida del Merry",
+    "collection": "One Piece",
+    "group": "Anime",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-184-front.png",
+    "referenceIndex": 184
+  },
+  {
+    "id": "ref-185-front",
+    "name": "Akame ga Kill · Collage rojo",
+    "collection": "Akame ga Kill",
+    "group": "Anime",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-185-front.png",
+    "referenceIndex": 185
+  },
+  {
+    "id": "ref-186-front",
+    "name": "Jinbe · Caballero del mar",
+    "collection": "One Piece",
+    "group": "Anime",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-186-front.png",
+    "referenceIndex": 186
+  },
+  {
+    "id": "ref-187-front",
+    "name": "Zoro · Tres espadas",
+    "collection": "One Piece",
+    "group": "Anime",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-187-front.png",
+    "referenceIndex": 187
+  },
+  {
+    "id": "ref-188-front",
+    "name": "Sung Jinwoo · Shadow Monarch",
+    "collection": "Solo Leveling",
+    "group": "Anime",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-188-front.png",
+    "referenceIndex": 188
+  },
+  {
+    "id": "ref-189-front",
+    "name": "Meliodas · Pecado del dragón",
+    "collection": "The Seven Deadly Sins",
+    "group": "Anime",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-189-front.png",
+    "referenceIndex": 189
+  },
+  {
+    "id": "ref-190-front",
+    "name": "Deadman Wonderland · Ganta y Shiro",
+    "collection": "Deadman Wonderland",
+    "group": "Anime",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-190-front.png",
+    "referenceIndex": 190
+  },
+  {
+    "id": "ref-191-front",
+    "name": "Mägo de Oz · La magia sigue viva",
+    "collection": "Mägo de Oz",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-191-front.png",
+    "referenceIndex": 191
+  },
+  {
+    "id": "ref-192-front",
+    "name": "Thorfinn · No tengo enemigos",
+    "collection": "Vinland Saga",
+    "group": "Anime",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-192-front.png",
+    "referenceIndex": 192
+  },
+  {
+    "id": "ref-193-front",
+    "name": "Soberano oscuro · Corona violeta",
+    "collection": "Fantasía",
+    "group": "Fantasía",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-193-front.png",
+    "referenceIndex": 193
+  },
+  {
+    "id": "ref-194-front",
+    "name": "Iron Maiden · Leyendas",
+    "collection": "Iron Maiden",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-194-front.png",
+    "referenceIndex": 194
+  },
+  {
+    "id": "ref-195-front",
+    "name": "Bunbury · Héroe nocturno",
+    "collection": "Bunbury",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-195-front.png",
+    "referenceIndex": 195
+  },
+  {
+    "id": "ref-198-front",
+    "name": "Judas Priest · British Steel navaja",
+    "collection": "Judas Priest",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-198-front.png",
+    "referenceIndex": 198
+  },
+  {
+    "id": "ref-199-front",
+    "name": "Linkin Park · Meteora retrato",
+    "collection": "Linkin Park",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-199-front.png",
+    "referenceIndex": 199
+  },
+  {
+    "id": "ref-200-front",
+    "name": "Black Clover · Calavera",
+    "collection": "Black Clover",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-200-front.png",
+    "referenceIndex": 200
+  },
+  {
+    "id": "ref-201-front",
+    "name": "Black Clover · Grupo",
+    "collection": "Black Clover",
+    "group": "Anime",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-201-front.png",
+    "referenceIndex": 201
+  },
+  {
+    "id": "ref-202-front",
+    "name": "Attack on Titan · Transformación",
+    "collection": "Attack on Titan",
+    "group": "Anime",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-202-front.png",
+    "referenceIndex": 202
+  },
+  {
+    "id": "ref-203-front",
+    "name": "Alucard · Hellsing",
+    "collection": "Hellsing",
+    "group": "Anime",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-203-front.png",
+    "referenceIndex": 203
+  },
+  {
+    "id": "ref-204-front",
+    "name": "Reiner · Titán acorazado",
+    "collection": "Attack on Titan",
+    "group": "Anime",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-204-front.png",
+    "referenceIndex": 204
+  },
+  {
+    "id": "ref-206-front",
+    "name": "Attack on Titan · Paneles rojos",
+    "collection": "Attack on Titan",
+    "group": "Anime",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-206-front.png",
+    "referenceIndex": 206
+  },
+  {
+    "id": "ref-207-front",
+    "name": "Mikasa · Ackerman",
+    "collection": "Attack on Titan",
+    "group": "Anime",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-207-front.png",
+    "referenceIndex": 207
+  },
+  {
+    "id": "ref-208-front",
+    "name": "Saitama y Garou · Dualidad",
+    "collection": "One Punch Man",
+    "group": "Anime",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-208-front.png",
+    "referenceIndex": 208,
+    "classificationStatus": "reviewed"
+  },
+  {
+    "id": "ref-209-front",
+    "name": "One Punch Man · Saitama serio",
+    "collection": "One Punch Man",
+    "group": "Anime",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-209-front.png",
+    "referenceIndex": 209
+  },
+  {
+    "id": "ref-211-front",
+    "name": "My Hero Academia · Deku y Bakugo",
+    "collection": "My Hero Academia",
+    "group": "Anime",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-211-front.png",
+    "referenceIndex": 211
+  },
+  {
+    "id": "ref-212-front",
+    "name": "Saitama · Dragón",
+    "collection": "One Punch Man",
+    "group": "Anime",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-212-front.png",
+    "referenceIndex": 212
+  },
+  {
+    "id": "ref-213-front",
+    "name": "My Hero Academia · Bakugo",
+    "collection": "My Hero Academia",
+    "group": "Anime",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-213-front.png",
+    "referenceIndex": 213
+  },
+  {
+    "id": "ref-214-front",
+    "name": "My Hero Academia · Batalla",
+    "collection": "My Hero Academia",
+    "group": "Anime",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-214-front.png",
+    "referenceIndex": 214
+  },
+  {
+    "id": "ref-215-front",
+    "name": "My Hero Academia · All Might y Deku",
+    "collection": "My Hero Academia",
+    "group": "Anime",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-215-front.png",
+    "referenceIndex": 215
+  },
+  {
+    "id": "ref-216-front",
+    "name": "Bakugo · Explosión",
+    "collection": "My Hero Academia",
+    "group": "Anime",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-216-front.png",
+    "referenceIndex": 216
+  },
+  {
+    "id": "ref-218-front",
+    "name": "Tokyo Ghoul · Kaneki oscuro",
+    "collection": "Tokyo Ghoul",
+    "group": "Anime",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-218-front.png",
+    "referenceIndex": 218
+  },
+  {
+    "id": "ref-219-front",
+    "name": "Beru · Sombra del rey hormiga",
+    "collection": "Solo Leveling",
+    "group": "Anime",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-219-front.png",
+    "referenceIndex": 219,
+    "classificationStatus": "reviewed"
+  },
+  {
+    "id": "ref-220-front",
+    "name": "Igris · Caballero rojo",
+    "collection": "Solo Leveling",
+    "group": "Anime",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-220-front.png",
+    "referenceIndex": 220,
+    "classificationStatus": "reviewed"
+  },
+  {
+    "id": "ref-221-front",
+    "name": "Sung Jinwoo · Collage azul",
+    "collection": "Solo Leveling",
+    "group": "Anime",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-221-front.png",
+    "referenceIndex": 221,
+    "classificationStatus": "reviewed"
+  },
+  {
+    "id": "ref-223-front",
+    "name": "Eustass Kid · Metal",
+    "collection": "One Piece",
+    "group": "Anime",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-223-front.png",
+    "referenceIndex": 223
+  },
+  {
+    "id": "ref-224-front",
+    "name": "One Piece · Calavera pirata",
+    "collection": "One Piece",
+    "group": "Anime",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-224-front.png",
+    "referenceIndex": 224
+  },
+  {
+    "id": "ref-225-front",
+    "name": "One Piece · Espadachín Asura",
+    "collection": "One Piece",
+    "group": "Anime",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-225-front.png",
+    "referenceIndex": 225,
+    "classificationStatus": "reviewed"
+  },
+  {
+    "id": "ref-226-front",
+    "name": "Eustass Kid · Puño mecánico",
+    "collection": "One Piece",
+    "group": "Anime",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-226-front.png",
+    "referenceIndex": 226,
+    "classificationStatus": "reviewed"
+  },
+  {
+    "id": "ref-227-front",
+    "name": "One Piece · Puño de fuego",
+    "collection": "One Piece",
+    "group": "Anime",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-227-front.png",
+    "referenceIndex": 227,
+    "classificationStatus": "reviewed"
+  },
+  {
+    "id": "ref-228-front",
+    "name": "Tony Chopper · Aventura",
+    "collection": "One Piece",
+    "group": "Anime",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-228-front.png",
+    "referenceIndex": 228
+  },
+  {
+    "id": "ref-229-front",
+    "name": "One Piece · Three Legends",
+    "collection": "One Piece",
+    "group": "Anime",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-229-front.png",
+    "referenceIndex": 229
+  },
+  {
+    "id": "ref-230-front",
+    "name": "Jujutsu Kaisen · Mahito",
+    "collection": "Jujutsu Kaisen",
+    "group": "Anime",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-230-front.png",
+    "referenceIndex": 230
+  },
+  {
+    "id": "ref-231-front",
+    "name": "Jujutsu Kaisen · Sukuna",
+    "collection": "Jujutsu Kaisen",
+    "group": "Anime",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-231-front.png",
+    "referenceIndex": 231
+  },
+  {
+    "id": "ref-232-front",
+    "name": "Kenjaku · Cerebro maldito",
+    "collection": "Jujutsu Kaisen",
+    "group": "Anime",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-232-front.png",
+    "referenceIndex": 232,
+    "classificationStatus": "reviewed"
+  },
+  {
+    "id": "ref-233-front",
+    "name": "Jujutsu Kaisen · Suguru Geto",
+    "collection": "Jujutsu Kaisen",
+    "group": "Anime",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-233-front.png",
+    "referenceIndex": 233
+  },
+  {
+    "id": "ref-234-front",
+    "name": "Yuta y Rika · Maldición rosa",
+    "collection": "Jujutsu Kaisen",
+    "group": "Anime",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-234-front.png",
+    "referenceIndex": 234,
+    "classificationStatus": "reviewed"
+  },
+  {
+    "id": "ref-235-front",
+    "name": "Jujutsu Kaisen · Toji",
+    "collection": "Jujutsu Kaisen",
+    "group": "Anime",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-235-front.png",
+    "referenceIndex": 235
+  },
+  {
+    "id": "ref-236-front",
+    "name": "Tanjiro · Agua y fuego",
+    "collection": "Demon Slayer",
+    "group": "Anime",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-236-front.png",
+    "referenceIndex": 236,
+    "classificationStatus": "reviewed"
+  },
+  {
+    "id": "ref-237-front",
+    "name": "Jujutsu Kaisen · Maldiciones",
+    "collection": "Jujutsu Kaisen",
+    "group": "Anime",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-237-front.png",
+    "referenceIndex": 237
+  },
+  {
+    "id": "ref-238-front",
+    "name": "Gyomei · Pilar de la Roca",
+    "collection": "Demon Slayer",
+    "group": "Anime",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-238-front.png",
+    "referenceIndex": 238,
+    "classificationStatus": "reviewed"
+  },
+  {
+    "id": "ref-239-front",
+    "name": "Sanemi · Pilar del Viento",
+    "collection": "Demon Slayer",
+    "group": "Anime",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-239-front.png",
+    "referenceIndex": 239,
+    "classificationStatus": "reviewed"
+  },
+  {
+    "id": "ref-240-front",
+    "name": "Giyu Tomioka · Pilar del Agua",
+    "collection": "Demon Slayer",
+    "group": "Anime",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-240-front.png",
+    "referenceIndex": 240,
+    "classificationStatus": "reviewed"
+  },
+  {
+    "id": "ref-241-front",
+    "name": "Power · Chainsaw Man",
+    "collection": "Chainsaw Man",
+    "group": "Anime",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-241-front.png",
+    "referenceIndex": 241
+  },
+  {
+    "id": "ref-242-front",
+    "name": "Denji · Pochita",
+    "collection": "Chainsaw Man",
+    "group": "Anime",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-242-front.png",
+    "referenceIndex": 242
+  },
+  {
+    "id": "ref-243-front",
+    "name": "Obanai · Pilar de la Serpiente",
+    "collection": "Demon Slayer",
+    "group": "Anime",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-243-front.png",
+    "referenceIndex": 243,
+    "classificationStatus": "reviewed"
+  },
+  {
+    "id": "ref-244-front",
+    "name": "Sung Jinwoo · Despertar",
+    "collection": "Solo Leveling",
+    "group": "Anime",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-244-front.png",
+    "referenceIndex": 244
+  },
+  {
+    "id": "ref-245-front",
+    "name": "Luffy · Evolución Gear",
+    "collection": "One Piece",
+    "group": "Anime",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-245-front.png",
+    "referenceIndex": 245
+  },
+  {
+    "id": "ref-246-front",
+    "name": "Iron Maiden · Union Jack",
+    "collection": "Iron Maiden",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-246-front.png",
+    "referenceIndex": 246
+  },
+  {
+    "id": "ref-247-front",
+    "name": "Luffy · Gear 5 Nika",
+    "collection": "One Piece",
+    "group": "Anime",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-247-front.png",
+    "referenceIndex": 247
+  },
+  {
+    "id": "ref-248-front",
+    "name": "Luffy · Cinco Gears",
+    "collection": "One Piece",
+    "group": "Anime",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-248-front.png",
+    "referenceIndex": 248
+  },
+  {
+    "id": "ref-249-front",
+    "name": "Gon · Evolución",
+    "collection": "Hunter x Hunter",
+    "group": "Anime",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-249-front.png",
+    "referenceIndex": 249
+  },
+  {
+    "id": "ref-250-front",
+    "name": "Alucard · No Life King",
+    "collection": "Hellsing",
+    "group": "Anime",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-250-front.png",
+    "referenceIndex": 250
+  },
+  {
+    "id": "ref-251-front",
+    "name": "Gon · Aura dorada",
+    "collection": "Hunter x Hunter",
+    "group": "Anime",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-251-front.png",
+    "referenceIndex": 251
+  },
+  {
+    "id": "ref-252-front",
+    "name": "Yato · Noragami",
+    "collection": "Noragami",
+    "group": "Anime",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-252-front.png",
+    "referenceIndex": 252
+  },
+  {
+    "id": "ref-253-front",
+    "name": "Denji · Devil Hunter",
+    "collection": "Chainsaw Man",
+    "group": "Anime",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-253-front.png",
+    "referenceIndex": 253
+  },
+  {
+    "id": "ref-254-front",
+    "name": "Akame · Night Raid",
+    "collection": "Akame ga Kill",
+    "group": "Anime",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-254-front.png",
+    "referenceIndex": 254
+  },
+  {
+    "id": "ref-255-front",
+    "name": "Chopper · Collage tierno",
+    "collection": "One Piece",
+    "group": "Anime",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-255-front.png",
+    "referenceIndex": 255
+  },
+  {
+    "id": "ref-256-front",
+    "name": "Dororo · Hyakkimaru",
+    "collection": "Dororo",
+    "group": "Anime",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-256-front.png",
+    "referenceIndex": 256
+  },
+  {
+    "id": "ref-257-front",
+    "name": "Brook · Soul King collage",
+    "collection": "One Piece",
+    "group": "Anime",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-257-front.png",
+    "referenceIndex": 257
+  },
+  {
+    "id": "ref-258-front",
+    "name": "Sanji · Pierna negra",
+    "collection": "One Piece",
+    "group": "Anime",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-258-front.png",
+    "referenceIndex": 258
+  },
+  {
+    "id": "ref-259-front",
+    "name": "Escanor · Orgullo",
+    "collection": "The Seven Deadly Sins",
+    "group": "Anime",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-259-front.png",
+    "referenceIndex": 259
+  },
+  {
+    "id": "ref-260-front",
+    "name": "Ban · Inmortal",
+    "collection": "The Seven Deadly Sins",
+    "group": "Anime",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-260-front.png",
+    "referenceIndex": 260
+  },
+  {
+    "id": "ref-261-front",
+    "name": "Bunbury · La vida sigue",
+    "collection": "Bunbury",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-261-front.png",
+    "referenceIndex": 261
+  }
+];

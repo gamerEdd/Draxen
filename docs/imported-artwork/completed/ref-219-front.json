@@ -1,0 +1,24 @@
+{
+  "id": "ref-219-front",
+  "n": 219,
+  "name": "Beru · Sombra del rey hormiga",
+  "side": "front",
+  "group": "Anime",
+  "collection": "Solo Leveling",
+  "src": "/assets/designs/ref-219-front.png",
+  "tool": "image_gen",
+  "source": "219.jpg",
+  "reference": "C:/Users/eddgt/Documents/GitHub/Draxen/docs/imported-artwork/originals/219.jpg",
+  "status": "approved",
+  "prompt": "Edit the provided reference into ONE standalone high-resolution apparel print. Subject: Sung Jinwoo · Dagas, main FRONT print. The reference contains the correct target design. Faithfully recreate its actual illustration, composition, detailed linework, textures, colors and all readable lettering. Do not substitute a different front/back version. Keep the full dense detail rather than a simplified icon. Correct garment perspective and fabric distortion. Remove only the photographed garment, mannequin, decorative cups, shop, table and unrelated sale panels. Preserve artistic panels and backgrounds within the actual printed design. Genuine transparent background OUTSIDE the complete artwork, with clear margin around all edges. Crisp printable color and contours. No garment mockup. Preserve legible words and typographic hierarchy; do not invent new slogans, song titles or dates. If the source is an artwork rather than a shirt, preserve that whole artwork.",
+  "classificationReview": {
+    "date": "2026-11-14",
+    "status": "reviewed",
+    "reason": "Armadura de hormiga y nombre BERU legible; no Sung Jinwoo con dagas.",
+    "previous": {
+      "name": "Sung Jinwoo · Dagas",
+      "collection": "Solo Leveling",
+      "group": "Anime"
+    }
+  }
+}

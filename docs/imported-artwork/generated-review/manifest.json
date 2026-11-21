@@ -1,0 +1,1808 @@
+[
+  {
+    "id": "ref-001-back",
+    "name": "Iron Maiden · Run for Your Lives",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-001-front",
+    "name": "Iron Maiden · Run for Your Lives",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-002-back",
+    "name": "Avenged Sevenfold · Deathbat",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-003-back",
+    "name": "Sodom · Agent Orange",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-003-front",
+    "name": "Sodom · Agent Orange",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-004-back",
+    "name": "Barón Rojo · Aviador",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-004-front",
+    "name": "Barón Rojo · Aviador",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-005-back",
+    "name": "Los Suaves · Gato negro",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-005-front",
+    "name": "Los Suaves · Gato negro",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-006-back",
+    "name": "La Parca · Serpiente y cráneo",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-006-front",
+    "name": "La Parca · Serpiente y cráneo",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-007-back",
+    "name": "2 Minutos · Valentín Alsina",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-007-front",
+    "name": "2 Minutos · Valentín Alsina",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-008-back",
+    "name": "Iron Maiden · World Tour",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-008-front",
+    "name": "Iron Maiden · World Tour",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-009-back",
+    "name": "Rammstein · Sehnsucht emblema",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-009-front",
+    "name": "Rammstein · Sehnsucht emblema",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-010-back",
+    "name": "Slipknot · Máscaras y estrella",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-010-front",
+    "name": "Slipknot · Máscaras y estrella",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-011-back",
+    "name": "Nokturnal Mortum · Bosque",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-011-front",
+    "name": "Nokturnal Mortum · Bosque",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-012-back",
+    "name": "Sagitario · Armadura dorada",
+    "group": "Anime",
+    "status": "approved"
+  },
+  {
+    "id": "ref-012-front",
+    "name": "Sagitario · Armadura dorada",
+    "group": "Anime",
+    "status": "approved"
+  },
+  {
+    "id": "ref-013-back",
+    "name": "Death · Human",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-013-front",
+    "name": "Death · Human",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-014-back",
+    "name": "Lacrimosa · Elodia",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-014-front",
+    "name": "Lacrimosa · Elodia",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-016-back",
+    "name": "Gorillaz · Grupo verde",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-016-front",
+    "name": "Gorillaz · Grupo verde",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-017-back",
+    "name": "Megadeth · Fire in Latin America",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-017-front",
+    "name": "Megadeth · Fire in Latin America",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-018-back",
+    "name": "Slayer · Show No Mercy",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-019-back",
+    "name": "Metallica · Ride the Lightning",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-019-front",
+    "name": "Metallica · Ride the Lightning",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-020-back",
+    "name": "Misfits · Fiend verde",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-020-front",
+    "name": "Misfits · Fiend verde",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-021-back",
+    "name": "Linkin Park · Meteora",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-021-front",
+    "name": "Linkin Park · Meteora",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-022-back",
+    "name": "Nirvana · Kurt Cobain ángel",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-022-front",
+    "name": "Nirvana · Kurt Cobain ángel",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-023-back",
+    "name": "Black Sabbath · Back to the Beginning",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-023-front",
+    "name": "Black Sabbath · Back to the Beginning",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-024-back",
+    "name": "La Parca · Portal nocturno",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-024-front",
+    "name": "La Parca · Portal nocturno",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-025-back",
+    "name": "Marilyn Manson · Retrato",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-026-back",
+    "name": "Metallica · Master of Puppets",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-026-front",
+    "name": "Metallica · Master of Puppets",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-027-back",
+    "name": "Ozzy Osbourne · Prince of Darkness",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-029-back",
+    "name": "Héroes del Silencio · Emblema",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-029-front",
+    "name": "Héroes del Silencio · Emblema",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-030-back",
+    "name": "Hermética · Ácido argentino",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-030-front",
+    "name": "Hermética · Ácido argentino",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-031-back",
+    "name": "Helloween · Walls of Jericho",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-031-front",
+    "name": "Helloween · Walls of Jericho",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-032-back",
+    "name": "Soda Stereo · Gracias totales",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-032-front",
+    "name": "Soda Stereo · Gracias totales",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-033-back",
+    "name": "Lacrimosa · Catedral",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-033-front",
+    "name": "Lacrimosa · Catedral",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-034-back",
+    "name": "Sepultura · Chaos AD",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-034-front",
+    "name": "Sepultura · Chaos AD",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-035-back",
+    "name": "Slipknot · Des Moines 1995",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-035-front",
+    "name": "Slipknot · Des Moines 1995",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-036-back",
+    "name": "Iron Maiden · Seventh Son",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-036-front",
+    "name": "Iron Maiden · Seventh Son",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-037-back",
+    "name": "Kiss · Gene Simmons",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-037-front",
+    "name": "Kiss · Gene Simmons",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-038-back",
+    "name": "Stratovarius · Visions",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-038-front",
+    "name": "Stratovarius · Visions",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-040-back",
+    "name": "Saratoga · Némesis",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-040-front",
+    "name": "Saratoga · Némesis",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-041-back",
+    "name": "Mägo de Oz · Gaia",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-041-front",
+    "name": "Mägo de Oz · Gaia",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-042-back",
+    "name": "System of a Down · Hypnotize",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-042-front",
+    "name": "System of a Down · Hypnotize",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-043-front",
+    "name": "Queen · Bohemian Rhapsody",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-044-back",
+    "name": "AC/DC · Highway to Hell",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-045-back",
+    "name": "Def Leppard · Hysteria",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-045-front",
+    "name": "Def Leppard · Hysteria",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-046-back",
+    "name": "Rammstein · Rosenrot",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-046-front",
+    "name": "Rammstein · Rosenrot",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-047-back",
+    "name": "Led Zeppelin · United States 1977",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-047-front",
+    "name": "Led Zeppelin · United States 1977",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-048-back",
+    "name": "Motörhead · Aftershock",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-048-front",
+    "name": "Motörhead · Aftershock",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-049-back",
+    "name": "Megadeth · Symphony of Destruction",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-049-front",
+    "name": "Megadeth · Symphony of Destruction",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-050-back",
+    "name": "Foo Fighters · Águila y cráneo",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-050-front",
+    "name": "Foo Fighters · Águila y cráneo",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-051-back",
+    "name": "Judas Priest · British Steel",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-051-front",
+    "name": "Judas Priest · British Steel",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-052-back",
+    "name": "Baphomet · Grabado",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-053-back",
+    "name": "Baphomet · Estrella",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-053-front",
+    "name": "Baphomet · Estrella",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-054-back",
+    "name": "Bathory · Hordes",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-054-front",
+    "name": "Bathory · Hordes",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-055-back",
+    "name": "Marduk · Panzer Division",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-055-front",
+    "name": "Marduk · Panzer Division",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-056-back",
+    "name": "Dissection · Storm of the Lights Bane",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-056-front",
+    "name": "Dissection · Storm of the Lights Bane",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-057-back",
+    "name": "Mayhem · Liturgy of Death",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-057-front",
+    "name": "Mayhem · Liturgy of Death",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-058-back",
+    "name": "Behemoth · Abismo",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-058-front",
+    "name": "Behemoth · Abismo",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-059-back",
+    "name": "Cradle of Filth · Cruelty and the Beast",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-060-back",
+    "name": "Unleashed · No Sign of Life",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-060-front",
+    "name": "Unleashed · No Sign of Life",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-061-back",
+    "name": "Behemoth · The Satanist",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-061-front",
+    "name": "Behemoth · The Satanist",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-062-back",
+    "name": "Krisiun · Mortem Solis",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-062-front",
+    "name": "Krisiun · Mortem Solis",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-063-back",
+    "name": "Dimmu Borgir · Abrahadabra",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-063-front",
+    "name": "Dimmu Borgir · Abrahadabra",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-064-back",
+    "name": "Rotting Christ · Crucifixión",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-064-front",
+    "name": "Rotting Christ · Crucifixión",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-065-back",
+    "name": "Sarcófago · Rotting",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-065-front",
+    "name": "Sarcófago · Rotting",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-066-back",
+    "name": "Nocturnal Depression · Siluetas",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-066-front",
+    "name": "Nocturnal Depression · Siluetas",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-067-back",
+    "name": "Kreator · Terrible Certainty",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-067-front",
+    "name": "Kreator · Terrible Certainty",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-068-back",
+    "name": "Amon Amarth · Guerrero",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-068-front",
+    "name": "Amon Amarth · Guerrero",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-069-back",
+    "name": "Vital Remains · Baphomet",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-069-front",
+    "name": "Vital Remains · Baphomet",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-071-front",
+    "name": "One Piece · Retrato dividido",
+    "group": "Anime",
+    "status": "approved"
+  },
+  {
+    "id": "ref-072-back",
+    "name": "Obituary · Cause of Death",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-072-front",
+    "name": "Obituary · Cause of Death",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-073-back",
+    "name": "Brujería · Matando güeros",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-073-front",
+    "name": "Brujería · Matando güeros",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-074-front",
+    "name": "Iron Maiden · Cyborg rojo",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-075-front",
+    "name": "Linkin Park · Meteora azul",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-076-back",
+    "name": "Venom · Black Metal",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-076-front",
+    "name": "Venom · Black Metal",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-077-front",
+    "name": "Metallica · And Justice for All",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-078-front",
+    "name": "Black Sabbath · US Tour 78",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-079-front",
+    "name": "Metallica · Harvester of Sorrow",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-080-front",
+    "name": "Venom · Black Metal blanco",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-081-front",
+    "name": "Sepultura · Arise",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-082-front",
+    "name": "Deftones · Calavera alada",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-083-front",
+    "name": "Iron Maiden · No Prayer for the Dying",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-084-front",
+    "name": "Rammstein · Völkerball",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-085-front",
+    "name": "Rock · Collage de leyendas",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-086-front",
+    "name": "Rock · Serpiente blanca",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-087-front",
+    "name": "Metallica · Master of Puppets vintage",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-088-front",
+    "name": "Megadeth · Peace Sells",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-089-front",
+    "name": "Cannabis Corpse · Monstruo del pantano",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-090-front",
+    "name": "Iron Maiden · Fear of the Dark",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-091-front",
+    "name": "Calavera encadenada · Metal",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-092-front",
+    "name": "Megadeth · Logo plata",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-093-front",
+    "name": "Slipknot · Nido",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-094-front",
+    "name": "Slipknot · Símbolo amarillo",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-096-front",
+    "name": "Iron Maiden · Calavera ardiente",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-097-front",
+    "name": "Alice in Chains · Trípode",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-098-front",
+    "name": "Anthrax · Guerrero",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-100-front",
+    "name": "Iron Maiden · The Clairvoyant",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-101-front",
+    "name": "Iron Maiden · The Number of the Beast",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-102-front",
+    "name": "Metallica · Ninja Star",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-103-front",
+    "name": "Pantera · Sello pequeño",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-104-front",
+    "name": "Pantera · Stronger Than All",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-105-front",
+    "name": "Pantera · Cowboys from Hell",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-106-front",
+    "name": "Pantera · Vulgar Display of Power",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-107-front",
+    "name": "Rammstein · Emblema industrial",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-108-front",
+    "name": "Megadeth · Countdown",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-109-front",
+    "name": "Nirvana · In Utero",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-110-front",
+    "name": "Guns N Roses · Use Your Illusion",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-112-front",
+    "name": "Parálisis Permanente · El acto",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-114-front",
+    "name": "Slayer · Calavera",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-116-front",
+    "name": "Whitesnake · Serpiente",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-118-front",
+    "name": "Oasis · Retratos",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-119-front",
+    "name": "Iron Maiden · Fear of the Dark bosque",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-121-front",
+    "name": "Iron Maiden · Killers",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-122-front",
+    "name": "Kiss · The Demon",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-123-front",
+    "name": "The Beatles · Abbey Road",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-124-front",
+    "name": "Iron Maiden · Eddie bestia",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-125-front",
+    "name": "Iron Maiden · Best of the Beast",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-126-front",
+    "name": "AC/DC · Highway to Hell rojo",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-127-front",
+    "name": "Red Hot Chili Peppers · Estrella roja",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-128-front",
+    "name": "Children of Bodom · Parca",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-129-front",
+    "name": "Metallica · Cráneo amarillo",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-130-front",
+    "name": "Nirvana · Zapatillas",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-132-front",
+    "name": "Bullet for My Valentine · Árbol",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-133-front",
+    "name": "Alice in Chains · Dirt",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-134-front",
+    "name": "Pink Floyd · Live on Stage",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-135-front",
+    "name": "As I Lay Dying · Alas y cráneo",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-136-front",
+    "name": "Slipknot · Máscara roja",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-138-front",
+    "name": "Iron Maiden · Eddie azul",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-139-front",
+    "name": "Slipknot · Prepare for Hell",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-140-front",
+    "name": "Deftones · Estrella",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-141-front",
+    "name": "Danzig · Calavera",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-143-front",
+    "name": "Black Clover · Trío",
+    "group": "Anime",
+    "status": "approved"
+  },
+  {
+    "id": "ref-146-front",
+    "name": "Saitama · Luna",
+    "group": "Anime",
+    "status": "approved"
+  },
+  {
+    "id": "ref-147-front",
+    "name": "Saitama · Golpe",
+    "group": "Anime",
+    "status": "approved"
+  },
+  {
+    "id": "ref-148-front",
+    "name": "Attack on Titan · Alas de libertad",
+    "group": "Anime",
+    "status": "approved"
+  },
+  {
+    "id": "ref-149-front",
+    "name": "My Hero Academia · Grupo",
+    "group": "Anime",
+    "status": "approved"
+  },
+  {
+    "id": "ref-150-front",
+    "name": "Garou · Aura violeta",
+    "group": "Anime",
+    "status": "approved"
+  },
+  {
+    "id": "ref-151-front",
+    "name": "Eren · Titán",
+    "group": "Anime",
+    "status": "approved"
+  },
+  {
+    "id": "ref-152-front",
+    "name": "Tokyo Ghoul · Kaneki",
+    "group": "Anime",
+    "status": "approved"
+  },
+  {
+    "id": "ref-153-front",
+    "name": "Sung Jinwoo · Aura oscura",
+    "group": "Anime",
+    "status": "approved"
+  },
+  {
+    "id": "ref-154-front",
+    "name": "Ryuk · Luna violeta",
+    "group": "Anime",
+    "status": "approved"
+  },
+  {
+    "id": "ref-155-front",
+    "name": "Zoro · Energía morada",
+    "group": "Anime",
+    "status": "approved"
+  },
+  {
+    "id": "ref-156-front",
+    "name": "Chopper · Formas",
+    "group": "Anime",
+    "status": "approved"
+  },
+  {
+    "id": "ref-157-front",
+    "name": "Trafalgar Law · Círculo rojo",
+    "group": "Anime",
+    "status": "approved"
+  },
+  {
+    "id": "ref-158-front",
+    "name": "Luffy · Gear 5",
+    "group": "Anime",
+    "status": "approved"
+  },
+  {
+    "id": "ref-159-front",
+    "name": "Luffy · Panel manga",
+    "group": "Anime",
+    "status": "approved"
+  },
+  {
+    "id": "ref-160-front",
+    "name": "Brook · Soul King",
+    "group": "Anime",
+    "status": "approved"
+  },
+  {
+    "id": "ref-161-front",
+    "name": "Yuji Itadori · Divergent Fist",
+    "group": "Anime",
+    "status": "approved"
+  },
+  {
+    "id": "ref-162-front",
+    "name": "Gojo y Geto · Strongest",
+    "group": "Anime",
+    "status": "approved"
+  },
+  {
+    "id": "ref-163-front",
+    "name": "Demon Slayer · Grupo",
+    "group": "Anime",
+    "status": "approved"
+  },
+  {
+    "id": "ref-164-front",
+    "name": "Inosuke · Doble espada",
+    "group": "Anime",
+    "status": "approved"
+  },
+  {
+    "id": "ref-165-front",
+    "name": "Demon Slayer · Mugen Train",
+    "group": "Anime",
+    "status": "approved"
+  },
+  {
+    "id": "ref-166-front",
+    "name": "Demon Slayer · Hermanos",
+    "group": "Anime",
+    "status": "approved"
+  },
+  {
+    "id": "ref-167-front",
+    "name": "Pochita · Chainsaw",
+    "group": "Anime",
+    "status": "approved"
+  },
+  {
+    "id": "ref-168-front",
+    "name": "Denji · Chainsaw Man",
+    "group": "Anime",
+    "status": "approved"
+  },
+  {
+    "id": "ref-169-front",
+    "name": "Chainsaw Man · Makima",
+    "group": "Anime",
+    "status": "approved"
+  },
+  {
+    "id": "ref-170-front",
+    "name": "Denji · Lengua y sierra",
+    "group": "Anime",
+    "status": "approved"
+  },
+  {
+    "id": "ref-171-front",
+    "name": "Zoro · Colores",
+    "group": "Anime",
+    "status": "approved"
+  },
+  {
+    "id": "ref-172-front",
+    "name": "Chainsaw Man · Inferno",
+    "group": "Anime",
+    "status": "approved"
+  },
+  {
+    "id": "ref-173-front",
+    "name": "Gojo · Infinity",
+    "group": "Anime",
+    "status": "approved"
+  },
+  {
+    "id": "ref-174-front",
+    "name": "One Piece · Tripulación",
+    "group": "Anime",
+    "status": "approved"
+  },
+  {
+    "id": "ref-175-front",
+    "name": "Luffy · Sonrisa",
+    "group": "Anime",
+    "status": "approved"
+  },
+  {
+    "id": "ref-176-front",
+    "name": "Luffy · Mirada",
+    "group": "Anime",
+    "status": "approved"
+  },
+  {
+    "id": "ref-177-front",
+    "name": "Skeletor · Capucha",
+    "group": "Cómics",
+    "status": "approved"
+  },
+  {
+    "id": "ref-178-front",
+    "name": "Imu · Trono manga",
+    "group": "Anime",
+    "status": "approved"
+  },
+  {
+    "id": "ref-179-front",
+    "name": "Imu · Trono lunar",
+    "group": "Anime",
+    "status": "approved"
+  },
+  {
+    "id": "ref-180-front",
+    "name": "Imu · Ojo carmesí",
+    "group": "Anime",
+    "status": "approved"
+  },
+  {
+    "id": "ref-181-front",
+    "name": "Killua · Collage eléctrico",
+    "group": "Anime",
+    "status": "approved"
+  },
+  {
+    "id": "ref-182-front",
+    "name": "Gon · Crecimiento",
+    "group": "Anime",
+    "status": "approved"
+  },
+  {
+    "id": "ref-183-front",
+    "name": "Gon · Rage Live",
+    "group": "Anime",
+    "status": "approved"
+  },
+  {
+    "id": "ref-184-front",
+    "name": "Luffy · Despedida del Merry",
+    "group": "Anime",
+    "status": "approved"
+  },
+  {
+    "id": "ref-185-front",
+    "name": "Akame ga Kill · Collage rojo",
+    "group": "Anime",
+    "status": "approved"
+  },
+  {
+    "id": "ref-186-front",
+    "name": "Jinbe · Caballero del mar",
+    "group": "Anime",
+    "status": "approved"
+  },
+  {
+    "id": "ref-187-front",
+    "name": "Zoro · Tres espadas",
+    "group": "Anime",
+    "status": "approved"
+  },
+  {
+    "id": "ref-188-front",
+    "name": "Sung Jinwoo · Shadow Monarch",
+    "group": "Anime",
+    "status": "approved"
+  },
+  {
+    "id": "ref-189-front",
+    "name": "Meliodas · Pecado del dragón",
+    "group": "Anime",
+    "status": "approved"
+  },
+  {
+    "id": "ref-190-front",
+    "name": "Deadman Wonderland · Ganta y Shiro",
+    "group": "Anime",
+    "status": "approved"
+  },
+  {
+    "id": "ref-191-front",
+    "name": "Mägo de Oz · La magia sigue viva",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-192-front",
+    "name": "Thorfinn · No tengo enemigos",
+    "group": "Anime",
+    "status": "approved"
+  },
+  {
+    "id": "ref-193-front",
+    "name": "Soberano oscuro · Corona violeta",
+    "group": "Fantasía",
+    "status": "approved"
+  },
+  {
+    "id": "ref-194-front",
+    "name": "Iron Maiden · Leyendas",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-195-front",
+    "name": "Bunbury · Héroe nocturno",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-198-front",
+    "name": "Judas Priest · British Steel navaja",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-199-front",
+    "name": "Linkin Park · Meteora retrato",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-200-front",
+    "name": "Black Clover · Calavera",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-201-front",
+    "name": "Black Clover · Grupo",
+    "group": "Anime",
+    "status": "approved"
+  },
+  {
+    "id": "ref-202-front",
+    "name": "Attack on Titan · Transformación",
+    "group": "Anime",
+    "status": "approved"
+  },
+  {
+    "id": "ref-203-front",
+    "name": "Alucard · Hellsing",
+    "group": "Anime",
+    "status": "approved"
+  },
+  {
+    "id": "ref-204-front",
+    "name": "Reiner · Titán acorazado",
+    "group": "Anime",
+    "status": "approved"
+  },
+  {
+    "id": "ref-206-front",
+    "name": "Attack on Titan · Paneles rojos",
+    "group": "Anime",
+    "status": "approved"
+  },
+  {
+    "id": "ref-207-front",
+    "name": "Mikasa · Ackerman",
+    "group": "Anime",
+    "status": "approved"
+  },
+  {
+    "id": "ref-208-front",
+    "name": "Luffy · Ying Yang",
+    "group": "Anime",
+    "status": "approved"
+  },
+  {
+    "id": "ref-209-front",
+    "name": "One Punch Man · Saitama serio",
+    "group": "Anime",
+    "status": "approved"
+  },
+  {
+    "id": "ref-211-front",
+    "name": "My Hero Academia · Deku y Bakugo",
+    "group": "Anime",
+    "status": "approved"
+  },
+  {
+    "id": "ref-212-front",
+    "name": "Saitama · Dragón",
+    "group": "Anime",
+    "status": "approved"
+  },
+  {
+    "id": "ref-213-front",
+    "name": "My Hero Academia · Bakugo",
+    "group": "Anime",
+    "status": "approved"
+  },
+  {
+    "id": "ref-214-front",
+    "name": "My Hero Academia · Batalla",
+    "group": "Anime",
+    "status": "approved"
+  },
+  {
+    "id": "ref-215-front",
+    "name": "My Hero Academia · All Might y Deku",
+    "group": "Anime",
+    "status": "approved"
+  },
+  {
+    "id": "ref-216-front",
+    "name": "Bakugo · Explosión",
+    "group": "Anime",
+    "status": "approved"
+  },
+  {
+    "id": "ref-218-front",
+    "name": "Tokyo Ghoul · Kaneki oscuro",
+    "group": "Anime",
+    "status": "approved"
+  },
+  {
+    "id": "ref-219-front",
+    "name": "Sung Jinwoo · Dagas",
+    "group": "Anime",
+    "status": "approved"
+  },
+  {
+    "id": "ref-220-front",
+    "name": "Sung Jinwoo · Caballero rojo",
+    "group": "Anime",
+    "status": "approved"
+  },
+  {
+    "id": "ref-221-front",
+    "name": "One Piece · Trío marino",
+    "group": "Anime",
+    "status": "approved"
+  },
+  {
+    "id": "ref-222-front",
+    "name": "Natsu · Fuego púrpura",
+    "group": "Anime",
+    "status": "approved"
+  },
+  {
+    "id": "ref-223-front",
+    "name": "Eustass Kid · Metal",
+    "group": "Anime",
+    "status": "approved"
+  },
+  {
+    "id": "ref-224-front",
+    "name": "One Piece · Calavera pirata",
+    "group": "Anime",
+    "status": "approved"
+  },
+  {
+    "id": "ref-225-front",
+    "name": "Trafalgar Law · Room",
+    "group": "Anime",
+    "status": "approved"
+  },
+  {
+    "id": "ref-226-front",
+    "name": "Luffy · Boundman",
+    "group": "Anime",
+    "status": "approved"
+  },
+  {
+    "id": "ref-227-front",
+    "name": "Sabo · Puño de fuego",
+    "group": "Anime",
+    "status": "approved"
+  },
+  {
+    "id": "ref-228-front",
+    "name": "Tony Chopper · Aventura",
+    "group": "Anime",
+    "status": "approved"
+  },
+  {
+    "id": "ref-229-front",
+    "name": "One Piece · Three Legends",
+    "group": "Anime",
+    "status": "approved"
+  },
+  {
+    "id": "ref-230-front",
+    "name": "Jujutsu Kaisen · Mahito",
+    "group": "Anime",
+    "status": "approved"
+  },
+  {
+    "id": "ref-231-front",
+    "name": "Jujutsu Kaisen · Sukuna",
+    "group": "Anime",
+    "status": "approved"
+  },
+  {
+    "id": "ref-232-front",
+    "name": "Zoro · Asura",
+    "group": "Anime",
+    "status": "approved"
+  },
+  {
+    "id": "ref-233-front",
+    "name": "Jujutsu Kaisen · Suguru Geto",
+    "group": "Anime",
+    "status": "approved"
+  },
+  {
+    "id": "ref-234-front",
+    "name": "Jujutsu Kaisen · Mahoraga",
+    "group": "Anime",
+    "status": "approved"
+  },
+  {
+    "id": "ref-235-front",
+    "name": "Jujutsu Kaisen · Toji",
+    "group": "Anime",
+    "status": "approved"
+  },
+  {
+    "id": "ref-236-front",
+    "name": "Jinbe · Llamas del mar",
+    "group": "Anime",
+    "status": "approved"
+  },
+  {
+    "id": "ref-237-front",
+    "name": "Jujutsu Kaisen · Maldiciones",
+    "group": "Anime",
+    "status": "approved"
+  },
+  {
+    "id": "ref-238-front",
+    "name": "One Piece · Hermanos",
+    "group": "Anime",
+    "status": "approved"
+  },
+  {
+    "id": "ref-239-front",
+    "name": "Demon Slayer · Hashira",
+    "group": "Anime",
+    "status": "approved"
+  },
+  {
+    "id": "ref-240-front",
+    "name": "My Hero Academia · Plus Ultra",
+    "group": "Anime",
+    "status": "approved"
+  },
+  {
+    "id": "ref-241-front",
+    "name": "Power · Chainsaw Man",
+    "group": "Anime",
+    "status": "approved"
+  },
+  {
+    "id": "ref-242-front",
+    "name": "Denji · Pochita",
+    "group": "Anime",
+    "status": "approved"
+  },
+  {
+    "id": "ref-243-front",
+    "name": "Yuta · Rika",
+    "group": "Anime",
+    "status": "approved"
+  },
+  {
+    "id": "ref-244-front",
+    "name": "Sung Jinwoo · Despertar",
+    "group": "Anime",
+    "status": "approved"
+  },
+  {
+    "id": "ref-245-front",
+    "name": "Luffy · Evolución Gear",
+    "group": "Anime",
+    "status": "approved"
+  },
+  {
+    "id": "ref-246-front",
+    "name": "Iron Maiden · Union Jack",
+    "group": "Rock",
+    "status": "approved"
+  },
+  {
+    "id": "ref-247-front",
+    "name": "Luffy · Gear 5 Nika",
+    "group": "Anime",
+    "status": "approved"
+  },
+  {
+    "id": "ref-248-front",
+    "name": "Luffy · Cinco Gears",
+    "group": "Anime",
+    "status": "approved"
+  },
+  {
+    "id": "ref-249-front",
+    "name": "Gon · Evolución",
+    "group": "Anime",
+    "status": "approved"
+  },
+  {
+    "id": "ref-250-front",
+    "name": "Alucard · No Life King",
+    "group": "Anime",
+    "status": "approved"
+  },
+  {
+    "id": "ref-251-front",
+    "name": "Gon · Aura dorada",
+    "group": "Anime",
+    "status": "approved"
+  },
+  {
+    "id": "ref-252-front",
+    "name": "Yato · Noragami",
+    "group": "Anime",
+    "status": "approved"
+  },
+  {
+    "id": "ref-253-front",
+    "name": "Denji · Devil Hunter",
+    "group": "Anime",
+    "status": "approved"
+  },
+  {
+    "id": "ref-254-front",
+    "name": "Akame · Night Raid",
+    "group": "Anime",
+    "status": "approved"
+  },
+  {
+    "id": "ref-255-front",
+    "name": "Chopper · Collage tierno",
+    "group": "Anime",
+    "status": "approved"
+  },
+  {
+    "id": "ref-256-front",
+    "name": "Dororo · Hyakkimaru",
+    "group": "Anime",
+    "status": "approved"
+  },
+  {
+    "id": "ref-257-front",
+    "name": "Brook · Soul King collage",
+    "group": "Anime",
+    "status": "approved"
+  },
+  {
+    "id": "ref-258-front",
+    "name": "Sanji · Pierna negra",
+    "group": "Anime",
+    "status": "approved"
+  },
+  {
+    "id": "ref-259-front",
+    "name": "Escanor · Orgullo",
+    "group": "Anime",
+    "status": "approved"
+  },
+  {
+    "id": "ref-260-front",
+    "name": "Ban · Inmortal",
+    "group": "Anime",
+    "status": "approved"
+  },
+  {
+    "id": "ref-261-front",
+    "name": "Bunbury · La vida sigue",
+    "group": "Rock",
+    "status": "approved"
+  }
+]

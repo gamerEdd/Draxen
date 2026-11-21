@@ -1,0 +1,15 @@
+{
+  "id": "ref-005-back",
+  "n": 5,
+  "name": "Los Suaves · Gato negro",
+  "side": "back",
+  "group": "Rock",
+  "collection": "Los Suaves",
+  "src": "/assets/designs/ref-005-back.png",
+  "tool": "image_gen",
+  "source": "005.jpg",
+  "status": "approved",
+  "prompt": "Recreate exactly the complete LOS SUAVES BACK print in this reference. Standalone artwork with light silver-gray ink on transparent background. Include the detailed cat outline, stars, LOS SUAVES, MI CASA ES EL ROCK N ROLL and ALL nineteen numbered song-title lines visibly present in the reference, preserving wording and order without invention or omission. Remove only shirt, cups and tag. Keep entire art within margins and letters clearly visible on black garments.",
+  "reviewNote": "Corregido y revisado con la referencia original.",
+  "revisionPrompt": "Correct INK COLOR ONLY in this existing transparent print. Every currently black text stroke, song-title line and dark outline must become light silver-gray (#d2d2d2), matching the already silver logo. ALL song list text MUST be silver and readable on a black shirt. Preserve every letter, line, position and shape exactly, no retyping, no added objects. Keep transparent alpha. There must be NO black ink remaining anywhere."
+}

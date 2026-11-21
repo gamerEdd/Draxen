@@ -2,6 +2,8 @@ import { GARMENT_PRICES } from './pricing';
 // Diseños independientes: una misma ilustración sirve para todos los cortes.
 import { DESIGNS as designs } from '../../../shared/designs.mjs';
 export { designs };
+export {DESIGN_CATEGORIES as designCategories,getDesignSubcategories,getCategorySelection,matchesDesignSearch} from '../../../shared/designCategories.mjs';
+export { matchesDesignCategory } from '../../../shared/designCategories.mjs';
 
 const sizes = ['XS', 'S', 'M', 'L', 'XL', 'XXL'];
 const colors = [{ name: 'Negro', value: '#252525' }, { name: 'Hueso', value: '#e8e3d5' }, { name: 'Lavanda', value: '#b7a6c6' }];

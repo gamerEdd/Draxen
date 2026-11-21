@@ -1,0 +1,24 @@
+{
+  "id": "ref-119-front",
+  "n": 119,
+  "name": "Avenged Sevenfold · Buried Alive",
+  "side": "front",
+  "group": "Rock",
+  "collection": "Avenged Sevenfold",
+  "src": "/assets/designs/ref-119-front.png",
+  "tool": "image_gen",
+  "source": "119.jpg",
+  "reference": "C:/Users/eddgt/Documents/GitHub/Draxen/docs/imported-artwork/originals/119.jpg",
+  "status": "approved",
+  "prompt": "Edit the provided reference into ONE standalone high-resolution apparel print. Subject: Iron Maiden · Fear of the Dark bosque, main FRONT print. The reference contains the correct target design. Faithfully recreate its actual illustration, composition, detailed linework, textures, colors and all readable lettering. Do not substitute a different front/back version. Keep the full dense detail rather than a simplified icon. Correct garment perspective and fabric distortion. Remove only the photographed garment, mannequin, decorative cups, shop, table and unrelated sale panels. Preserve artistic panels and backgrounds within the actual printed design. Genuine transparent background OUTSIDE the complete artwork, with clear margin around all edges. Crisp printable color and contours. No garment mockup. Preserve legible words and typographic hierarchy; do not invent new slogans, song titles or dates. If the source is an artwork rather than a shirt, preserve that whole artwork.",
+  "classificationReview": {
+    "date": "2026-11-14",
+    "status": "reviewed",
+    "reason": "Nombre Avenged Sevenfold y texto Buried Alive visibles.",
+    "previous": {
+      "name": "Iron Maiden · Fear of the Dark bosque",
+      "collection": "Iron Maiden",
+      "group": "Rock"
+    }
+  }
+}

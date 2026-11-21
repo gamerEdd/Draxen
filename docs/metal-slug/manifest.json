@@ -1,0 +1,222 @@
+[
+  {
+    "id": "metal-slug-marco",
+    "name": "Marco · Misión Arcade",
+    "scene": "Marco Rossi from Metal Slug, blond hair white headband red tactical vest cream shirt green cargo pants, confident heroic full-body pose holding his compact arcade blaster pointed down, orange pixel starbursts",
+    "collection": "Metal Slug",
+    "group": "Videojuegos",
+    "accent": "#a4b36a",
+    "priority": -4,
+    "src": "/assets/designs/metal-slug-marco.png",
+    "prompt": "Use case: stylized-concept. Standalone premium clothing print, not a garment mockup. Subject: Marco Rossi from Metal Slug, blond hair white headband red tactical vest cream shirt green cargo pants, confident heroic full-body pose holding his compact arcade blaster pointed down, orange pixel starbursts. Recognizable Metal Slug arcade game design, playful detailed retro game illustration with crisp chunky ink contours, tasteful cel shading and subtle screenprint texture, bold legible silhouette. Entire complete subject centered with clear transparent margin. High-resolution PNG with genuine transparent alpha background. No background rectangle, no photograph, no garment, no text or watermark. Non-graphic playful videogame artwork."
+  },
+  {
+    "id": "metal-slug-tarma",
+    "name": "Tarma · Operación Acero",
+    "scene": "Tarma Roving from Metal Slug, brown hair aviator sunglasses red headband white sleeveless top green tactical vest cargo pants, cool relaxed full-body commando pose with gloved thumbs up and mechanical gear motif",
+    "collection": "Metal Slug",
+    "group": "Videojuegos",
+    "accent": "#d6894d",
+    "priority": -4,
+    "src": "/assets/designs/metal-slug-tarma.png",
+    "prompt": "Use case: stylized-concept. Standalone premium clothing print, not a garment mockup. Subject: Tarma Roving from Metal Slug, brown hair aviator sunglasses red headband white sleeveless top green tactical vest cargo pants, cool relaxed full-body commando pose with gloved thumbs up and mechanical gear motif. Recognizable Metal Slug arcade game design, playful detailed retro game illustration with crisp chunky ink contours, tasteful cel shading and subtle screenprint texture, bold legible silhouette. Entire complete subject centered with clear transparent margin. High-resolution PNG with genuine transparent alpha background. No background rectangle, no photograph, no garment, no text or watermark. Non-graphic playful videogame artwork."
+  },
+  {
+    "id": "metal-slug-eri",
+    "name": "Eri · Comando Verde",
+    "scene": "Eri Kasamoto from Metal Slug, blonde hair under green military cap red sleeveless vest white top green shorts and boots, strong fully clothed heroic tactical pose beside a small equipment backpack, emerald golden arcade effects",
+    "collection": "Metal Slug",
+    "group": "Videojuegos",
+    "accent": "#86b6ba",
+    "priority": -4,
+    "src": "/assets/designs/metal-slug-eri.png",
+    "prompt": "Use case: stylized-concept. Standalone premium clothing print, not a garment mockup. Subject: Eri Kasamoto from Metal Slug, blonde hair under green military cap red sleeveless vest white top green shorts and boots, strong fully clothed heroic tactical pose beside a small equipment backpack, emerald golden arcade effects. Recognizable Metal Slug arcade game design, playful detailed retro game illustration with crisp chunky ink contours, tasteful cel shading and subtle screenprint texture, bold legible silhouette. Entire complete subject centered with clear transparent margin. High-resolution PNG with genuine transparent alpha background. No background rectangle, no photograph, no garment, no text or watermark. Non-graphic playful videogame artwork."
+  },
+  {
+    "id": "metal-slug-fio",
+    "name": "Fio · Precisión Arcade",
+    "scene": "Fio Germi from Metal Slug, long auburn ponytail brown cap round eyeglasses tan tactical vest white tee rust shorts brown boots, confident fully clothed heroine holding a portable radio, orange blue pixel accents",
+    "collection": "Metal Slug",
+    "group": "Videojuegos",
+    "accent": "#a4b36a",
+    "priority": -4,
+    "src": "/assets/designs/metal-slug-fio.png",
+    "prompt": "Use case: stylized-concept. Standalone premium clothing print, not a garment mockup. Subject: Fio Germi from Metal Slug, long auburn ponytail brown cap round eyeglasses tan tactical vest white tee rust shorts brown boots, confident fully clothed heroine holding a portable radio, orange blue pixel accents. Recognizable Metal Slug arcade game design, playful detailed retro game illustration with crisp chunky ink contours, tasteful cel shading and subtle screenprint texture, bold legible silhouette. Entire complete subject centered with clear transparent margin. High-resolution PNG with genuine transparent alpha background. No background rectangle, no photograph, no garment, no text or watermark. Non-graphic playful videogame artwork."
+  },
+  {
+    "id": "metal-slug-squad",
+    "name": "Escuadrón · Listos para la Misión",
+    "scene": "Metal Slug heroes Marco Rossi blond red vest, Tarma sunglasses green vest, Eri blonde green cap and Fio auburn ponytail glasses, compact four-person team portrait with orange arcade sparks",
+    "collection": "Metal Slug",
+    "group": "Videojuegos",
+    "accent": "#d6894d",
+    "priority": -4,
+    "src": "/assets/designs/metal-slug-squad.png",
+    "prompt": "Use case: stylized-concept. Standalone premium clothing print, not a garment mockup. Subject: Metal Slug heroes Marco Rossi blond red vest, Tarma sunglasses green vest, Eri blonde green cap and Fio auburn ponytail glasses, compact four-person team portrait with orange arcade sparks. Recognizable Metal Slug arcade game design, playful detailed retro game illustration with crisp chunky ink contours, tasteful cel shading and subtle screenprint texture, bold legible silhouette. Entire complete subject centered with clear transparent margin. High-resolution PNG with genuine transparent alpha background. No background rectangle, no photograph, no garment, no text or watermark. Non-graphic playful videogame artwork."
+  },
+  {
+    "id": "metal-slug-sv001",
+    "name": "SV-001 · Metal Slug",
+    "scene": "the iconic Metal Slug SV-001 small rounded green tank with stubby cannon, broad tracks, exposed rivets and large side gun, dynamic three-quarter view climbing a small rock with cream orange arcade smoke",
+    "collection": "Metal Slug",
+    "group": "Videojuegos",
+    "accent": "#86b6ba",
+    "priority": -4,
+    "src": "/assets/designs/metal-slug-sv001.png",
+    "prompt": "Use case: stylized-concept. Standalone premium clothing print, not a garment mockup. Subject: the iconic Metal Slug SV-001 small rounded green tank with stubby cannon, broad tracks, exposed rivets and large side gun, dynamic three-quarter view climbing a small rock with cream orange arcade smoke. Recognizable Metal Slug arcade game design, playful detailed retro game illustration with crisp chunky ink contours, tasteful cel shading and subtle screenprint texture, bold legible silhouette. Entire complete subject centered with clear transparent margin. High-resolution PNG with genuine transparent alpha background. No background rectangle, no photograph, no garment, no text or watermark. Non-graphic playful videogame artwork."
+  },
+  {
+    "id": "metal-slug-tank-blueprint",
+    "name": "SV-001 · Taller Mecánico",
+    "scene": "the iconic Metal Slug green SV-001 tank in a clean three-quarter mechanical cutaway illustration with gears pistons and turquoise blueprint-like orbital lines, no diagrams or text",
+    "collection": "Metal Slug",
+    "group": "Videojuegos",
+    "accent": "#a4b36a",
+    "priority": -4,
+    "src": "/assets/designs/metal-slug-tank-blueprint.png",
+    "prompt": "Use case: stylized-concept. Standalone premium clothing print, not a garment mockup. Subject: the iconic Metal Slug green SV-001 tank in a clean three-quarter mechanical cutaway illustration with gears pistons and turquoise blueprint-like orbital lines, no diagrams or text. Recognizable Metal Slug arcade game design, playful detailed retro game illustration with crisp chunky ink contours, tasteful cel shading and subtle screenprint texture, bold legible silhouette. Entire complete subject centered with clear transparent margin. High-resolution PNG with genuine transparent alpha background. No background rectangle, no photograph, no garment, no text or watermark. Non-graphic playful videogame artwork."
+  },
+  {
+    "id": "metal-slug-slug-flyer",
+    "name": "Slug Flyer · Cielo de Acero",
+    "scene": "Metal Slug Slug Flyer small blue-gray futuristic VTOL aircraft with stubby wings and rounded cockpit, orange engine flame, curved cloud trail and cream pixel stars",
+    "collection": "Metal Slug",
+    "group": "Videojuegos",
+    "accent": "#d6894d",
+    "priority": -4,
+    "src": "/assets/designs/metal-slug-slug-flyer.png",
+    "prompt": "Use case: stylized-concept. Standalone premium clothing print, not a garment mockup. Subject: Metal Slug Slug Flyer small blue-gray futuristic VTOL aircraft with stubby wings and rounded cockpit, orange engine flame, curved cloud trail and cream pixel stars. Recognizable Metal Slug arcade game design, playful detailed retro game illustration with crisp chunky ink contours, tasteful cel shading and subtle screenprint texture, bold legible silhouette. Entire complete subject centered with clear transparent margin. High-resolution PNG with genuine transparent alpha background. No background rectangle, no photograph, no garment, no text or watermark. Non-graphic playful videogame artwork."
+  },
+  {
+    "id": "metal-slug-slug-gunner",
+    "name": "Slug Gunner · Modo Robot",
+    "scene": "Metal Slug Slug Gunner gray-green squat bipedal combat robot with enclosed rounded cockpit large mechanical arms and chunky legs, heroic idle pose with teal electrical accents",
+    "collection": "Metal Slug",
+    "group": "Videojuegos",
+    "accent": "#86b6ba",
+    "priority": -4,
+    "src": "/assets/designs/metal-slug-slug-gunner.png",
+    "prompt": "Use case: stylized-concept. Standalone premium clothing print, not a garment mockup. Subject: Metal Slug Slug Gunner gray-green squat bipedal combat robot with enclosed rounded cockpit large mechanical arms and chunky legs, heroic idle pose with teal electrical accents. Recognizable Metal Slug arcade game design, playful detailed retro game illustration with crisp chunky ink contours, tasteful cel shading and subtle screenprint texture, bold legible silhouette. Entire complete subject centered with clear transparent margin. High-resolution PNG with genuine transparent alpha background. No background rectangle, no photograph, no garment, no text or watermark. Non-graphic playful videogame artwork."
+  },
+  {
+    "id": "metal-slug-camel",
+    "name": "Camel Slug · Ruta del Desierto",
+    "scene": "Metal Slug Camel Slug friendly camel carrying a mounted arcade equipment pack, saddlebags and small turret, sand-colored desert crest with tiny cactus and orange sun",
+    "collection": "Metal Slug",
+    "group": "Videojuegos",
+    "accent": "#a4b36a",
+    "priority": -4,
+    "src": "/assets/designs/metal-slug-camel.png",
+    "prompt": "Use case: stylized-concept. Standalone premium clothing print, not a garment mockup. Subject: Metal Slug Camel Slug friendly camel carrying a mounted arcade equipment pack, saddlebags and small turret, sand-colored desert crest with tiny cactus and orange sun. Recognizable Metal Slug arcade game design, playful detailed retro game illustration with crisp chunky ink contours, tasteful cel shading and subtle screenprint texture, bold legible silhouette. Entire complete subject centered with clear transparent margin. High-resolution PNG with genuine transparent alpha background. No background rectangle, no photograph, no garment, no text or watermark. Non-graphic playful videogame artwork."
+  },
+  {
+    "id": "metal-slug-ostrich",
+    "name": "Ostrich Slug · Carrera Salvaje",
+    "scene": "Metal Slug Ostrich Slug ostrich with a saddle and compact mechanical equipment mounted on its back, running joyful side pose with cream dust curls and yellow pixel sparks",
+    "collection": "Metal Slug",
+    "group": "Videojuegos",
+    "accent": "#d6894d",
+    "priority": -4,
+    "src": "/assets/designs/metal-slug-ostrich.png",
+    "prompt": "Use case: stylized-concept. Standalone premium clothing print, not a garment mockup. Subject: Metal Slug Ostrich Slug ostrich with a saddle and compact mechanical equipment mounted on its back, running joyful side pose with cream dust curls and yellow pixel sparks. Recognizable Metal Slug arcade game design, playful detailed retro game illustration with crisp chunky ink contours, tasteful cel shading and subtle screenprint texture, bold legible silhouette. Entire complete subject centered with clear transparent margin. High-resolution PNG with genuine transparent alpha background. No background rectangle, no photograph, no garment, no text or watermark. Non-graphic playful videogame artwork."
+  },
+  {
+    "id": "metal-slug-elephant",
+    "name": "Elephant Slug · Fuerza Tropical",
+    "scene": "Metal Slug Elephant Slug stout friendly gray elephant with saddle and mechanical arcade equipment harness, raised trunk and palm leaves, warm green gold orange",
+    "collection": "Metal Slug",
+    "group": "Videojuegos",
+    "accent": "#86b6ba",
+    "priority": -4,
+    "src": "/assets/designs/metal-slug-elephant.png",
+    "prompt": "Use case: stylized-concept. Standalone premium clothing print, not a garment mockup. Subject: Metal Slug Elephant Slug stout friendly gray elephant with saddle and mechanical arcade equipment harness, raised trunk and palm leaves, warm green gold orange. Recognizable Metal Slug arcade game design, playful detailed retro game illustration with crisp chunky ink contours, tasteful cel shading and subtle screenprint texture, bold legible silhouette. Entire complete subject centered with clear transparent margin. High-resolution PNG with genuine transparent alpha background. No background rectangle, no photograph, no garment, no text or watermark. Non-graphic playful videogame artwork."
+  },
+  {
+    "id": "metal-slug-drill",
+    "name": "Slug Driller · Profundidad Cero",
+    "scene": "Metal Slug Slug Driller small green tracked drilling vehicle with huge conical silver drill, mechanical rivets and copper underground crystal motifs",
+    "collection": "Metal Slug",
+    "group": "Videojuegos",
+    "accent": "#a4b36a",
+    "priority": -4,
+    "src": "/assets/designs/metal-slug-drill.png",
+    "prompt": "Use case: stylized-concept. Standalone premium clothing print, not a garment mockup. Subject: Metal Slug Slug Driller small green tracked drilling vehicle with huge conical silver drill, mechanical rivets and copper underground crystal motifs. Recognizable Metal Slug arcade game design, playful detailed retro game illustration with crisp chunky ink contours, tasteful cel shading and subtle screenprint texture, bold legible silhouette. Entire complete subject centered with clear transparent margin. High-resolution PNG with genuine transparent alpha background. No background rectangle, no photograph, no garment, no text or watermark. Non-graphic playful videogame artwork."
+  },
+  {
+    "id": "metal-slug-astro",
+    "name": "Astro Slug · Órbita Arcade",
+    "scene": "Metal Slug Astro Slug compact white-blue space fighter with orange thrusters, tiny ringed planets and pixel stars, dynamic diagonal emblem",
+    "collection": "Metal Slug",
+    "group": "Videojuegos",
+    "accent": "#d6894d",
+    "priority": -4,
+    "src": "/assets/designs/metal-slug-astro.png",
+    "prompt": "Use case: stylized-concept. Standalone premium clothing print, not a garment mockup. Subject: Metal Slug Astro Slug compact white-blue space fighter with orange thrusters, tiny ringed planets and pixel stars, dynamic diagonal emblem. Recognizable Metal Slug arcade game design, playful detailed retro game illustration with crisp chunky ink contours, tasteful cel shading and subtle screenprint texture, bold legible silhouette. Entire complete subject centered with clear transparent margin. High-resolution PNG with genuine transparent alpha background. No background rectangle, no photograph, no garment, no text or watermark. Non-graphic playful videogame artwork."
+  },
+  {
+    "id": "metal-slug-marco-tank",
+    "name": "Marco & SV-001 · Doble Potencia",
+    "scene": "Marco Rossi blond hair white headband red vest smiling from the open hatch of the iconic green Metal Slug SV-001 tank, peace sign, orange cream arcade dust curls",
+    "collection": "Metal Slug",
+    "group": "Videojuegos",
+    "accent": "#86b6ba",
+    "priority": -4,
+    "src": "/assets/designs/metal-slug-marco-tank.png",
+    "prompt": "Use case: stylized-concept. Standalone premium clothing print, not a garment mockup. Subject: Marco Rossi blond hair white headband red vest smiling from the open hatch of the iconic green Metal Slug SV-001 tank, peace sign, orange cream arcade dust curls. Recognizable Metal Slug arcade game design, playful detailed retro game illustration with crisp chunky ink contours, tasteful cel shading and subtle screenprint texture, bold legible silhouette. Entire complete subject centered with clear transparent margin. High-resolution PNG with genuine transparent alpha background. No background rectangle, no photograph, no garment, no text or watermark. Non-graphic playful videogame artwork."
+  },
+  {
+    "id": "metal-slug-fio-mechanic",
+    "name": "Fio · Taller del Slug",
+    "scene": "Fio Germi auburn ponytail brown cap round glasses tan vest fully clothed, kneeling beside a green Metal Slug tank wheel with an oversized wrench, playful mechanic composition",
+    "collection": "Metal Slug",
+    "group": "Videojuegos",
+    "accent": "#a4b36a",
+    "priority": -4,
+    "src": "/assets/designs/metal-slug-fio-mechanic.png",
+    "prompt": "Use case: stylized-concept. Standalone premium clothing print, not a garment mockup. Subject: Fio Germi auburn ponytail brown cap round glasses tan vest fully clothed, kneeling beside a green Metal Slug tank wheel with an oversized wrench, playful mechanic composition. Recognizable Metal Slug arcade game design, playful detailed retro game illustration with crisp chunky ink contours, tasteful cel shading and subtle screenprint texture, bold legible silhouette. Entire complete subject centered with clear transparent margin. High-resolution PNG with genuine transparent alpha background. No background rectangle, no photograph, no garment, no text or watermark. Non-graphic playful videogame artwork."
+  },
+  {
+    "id": "metal-slug-prisoner",
+    "name": "Rescate · Gracias Héroe",
+    "scene": "the classic Metal Slug rescued bearded prisoner with long scruffy hair in ragged tan clothes, happy thumbs-up holding a small gift box, humorous retro arcade silhouette, no restraints or wounds",
+    "collection": "Metal Slug",
+    "group": "Videojuegos",
+    "accent": "#d6894d",
+    "priority": -4,
+    "src": "/assets/designs/metal-slug-prisoner.png",
+    "prompt": "Use case: stylized-concept. Standalone premium clothing print, not a garment mockup. Subject: the classic Metal Slug rescued bearded prisoner with long scruffy hair in ragged tan clothes, happy thumbs-up holding a small gift box, humorous retro arcade silhouette, no restraints or wounds. Recognizable Metal Slug arcade game design, playful detailed retro game illustration with crisp chunky ink contours, tasteful cel shading and subtle screenprint texture, bold legible silhouette. Entire complete subject centered with clear transparent margin. High-resolution PNG with genuine transparent alpha background. No background rectangle, no photograph, no garment, no text or watermark. Non-graphic playful videogame artwork."
+  },
+  {
+    "id": "metal-slug-mars-people",
+    "name": "Mars People · Visitante Arcade",
+    "scene": "Metal Slug Mars People alien with bulbous translucent pink jellyfish-like head and tentacle legs holding a small retro device, teal pink ivory sci-fi orbital stars",
+    "collection": "Metal Slug",
+    "group": "Videojuegos",
+    "accent": "#86b6ba",
+    "priority": -4,
+    "src": "/assets/designs/metal-slug-mars-people.png",
+    "prompt": "Use case: stylized-concept. Standalone premium clothing print, not a garment mockup. Subject: Metal Slug Mars People alien with bulbous translucent pink jellyfish-like head and tentacle legs holding a small retro device, teal pink ivory sci-fi orbital stars. Recognizable Metal Slug arcade game design, playful detailed retro game illustration with crisp chunky ink contours, tasteful cel shading and subtle screenprint texture, bold legible silhouette. Entire complete subject centered with clear transparent margin. High-resolution PNG with genuine transparent alpha background. No background rectangle, no photograph, no garment, no text or watermark. Non-graphic playful videogame artwork."
+  },
+  {
+    "id": "metal-slug-supply",
+    "name": "Power Up · Arsenal Arcade",
+    "scene": "Metal Slug retro arcade equipment still life, green supply crate with compact blaster, boots binoculars radio and a bright stylized golden bullet icon, arranged as bold isolated collectible emblem, no text",
+    "collection": "Metal Slug",
+    "group": "Videojuegos",
+    "accent": "#a4b36a",
+    "priority": -4,
+    "src": "/assets/designs/metal-slug-supply.png",
+    "prompt": "Use case: stylized-concept. Standalone premium clothing print, not a garment mockup. Subject: Metal Slug retro arcade equipment still life, green supply crate with compact blaster, boots binoculars radio and a bright stylized golden bullet icon, arranged as bold isolated collectible emblem, no text. Recognizable Metal Slug arcade game design, playful detailed retro game illustration with crisp chunky ink contours, tasteful cel shading and subtle screenprint texture, bold legible silhouette. Entire complete subject centered with clear transparent margin. High-resolution PNG with genuine transparent alpha background. No background rectangle, no photograph, no garment, no text or watermark. Non-graphic playful videogame artwork."
+  },
+  {
+    "id": "metal-slug-pixel-tank",
+    "name": "SV-001 · Pixel Legend",
+    "scene": "iconic green Metal Slug SV-001 tank recreated as meticulous high-resolution pixel art with crisp square pixel edges, orange cream pixel explosion-shaped celebratory burst behind vehicle, no casualties or people, square sprite emblem",
+    "collection": "Metal Slug",
+    "group": "Videojuegos",
+    "accent": "#d6894d",
+    "priority": -4,
+    "src": "/assets/designs/metal-slug-pixel-tank.png",
+    "prompt": "Use case: stylized-concept. Standalone premium clothing print, not a garment mockup. Subject: iconic green Metal Slug SV-001 tank recreated as meticulous high-resolution pixel art with crisp square pixel edges, orange cream pixel explosion-shaped celebratory burst behind vehicle, no casualties or people, square sprite emblem. Recognizable Metal Slug arcade game design, playful detailed retro game illustration with crisp chunky ink contours, tasteful cel shading and subtle screenprint texture, bold legible silhouette. Entire complete subject centered with clear transparent margin. High-resolution PNG with genuine transparent alpha background. No background rectangle, no photograph, no garment, no text or watermark. Non-graphic playful videogame artwork."
+  }
+]

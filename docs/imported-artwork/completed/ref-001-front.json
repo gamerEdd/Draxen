@@ -1,0 +1,13 @@
+{
+  "id": "ref-001-front",
+  "n": 1,
+  "name": "Iron Maiden · Run for Your Lives",
+  "side": "front",
+  "group": "Rock",
+  "collection": "Iron Maiden",
+  "src": "/assets/designs/ref-001-front.png",
+  "tool": "image_gen",
+  "source": "001.jpg",
+  "status": "approved",
+  "prompt": "Recreate only the front printed artwork of reference 001; preserve the detailed composition, lettering, colors and dense screenprint style. Remove mannequin, garment and room. Preserve designed backgrounds and use transparent alpha outside the print."
+}

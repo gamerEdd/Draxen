@@ -1,0 +1,1614 @@
+[
+  {
+    "id": "ref-001-back",
+    "name": "Iron Maiden · Run for Your Lives · Espalda",
+    "collection": "Iron Maiden",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-001-back.png",
+    "referenceIndex": 1
+  },
+  {
+    "id": "ref-001-front",
+    "name": "Iron Maiden · Run for Your Lives",
+    "collection": "Iron Maiden",
+    "group": "Rock",
+    "accent": "#c7c497",
+    "priority": -7,
+    "src": "/assets/designs/ref-001-front.png",
+    "referenceIndex": 1
+  },
+  {
+    "id": "doom-ramon",
+    "name": "Doom Ramón · El señor de la vecindad",
+    "collection": "Memes",
+    "group": "Memes",
+    "priority": -6,
+    "accent": "#13c74b",
+    "src": "/assets/designs/doom-ramon.png"
+  },
+  {
+    "id": "metal-slug-neo-marco",
+    "name": "Marco · Última Ficha",
+    "collection": "Metal Slug",
+    "group": "Videojuegos",
+    "accent": "#a4b36a",
+    "priority": -5,
+    "src": "/assets/designs/metal-slug-neo-marco.png"
+  },
+  {
+    "id": "metal-slug-neo-tarma",
+    "name": "Tarma · Ruta Rebelde",
+    "collection": "Metal Slug",
+    "group": "Videojuegos",
+    "accent": "#d6894d",
+    "priority": -5,
+    "src": "/assets/designs/metal-slug-neo-tarma.png"
+  },
+  {
+    "id": "metal-slug-neo-eri",
+    "name": "Eri · Tormenta Verde",
+    "collection": "Metal Slug",
+    "group": "Videojuegos",
+    "accent": "#86b6ba",
+    "priority": -5,
+    "src": "/assets/designs/metal-slug-neo-eri.png"
+  },
+  {
+    "id": "metal-slug-neo-fio",
+    "name": "Fio · Misión Naranja",
+    "collection": "Metal Slug",
+    "group": "Videojuegos",
+    "accent": "#a4b36a",
+    "priority": -5,
+    "src": "/assets/designs/metal-slug-neo-fio.png"
+  },
+  {
+    "id": "metal-slug-neo-tank",
+    "name": "SV-001 · Acero Salvaje",
+    "collection": "Metal Slug",
+    "group": "Videojuegos",
+    "accent": "#d6894d",
+    "priority": -5,
+    "src": "/assets/designs/metal-slug-neo-tank.png"
+  },
+  {
+    "id": "metal-slug-neo-flyer",
+    "name": "Slug Flyer · Alas de Fuego",
+    "collection": "Metal Slug",
+    "group": "Videojuegos",
+    "accent": "#86b6ba",
+    "priority": -5,
+    "src": "/assets/designs/metal-slug-neo-flyer.png"
+  },
+  {
+    "id": "metal-slug-neo-submarine",
+    "name": "Slug Mariner · Abismo Azul",
+    "collection": "Metal Slug",
+    "group": "Videojuegos",
+    "accent": "#a4b36a",
+    "priority": -5,
+    "src": "/assets/designs/metal-slug-neo-submarine.png"
+  },
+  {
+    "id": "metal-slug-neo-gunner",
+    "name": "Slug Gunner · Titán Arcade",
+    "collection": "Metal Slug",
+    "group": "Videojuegos",
+    "accent": "#d6894d",
+    "priority": -5,
+    "src": "/assets/designs/metal-slug-neo-gunner.png"
+  },
+  {
+    "id": "metal-slug-neo-mars",
+    "name": "Mars People · Invasión Cósmica",
+    "collection": "Metal Slug",
+    "group": "Videojuegos",
+    "accent": "#86b6ba",
+    "priority": -5,
+    "src": "/assets/designs/metal-slug-neo-mars.png"
+  },
+  {
+    "id": "metal-slug-neo-team",
+    "name": "Escuadrón · Misión Cumplida",
+    "collection": "Metal Slug",
+    "group": "Videojuegos",
+    "accent": "#a4b36a",
+    "priority": -5,
+    "src": "/assets/designs/metal-slug-neo-team.png"
+  },
+  {
+    "id": "metal-slug-marco",
+    "name": "Marco · Misión Arcade",
+    "collection": "Metal Slug",
+    "group": "Videojuegos",
+    "accent": "#a4b36a",
+    "priority": -4,
+    "src": "/assets/designs/metal-slug-marco.png"
+  },
+  {
+    "id": "metal-slug-tarma",
+    "name": "Tarma · Operación Acero",
+    "collection": "Metal Slug",
+    "group": "Videojuegos",
+    "accent": "#d6894d",
+    "priority": -4,
+    "src": "/assets/designs/metal-slug-tarma.png"
+  },
+  {
+    "id": "metal-slug-eri",
+    "name": "Eri · Comando Verde",
+    "collection": "Metal Slug",
+    "group": "Videojuegos",
+    "accent": "#86b6ba",
+    "priority": -4,
+    "src": "/assets/designs/metal-slug-eri.png"
+  },
+  {
+    "id": "metal-slug-fio",
+    "name": "Fio · Precisión Arcade",
+    "collection": "Metal Slug",
+    "group": "Videojuegos",
+    "accent": "#a4b36a",
+    "priority": -4,
+    "src": "/assets/designs/metal-slug-fio.png"
+  },
+  {
+    "id": "metal-slug-squad",
+    "name": "Escuadrón · Listos para la Misión",
+    "collection": "Metal Slug",
+    "group": "Videojuegos",
+    "accent": "#d6894d",
+    "priority": -4,
+    "src": "/assets/designs/metal-slug-squad.png"
+  },
+  {
+    "id": "metal-slug-sv001",
+    "name": "SV-001 · Metal Slug",
+    "collection": "Metal Slug",
+    "group": "Videojuegos",
+    "accent": "#86b6ba",
+    "priority": -4,
+    "src": "/assets/designs/metal-slug-sv001.png"
+  },
+  {
+    "id": "metal-slug-tank-blueprint",
+    "name": "SV-001 · Taller Mecánico",
+    "collection": "Metal Slug",
+    "group": "Videojuegos",
+    "accent": "#a4b36a",
+    "priority": -4,
+    "src": "/assets/designs/metal-slug-tank-blueprint.png"
+  },
+  {
+    "id": "metal-slug-slug-flyer",
+    "name": "Slug Flyer · Cielo de Acero",
+    "collection": "Metal Slug",
+    "group": "Videojuegos",
+    "accent": "#d6894d",
+    "priority": -4,
+    "src": "/assets/designs/metal-slug-slug-flyer.png"
+  },
+  {
+    "id": "metal-slug-slug-gunner",
+    "name": "Slug Gunner · Modo Robot",
+    "collection": "Metal Slug",
+    "group": "Videojuegos",
+    "accent": "#86b6ba",
+    "priority": -4,
+    "src": "/assets/designs/metal-slug-slug-gunner.png"
+  },
+  {
+    "id": "metal-slug-camel",
+    "name": "Camel Slug · Ruta del Desierto",
+    "collection": "Metal Slug",
+    "group": "Videojuegos",
+    "accent": "#a4b36a",
+    "priority": -4,
+    "src": "/assets/designs/metal-slug-camel.png"
+  },
+  {
+    "id": "metal-slug-ostrich",
+    "name": "Ostrich Slug · Carrera Salvaje",
+    "collection": "Metal Slug",
+    "group": "Videojuegos",
+    "accent": "#d6894d",
+    "priority": -4,
+    "src": "/assets/designs/metal-slug-ostrich.png"
+  },
+  {
+    "id": "metal-slug-elephant",
+    "name": "Elephant Slug · Fuerza Tropical",
+    "collection": "Metal Slug",
+    "group": "Videojuegos",
+    "accent": "#86b6ba",
+    "priority": -4,
+    "src": "/assets/designs/metal-slug-elephant.png"
+  },
+  {
+    "id": "metal-slug-drill",
+    "name": "Slug Driller · Profundidad Cero",
+    "collection": "Metal Slug",
+    "group": "Videojuegos",
+    "accent": "#a4b36a",
+    "priority": -4,
+    "src": "/assets/designs/metal-slug-drill-restored.png"
+  },
+  {
+    "id": "metal-slug-astro",
+    "name": "Astro Slug · Órbita Arcade",
+    "collection": "Metal Slug",
+    "group": "Videojuegos",
+    "accent": "#d6894d",
+    "priority": -4,
+    "src": "/assets/designs/metal-slug-astro-restored.png"
+  },
+  {
+    "id": "metal-slug-marco-tank",
+    "name": "Marco & SV-001 · Doble Potencia",
+    "collection": "Metal Slug",
+    "group": "Videojuegos",
+    "accent": "#86b6ba",
+    "priority": -4,
+    "src": "/assets/designs/metal-slug-marco-tank-restored.png"
+  },
+  {
+    "id": "metal-slug-fio-mechanic",
+    "name": "Fio · Taller del Slug",
+    "collection": "Metal Slug",
+    "group": "Videojuegos",
+    "accent": "#a4b36a",
+    "priority": -4,
+    "src": "/assets/designs/metal-slug-fio-mechanic-restored.png"
+  },
+  {
+    "id": "metal-slug-prisoner",
+    "name": "Rescate · Gracias Héroe",
+    "collection": "Metal Slug",
+    "group": "Videojuegos",
+    "accent": "#d6894d",
+    "priority": -4,
+    "src": "/assets/designs/metal-slug-prisoner-restored.png"
+  },
+  {
+    "id": "metal-slug-mars-people",
+    "name": "Mars People · Visitante Arcade",
+    "collection": "Metal Slug",
+    "group": "Videojuegos",
+    "accent": "#86b6ba",
+    "priority": -4,
+    "src": "/assets/designs/metal-slug-mars-people-restored.png"
+  },
+  {
+    "id": "metal-slug-supply",
+    "name": "Power Up · Arsenal Arcade",
+    "collection": "Metal Slug",
+    "group": "Videojuegos",
+    "accent": "#a4b36a",
+    "priority": -4,
+    "src": "/assets/designs/metal-slug-supply-restored.png"
+  },
+  {
+    "id": "metal-slug-pixel-tank",
+    "name": "SV-001 · Pixel Legend",
+    "collection": "Metal Slug",
+    "group": "Videojuegos",
+    "accent": "#d6894d",
+    "priority": -4,
+    "src": "/assets/designs/metal-slug-pixel-tank-restored.png"
+  },
+  {
+    "id": "drop100-rick-portal",
+    "name": "Rick · Portal Verde",
+    "collection": "Rick y Morty",
+    "group": "Rick y Morty",
+    "accent": "#a7dc45",
+    "priority": -3,
+    "src": "/assets/designs/drop100-rick-portal.png"
+  },
+  {
+    "id": "drop100-morty-cosmos",
+    "name": "Morty · Perdido en el Cosmos",
+    "collection": "Rick y Morty",
+    "group": "Rick y Morty",
+    "accent": "#a7dc45",
+    "priority": -3,
+    "src": "/assets/designs/drop100-morty-cosmos.png"
+  },
+  {
+    "id": "drop100-rick-morty-viaje",
+    "name": "Rick & Morty · Salto Dimensional",
+    "collection": "Rick y Morty",
+    "group": "Rick y Morty",
+    "accent": "#a7dc45",
+    "priority": -3,
+    "src": "/assets/designs/drop100-rick-morty-viaje.png"
+  },
+  {
+    "id": "drop100-pickle-rick",
+    "name": "Pickle Rick · Laboratorio",
+    "collection": "Rick y Morty",
+    "group": "Rick y Morty",
+    "accent": "#a7dc45",
+    "priority": -3,
+    "src": "/assets/designs/drop100-pickle-rick.png"
+  },
+  {
+    "id": "drop100-rick-guitarra",
+    "name": "Rick · Riff Interdimensional",
+    "collection": "Rick y Morty",
+    "group": "Rick y Morty",
+    "accent": "#a7dc45",
+    "priority": -3,
+    "src": "/assets/designs/drop100-rick-guitarra.png"
+  },
+  {
+    "id": "drop100-morty-skate",
+    "name": "Morty · Skate Espacial",
+    "collection": "Rick y Morty",
+    "group": "Rick y Morty",
+    "accent": "#a7dc45",
+    "priority": -3,
+    "src": "/assets/designs/drop100-morty-skate.png"
+  },
+  {
+    "id": "drop100-rick-cafe",
+    "name": "Rick · Café del Multiverso",
+    "collection": "Rick y Morty",
+    "group": "Rick y Morty",
+    "accent": "#a7dc45",
+    "priority": -3,
+    "src": "/assets/designs/drop100-rick-cafe.png"
+  },
+  {
+    "id": "drop100-morty-portal",
+    "name": "Morty · Error de Portal",
+    "collection": "Rick y Morty",
+    "group": "Rick y Morty",
+    "accent": "#a7dc45",
+    "priority": -3,
+    "src": "/assets/designs/drop100-morty-portal.png"
+  },
+  {
+    "id": "drop100-rick-nave",
+    "name": "Rick · Nave de Chatarra",
+    "collection": "Rick y Morty",
+    "group": "Rick y Morty",
+    "accent": "#a7dc45",
+    "priority": -3,
+    "src": "/assets/designs/drop100-rick-nave.png"
+  },
+  {
+    "id": "drop100-rick-morty-vinilo",
+    "name": "Rick & Morty · Vinilo Cósmico",
+    "collection": "Rick y Morty",
+    "group": "Rick y Morty",
+    "accent": "#a7dc45",
+    "priority": -3,
+    "src": "/assets/designs/drop100-rick-morty-vinilo.png"
+  },
+  {
+    "id": "drop100-meeseeks",
+    "name": "Meeseeks · Misión Cumplida",
+    "collection": "Rick y Morty",
+    "group": "Rick y Morty",
+    "accent": "#a7dc45",
+    "priority": -3,
+    "src": "/assets/designs/drop100-meeseeks.png"
+  },
+  {
+    "id": "drop100-meeseeks-caos",
+    "name": "Meeseeks · Caos Azul",
+    "collection": "Rick y Morty",
+    "group": "Rick y Morty",
+    "accent": "#a7dc45",
+    "priority": -3,
+    "src": "/assets/designs/drop100-meeseeks-caos.png"
+  },
+  {
+    "id": "drop100-council-ricks",
+    "name": "Ricks · Consejo Cósmico",
+    "collection": "Rick y Morty",
+    "group": "Rick y Morty",
+    "accent": "#a7dc45",
+    "priority": -3,
+    "src": "/assets/designs/drop100-council-ricks.png"
+  },
+  {
+    "id": "drop100-evil-morty",
+    "name": "Morty · Horizonte Amarillo",
+    "collection": "Rick y Morty",
+    "group": "Rick y Morty",
+    "accent": "#a7dc45",
+    "priority": -3,
+    "src": "/assets/designs/drop100-evil-morty.png"
+  },
+  {
+    "id": "drop100-rick-cyber",
+    "name": "Rick · Circuito Neón",
+    "collection": "Rick y Morty",
+    "group": "Rick y Morty",
+    "accent": "#a7dc45",
+    "priority": -3,
+    "src": "/assets/designs/drop100-rick-cyber.png"
+  },
+  {
+    "id": "drop100-morty-arcade",
+    "name": "Morty · Arcade 3000",
+    "collection": "Rick y Morty",
+    "group": "Rick y Morty",
+    "accent": "#a7dc45",
+    "priority": -3,
+    "src": "/assets/designs/drop100-morty-arcade.png"
+  },
+  {
+    "id": "drop100-rick-morty-astronautas",
+    "name": "Rick & Morty · Gravedad Cero",
+    "collection": "Rick y Morty",
+    "group": "Rick y Morty",
+    "accent": "#a7dc45",
+    "priority": -3,
+    "src": "/assets/designs/drop100-rick-morty-astronautas.png"
+  },
+  {
+    "id": "drop100-rick-ramen",
+    "name": "Rick · Ramen Galáctico",
+    "collection": "Rick y Morty",
+    "group": "Rick y Morty",
+    "accent": "#a7dc45",
+    "priority": -3,
+    "src": "/assets/designs/drop100-rick-ramen.png"
+  },
+  {
+    "id": "drop100-morty-pizza",
+    "name": "Morty · Pizza Planetaria",
+    "collection": "Rick y Morty",
+    "group": "Rick y Morty",
+    "accent": "#a7dc45",
+    "priority": -3,
+    "src": "/assets/designs/drop100-morty-pizza.png"
+  },
+  {
+    "id": "drop100-rick-punk",
+    "name": "Rick · Punk del Multiverso",
+    "collection": "Rick y Morty",
+    "group": "Rick y Morty",
+    "accent": "#a7dc45",
+    "priority": -3,
+    "src": "/assets/designs/drop100-rick-punk.png"
+  },
+  {
+    "id": "drop100-rick-sunset",
+    "name": "Rick · Atardecer en Saturno",
+    "collection": "Rick y Morty",
+    "group": "Rick y Morty",
+    "accent": "#a7dc45",
+    "priority": -3,
+    "src": "/assets/designs/drop100-rick-sunset.png"
+  },
+  {
+    "id": "drop100-morty-robot",
+    "name": "Morty · Compañero Robótico",
+    "collection": "Rick y Morty",
+    "group": "Rick y Morty",
+    "accent": "#a7dc45",
+    "priority": -3,
+    "src": "/assets/designs/drop100-morty-robot.png"
+  },
+  {
+    "id": "drop100-rick-morty-luna",
+    "name": "Rick & Morty · Cara Oculta",
+    "collection": "Rick y Morty",
+    "group": "Rick y Morty",
+    "accent": "#a7dc45",
+    "priority": -3,
+    "src": "/assets/designs/drop100-rick-morty-luna.png"
+  },
+  {
+    "id": "drop100-snowball",
+    "name": "Snowball · Mente Superior",
+    "collection": "Rick y Morty",
+    "group": "Rick y Morty",
+    "accent": "#a7dc45",
+    "priority": -3,
+    "src": "/assets/designs/drop100-snowball.png"
+  },
+  {
+    "id": "drop100-birdperson",
+    "name": "Birdperson · Alas Cósmicas",
+    "collection": "Rick y Morty",
+    "group": "Rick y Morty",
+    "accent": "#a7dc45",
+    "priority": -3,
+    "src": "/assets/designs/drop100-birdperson.png"
+  },
+  {
+    "id": "drop100-squanchy",
+    "name": "Squanchy · Garage Rock",
+    "collection": "Rick y Morty",
+    "group": "Rick y Morty",
+    "accent": "#a7dc45",
+    "priority": -3,
+    "src": "/assets/designs/drop100-squanchy.png"
+  },
+  {
+    "id": "drop100-rick-cristal",
+    "name": "Rick · Prisma Temporal",
+    "collection": "Rick y Morty",
+    "group": "Rick y Morty",
+    "accent": "#a7dc45",
+    "priority": -3,
+    "src": "/assets/designs/drop100-rick-cristal.png"
+  },
+  {
+    "id": "drop100-morty-dragon",
+    "name": "Morty · Vuelo Fantástico",
+    "collection": "Rick y Morty",
+    "group": "Rick y Morty",
+    "accent": "#a7dc45",
+    "priority": -3,
+    "src": "/assets/designs/drop100-morty-dragon.png"
+  },
+  {
+    "id": "drop100-rick-morty-comic",
+    "name": "Rick & Morty · Viñeta Cósmica",
+    "collection": "Rick y Morty",
+    "group": "Rick y Morty",
+    "accent": "#a7dc45",
+    "priority": -3,
+    "src": "/assets/designs/drop100-rick-morty-comic.png"
+  },
+  {
+    "id": "drop100-rick-calavera",
+    "name": "Rick · Memento Multiverso",
+    "collection": "Rick y Morty",
+    "group": "Rick y Morty",
+    "accent": "#a7dc45",
+    "priority": -3,
+    "src": "/assets/designs/drop100-rick-calavera.png"
+  },
+  {
+    "id": "drop100-luffy-sun",
+    "name": "Luffy · Amanecer Gear 5",
+    "collection": "One Piece",
+    "group": "Anime",
+    "accent": "#dcaa61",
+    "priority": -3,
+    "src": "/assets/designs/drop100-luffy-sun.png"
+  },
+  {
+    "id": "drop100-zoro-tormenta",
+    "name": "Zoro · Tormenta de Acero",
+    "collection": "One Piece",
+    "group": "Anime",
+    "accent": "#dcaa61",
+    "priority": -3,
+    "src": "/assets/designs/drop100-zoro-tormenta.png"
+  },
+  {
+    "id": "drop100-sanji-flama",
+    "name": "Sanji · Paso de Fuego",
+    "collection": "One Piece",
+    "group": "Anime",
+    "accent": "#dcaa61",
+    "priority": -3,
+    "src": "/assets/designs/drop100-sanji-flama.png"
+  },
+  {
+    "id": "drop100-nami-cartografia",
+    "name": "Nami · Mapa del Cielo",
+    "collection": "One Piece",
+    "group": "Anime",
+    "accent": "#dcaa61",
+    "priority": -3,
+    "src": "/assets/designs/drop100-nami-cartografia.png"
+  },
+  {
+    "id": "drop100-robin-flor",
+    "name": "Robin · Flor Nocturna",
+    "collection": "One Piece",
+    "group": "Anime",
+    "accent": "#dcaa61",
+    "priority": -3,
+    "src": "/assets/designs/drop100-robin-flor.png"
+  },
+  {
+    "id": "drop100-chopper-doctor",
+    "name": "Chopper · Doctor de Aventura",
+    "collection": "One Piece",
+    "group": "Anime",
+    "accent": "#dcaa61",
+    "priority": -3,
+    "src": "/assets/designs/drop100-chopper-doctor.png"
+  },
+  {
+    "id": "drop100-ace-fuego",
+    "name": "Ace · Corazón de Fuego",
+    "collection": "One Piece",
+    "group": "Anime",
+    "accent": "#dcaa61",
+    "priority": -3,
+    "src": "/assets/designs/drop100-ace-fuego.png"
+  },
+  {
+    "id": "drop100-law-sala",
+    "name": "Law · Órbita ROOM",
+    "collection": "One Piece",
+    "group": "Anime",
+    "accent": "#dcaa61",
+    "priority": -3,
+    "src": "/assets/designs/drop100-law-sala.png"
+  },
+  {
+    "id": "drop100-shanks-rojo",
+    "name": "Shanks · Horizonte Rojo",
+    "collection": "One Piece",
+    "group": "Anime",
+    "accent": "#dcaa61",
+    "priority": -3,
+    "src": "/assets/designs/drop100-shanks-rojo.png"
+  },
+  {
+    "id": "drop100-brook-soul",
+    "name": "Brook · Soul King",
+    "collection": "One Piece",
+    "group": "Anime",
+    "accent": "#dcaa61",
+    "priority": -3,
+    "src": "/assets/designs/drop100-brook-soul.png"
+  },
+  {
+    "id": "drop100-franky-super",
+    "name": "Franky · Super Mecánico",
+    "collection": "One Piece",
+    "group": "Anime",
+    "accent": "#dcaa61",
+    "priority": -3,
+    "src": "/assets/designs/drop100-franky-super.png"
+  },
+  {
+    "id": "drop100-jinbe-ola",
+    "name": "Jinbe · Marea Azul",
+    "collection": "One Piece",
+    "group": "Anime",
+    "accent": "#dcaa61",
+    "priority": -3,
+    "src": "/assets/designs/drop100-jinbe-ola.png"
+  },
+  {
+    "id": "drop100-yamato-luna",
+    "name": "Yamato · Luna del Guardián",
+    "collection": "One Piece",
+    "group": "Anime",
+    "accent": "#dcaa61",
+    "priority": -3,
+    "src": "/assets/designs/drop100-yamato-luna.png"
+  },
+  {
+    "id": "drop100-sabo-llama",
+    "name": "Sabo · Llama Rebelde",
+    "collection": "One Piece",
+    "group": "Anime",
+    "accent": "#dcaa61",
+    "priority": -3,
+    "src": "/assets/designs/drop100-sabo-llama.png"
+  },
+  {
+    "id": "drop100-katakuri-mochi",
+    "name": "Katakuri · Puño Escarlata",
+    "collection": "One Piece",
+    "group": "Anime",
+    "accent": "#dcaa61",
+    "priority": -3,
+    "src": "/assets/designs/drop100-katakuri-mochi.png"
+  },
+  {
+    "id": "drop100-buggy-circo",
+    "name": "Buggy · Circo Pirata",
+    "collection": "One Piece",
+    "group": "Anime",
+    "accent": "#dcaa61",
+    "priority": -3,
+    "src": "/assets/designs/drop100-buggy-circo.png"
+  },
+  {
+    "id": "drop100-perona-fantasma",
+    "name": "Perona · Fantasmas Rosa",
+    "collection": "One Piece",
+    "group": "Anime",
+    "accent": "#dcaa61",
+    "priority": -3,
+    "src": "/assets/designs/drop100-perona-fantasma.png"
+  },
+  {
+    "id": "drop100-hancock-serpiente",
+    "name": "Hancock · Reina Serpiente",
+    "collection": "One Piece",
+    "group": "Anime",
+    "accent": "#dcaa61",
+    "priority": -3,
+    "src": "/assets/designs/drop100-hancock-serpiente.png"
+  },
+  {
+    "id": "drop100-merry-recuerdos",
+    "name": "Going Merry · Rumbo Libre",
+    "collection": "One Piece",
+    "group": "Anime",
+    "accent": "#dcaa61",
+    "priority": -3,
+    "src": "/assets/designs/drop100-merry-recuerdos.png"
+  },
+  {
+    "id": "drop100-sunny-aventura",
+    "name": "Thousand Sunny · Sol Pirata",
+    "collection": "One Piece",
+    "group": "Anime",
+    "accent": "#dcaa61",
+    "priority": -3,
+    "src": "/assets/designs/drop100-sunny-aventura.png"
+  },
+  {
+    "id": "drop100-metallica-electric",
+    "name": "Metallica · Cráneo Eléctrico",
+    "collection": "Rock",
+    "group": "Rock",
+    "accent": "#be584b",
+    "priority": -3,
+    "src": "/assets/designs/drop100-metallica-electric.png"
+  },
+  {
+    "id": "drop100-iron-maiden-phantom",
+    "name": "Iron Maiden · Fantasma del Escenario",
+    "collection": "Rock",
+    "group": "Rock",
+    "accent": "#be584b",
+    "priority": -3,
+    "src": "/assets/designs/drop100-iron-maiden-phantom.png"
+  },
+  {
+    "id": "drop100-acdc-thunder",
+    "name": "AC/DC · Trueno",
+    "collection": "Rock",
+    "group": "Rock",
+    "accent": "#be584b",
+    "priority": -3,
+    "src": "/assets/designs/drop100-acdc-thunder.png"
+  },
+  {
+    "id": "drop100-skull-neon-king",
+    "name": "Calavera · Rey Neón",
+    "collection": "Rock",
+    "group": "Rock",
+    "accent": "#be584b",
+    "priority": -3,
+    "src": "/assets/designs/drop100-skull-neon-king.png"
+  },
+  {
+    "id": "drop100-skull-cat-moon",
+    "name": "Calavera · Gato de Medianoche",
+    "collection": "Rock",
+    "group": "Rock",
+    "accent": "#be584b",
+    "priority": -3,
+    "src": "/assets/designs/drop100-skull-cat-moon.png"
+  },
+  {
+    "id": "drop100-queen-cosmic",
+    "name": "Queen · Corona Cósmica",
+    "collection": "Rock",
+    "group": "Rock",
+    "accent": "#be584b",
+    "priority": -3,
+    "src": "/assets/designs/drop100-queen-cosmic.png"
+  },
+  {
+    "id": "drop100-rock-spectral-bass",
+    "name": "Rock · Bajo Espectral",
+    "collection": "Rock",
+    "group": "Rock",
+    "accent": "#be584b",
+    "priority": -3,
+    "src": "/assets/designs/drop100-rock-spectral-bass.png"
+  },
+  {
+    "id": "drop100-led-zeppelin-flight",
+    "name": "Led Zeppelin · Vuelo Vintage",
+    "collection": "Rock",
+    "group": "Rock",
+    "accent": "#be584b",
+    "priority": -3,
+    "src": "/assets/designs/drop100-led-zeppelin-flight.png"
+  },
+  {
+    "id": "drop100-black-sabbath-doom",
+    "name": "Black Sabbath · Campana Oscura",
+    "collection": "Rock",
+    "group": "Rock",
+    "accent": "#be584b",
+    "priority": -3,
+    "src": "/assets/designs/drop100-black-sabbath-doom.png"
+  },
+  {
+    "id": "drop100-motorhead-engine",
+    "name": "Motörhead · Motor de Acero",
+    "collection": "Rock",
+    "group": "Rock",
+    "accent": "#be584b",
+    "priority": -3,
+    "src": "/assets/designs/drop100-motorhead-engine.png"
+  },
+  {
+    "id": "drop100-skull-storm-crow",
+    "name": "Calavera · Cuervo de Tormenta",
+    "collection": "Rock",
+    "group": "Rock",
+    "accent": "#be584b",
+    "priority": -3,
+    "src": "/assets/designs/drop100-skull-storm-crow.png"
+  },
+  {
+    "id": "drop100-misfits-crimson",
+    "name": "Misfits · Calavera Carmesí",
+    "collection": "Rock",
+    "group": "Rock",
+    "accent": "#be584b",
+    "priority": -3,
+    "src": "/assets/designs/drop100-misfits-crimson.png"
+  },
+  {
+    "id": "drop100-rock-bone-phoenix",
+    "name": "Rock · Fénix de Hueso",
+    "collection": "Rock",
+    "group": "Rock",
+    "accent": "#be584b",
+    "priority": -3,
+    "src": "/assets/designs/drop100-rock-bone-phoenix.png"
+  },
+  {
+    "id": "drop100-rolling-stones-riff",
+    "name": "Rolling Stones · Labios y Riffs",
+    "collection": "Rock",
+    "group": "Rock",
+    "accent": "#be584b",
+    "priority": -3,
+    "src": "/assets/designs/drop100-rolling-stones-riff.png"
+  },
+  {
+    "id": "drop100-skull-clockwork-moth",
+    "name": "Calavera · Polilla Mecánica",
+    "collection": "Rock",
+    "group": "Rock",
+    "accent": "#be584b",
+    "priority": -3,
+    "src": "/assets/designs/drop100-skull-clockwork-moth.png"
+  },
+  {
+    "id": "drop100-rock-galactic-amp",
+    "name": "Rock · Amplificador Galáctico",
+    "collection": "Rock",
+    "group": "Rock",
+    "accent": "#be584b",
+    "priority": -3,
+    "src": "/assets/designs/drop100-rock-galactic-amp.png"
+  },
+  {
+    "id": "drop100-system-down-roots",
+    "name": "System of a Down · Raíces Eléctricas",
+    "collection": "Rock",
+    "group": "Rock",
+    "accent": "#be584b",
+    "priority": -3,
+    "src": "/assets/designs/drop100-system-down-roots.png"
+  },
+  {
+    "id": "drop100-green-day-punk",
+    "name": "Green Day · Corazón Punk",
+    "collection": "Rock",
+    "group": "Rock",
+    "accent": "#be584b",
+    "priority": -3,
+    "src": "/assets/designs/drop100-green-day-punk.png"
+  },
+  {
+    "id": "drop100-foo-fighters-flight",
+    "name": "Foo Fighters · Vuelo Sónico",
+    "collection": "Rock",
+    "group": "Rock",
+    "accent": "#be584b",
+    "priority": -3,
+    "src": "/assets/designs/drop100-foo-fighters-flight.png"
+  },
+  {
+    "id": "drop100-rhcp-funk",
+    "name": "Red Hot Chili Peppers · Funk Solar",
+    "collection": "Rock",
+    "group": "Rock",
+    "accent": "#be584b",
+    "priority": -3,
+    "src": "/assets/designs/drop100-rhcp-funk.png"
+  },
+  {
+    "id": "drop100-megadeth-rust",
+    "name": "Megadeth · Óxido y Metal",
+    "collection": "Rock",
+    "group": "Rock",
+    "accent": "#be584b",
+    "priority": -3,
+    "src": "/assets/designs/drop100-megadeth-rust.png"
+  },
+  {
+    "id": "drop100-pantera-power",
+    "name": "Pantera · Garra de Acero",
+    "collection": "Rock",
+    "group": "Rock",
+    "accent": "#be584b",
+    "priority": -3,
+    "src": "/assets/designs/drop100-pantera-power.png"
+  },
+  {
+    "id": "drop100-judas-priest-wing",
+    "name": "Judas Priest · Alas de Metal",
+    "collection": "Rock",
+    "group": "Rock",
+    "accent": "#be584b",
+    "priority": -3,
+    "src": "/assets/designs/drop100-judas-priest-wing.png"
+  },
+  {
+    "id": "drop100-the-cure-moon",
+    "name": "The Cure · Luna Gótica",
+    "collection": "Rock",
+    "group": "Rock",
+    "accent": "#be584b",
+    "priority": -3,
+    "src": "/assets/designs/drop100-the-cure-moon.png"
+  },
+  {
+    "id": "drop100-evanescence-night",
+    "name": "Evanescence · Jardín Nocturno",
+    "collection": "Rock",
+    "group": "Rock",
+    "accent": "#be584b",
+    "priority": -3,
+    "src": "/assets/designs/drop100-evanescence-night.png"
+  },
+  {
+    "id": "drop100-skull-rose-crown",
+    "name": "Calavera · Corona de Rosas",
+    "collection": "Rock",
+    "group": "Rock",
+    "accent": "#be584b",
+    "priority": -3,
+    "src": "/assets/designs/drop100-skull-rose-crown.png"
+  },
+  {
+    "id": "drop100-skull-butterfly",
+    "name": "Calavera · Alas de Mariposa",
+    "collection": "Rock",
+    "group": "Rock",
+    "accent": "#be584b",
+    "priority": -3,
+    "src": "/assets/designs/drop100-skull-butterfly.png"
+  },
+  {
+    "id": "drop100-skull-viking",
+    "name": "Calavera · Ragnarok",
+    "collection": "Rock",
+    "group": "Rock",
+    "accent": "#be584b",
+    "priority": -3,
+    "src": "/assets/designs/drop100-skull-viking.png"
+  },
+  {
+    "id": "drop100-skull-samurai",
+    "name": "Calavera · Ronin",
+    "collection": "Rock",
+    "group": "Rock",
+    "accent": "#be584b",
+    "priority": -3,
+    "src": "/assets/designs/drop100-skull-samurai.png"
+  },
+  {
+    "id": "drop100-skull-cowboy",
+    "name": "Calavera · Último Desierto",
+    "collection": "Rock",
+    "group": "Rock",
+    "accent": "#be584b",
+    "priority": -3,
+    "src": "/assets/designs/drop100-skull-cowboy.png"
+  },
+  {
+    "id": "drop100-skull-biker",
+    "name": "Calavera · Ruta Salvaje",
+    "collection": "Rock",
+    "group": "Rock",
+    "accent": "#be584b",
+    "priority": -3,
+    "src": "/assets/designs/drop100-skull-biker.png"
+  },
+  {
+    "id": "drop100-skull-astronaut",
+    "name": "Calavera · Vacío Cósmico",
+    "collection": "Rock",
+    "group": "Rock",
+    "accent": "#be584b",
+    "priority": -3,
+    "src": "/assets/designs/drop100-skull-astronaut.png"
+  },
+  {
+    "id": "drop100-skull-captain",
+    "name": "Calavera · Capitán Maldito",
+    "collection": "Rock",
+    "group": "Rock",
+    "accent": "#be584b",
+    "priority": -3,
+    "src": "/assets/designs/drop100-skull-captain.png"
+  },
+  {
+    "id": "drop100-skull-headphones",
+    "name": "Calavera · Volumen Máximo",
+    "collection": "Rock",
+    "group": "Rock",
+    "accent": "#be584b",
+    "priority": -3,
+    "src": "/assets/designs/drop100-skull-headphones.png"
+  },
+  {
+    "id": "drop100-skull-drummer",
+    "name": "Calavera · Golpe Final",
+    "collection": "Rock",
+    "group": "Rock",
+    "accent": "#be584b",
+    "priority": -3,
+    "src": "/assets/designs/drop100-skull-drummer.png"
+  },
+  {
+    "id": "drop100-skull-guitar",
+    "name": "Calavera · Solo Eterno",
+    "collection": "Rock",
+    "group": "Rock",
+    "accent": "#be584b",
+    "priority": -3,
+    "src": "/assets/designs/drop100-skull-guitar.png"
+  },
+  {
+    "id": "drop100-skull-vinyl",
+    "name": "Calavera · Surco Negro",
+    "collection": "Rock",
+    "group": "Rock",
+    "accent": "#be584b",
+    "priority": -3,
+    "src": "/assets/designs/drop100-skull-vinyl.png"
+  },
+  {
+    "id": "drop100-skull-raven",
+    "name": "Calavera · Cuervo Lunar",
+    "collection": "Rock",
+    "group": "Rock",
+    "accent": "#be584b",
+    "priority": -3,
+    "src": "/assets/designs/drop100-skull-raven.png"
+  },
+  {
+    "id": "drop100-skull-snake",
+    "name": "Calavera · Veneno Verde",
+    "collection": "Rock",
+    "group": "Rock",
+    "accent": "#be584b",
+    "priority": -3,
+    "src": "/assets/designs/drop100-skull-snake.png"
+  },
+  {
+    "id": "drop100-skull-dragon",
+    "name": "Calavera · Dragón de Humo",
+    "collection": "Rock",
+    "group": "Rock",
+    "accent": "#be584b",
+    "priority": -3,
+    "src": "/assets/designs/drop100-skull-dragon.png"
+  },
+  {
+    "id": "drop100-skull-wolf",
+    "name": "Calavera · Aullido de Medianoche",
+    "collection": "Rock",
+    "group": "Rock",
+    "accent": "#be584b",
+    "priority": -3,
+    "src": "/assets/designs/drop100-skull-wolf.png"
+  },
+  {
+    "id": "drop100-skull-flame",
+    "name": "Calavera · Fuego Azul",
+    "collection": "Rock",
+    "group": "Rock",
+    "accent": "#be584b",
+    "priority": -3,
+    "src": "/assets/designs/drop100-skull-flame.png"
+  },
+  {
+    "id": "drop100-skull-punk-mohawk",
+    "name": "Calavera · Cresta Rebelde",
+    "collection": "Rock",
+    "group": "Rock",
+    "accent": "#be584b",
+    "priority": -3,
+    "src": "/assets/designs/drop100-skull-punk-mohawk.png"
+  },
+  {
+    "id": "drop100-skull-angel",
+    "name": "Calavera · Ángel Caído",
+    "collection": "Rock",
+    "group": "Rock",
+    "accent": "#be584b",
+    "priority": -3,
+    "src": "/assets/designs/drop100-skull-angel.png"
+  },
+  {
+    "id": "drop100-skull-oni",
+    "name": "Calavera · Demonio Oni",
+    "collection": "Rock",
+    "group": "Rock",
+    "accent": "#be584b",
+    "priority": -3,
+    "src": "/assets/designs/drop100-skull-oni.png"
+  },
+  {
+    "id": "drop100-skull-celestial",
+    "name": "Calavera · Eclipse",
+    "collection": "Rock",
+    "group": "Rock",
+    "accent": "#be584b",
+    "priority": -3,
+    "src": "/assets/designs/drop100-skull-celestial.png"
+  },
+  {
+    "id": "drop100-skull-floral",
+    "name": "Calavera · Jardín Oscuro",
+    "collection": "Rock",
+    "group": "Rock",
+    "accent": "#be584b",
+    "priority": -3,
+    "src": "/assets/designs/drop100-skull-floral.png"
+  },
+  {
+    "id": "drop100-skull-mechanical",
+    "name": "Calavera · Engranaje",
+    "collection": "Rock",
+    "group": "Rock",
+    "accent": "#be584b",
+    "priority": -3,
+    "src": "/assets/designs/drop100-skull-mechanical.png"
+  },
+  {
+    "id": "drop100-skull-hourglass",
+    "name": "Calavera · Tiempo Muerto",
+    "collection": "Rock",
+    "group": "Rock",
+    "accent": "#be584b",
+    "priority": -3,
+    "src": "/assets/designs/drop100-skull-hourglass.png"
+  },
+  {
+    "id": "drop100-skull-cathedral",
+    "name": "Calavera · Catedral del Rock",
+    "collection": "Rock",
+    "group": "Rock",
+    "accent": "#be584b",
+    "priority": -3,
+    "src": "/assets/designs/drop100-skull-cathedral.png"
+  },
+  {
+    "id": "alien-rebel",
+    "name": "Alien · Rebelde Neón",
+    "collection": "Memes",
+    "group": "Memes",
+    "priority": -2,
+    "accent": "#b5ed12",
+    "src": "/assets/designs/alien-rebel.png"
+  },
+  {
+    "id": "futurama-bender",
+    "name": "Bender · Metal Rebelde",
+    "accent": "#b9c8cb",
+    "collection": "Futurama",
+    "group": "Futurama",
+    "priority": -1,
+    "src": "/assets/designs/futurama-bender.png"
+  },
+  {
+    "id": "futurama-fry",
+    "name": "Fry · Delivery Cósmico",
+    "accent": "#ed6b36",
+    "collection": "Futurama",
+    "group": "Futurama",
+    "priority": -1,
+    "src": "/assets/designs/futurama-fry.png"
+  },
+  {
+    "id": "futurama-leela",
+    "name": "Leela · Capitana Estelar",
+    "accent": "#ad8ae0",
+    "collection": "Futurama",
+    "group": "Futurama",
+    "priority": -1,
+    "src": "/assets/designs/futurama-leela.png"
+  },
+  {
+    "id": "futurama-zoidberg",
+    "name": "Zoidberg · Disco Galáctico",
+    "accent": "#eb6e61",
+    "collection": "Futurama",
+    "group": "Futurama",
+    "priority": -1,
+    "src": "/assets/designs/futurama-zoidberg.png"
+  },
+  {
+    "id": "futurama-nibbler",
+    "name": "Nibbler · Hambre Infinita",
+    "accent": "#e2b858",
+    "collection": "Futurama",
+    "group": "Futurama",
+    "priority": -1,
+    "src": "/assets/designs/futurama-nibbler.png"
+  },
+  {
+    "id": "futurama-profesor",
+    "name": "Profesor · Laboratorio 3000",
+    "accent": "#9acda0",
+    "collection": "Futurama",
+    "group": "Futurama",
+    "priority": -1,
+    "src": "/assets/designs/futurama-profesor.png"
+  },
+  {
+    "id": "futurama-planet-express",
+    "name": "Planet Express · Ruta 3000",
+    "accent": "#67c7b4",
+    "collection": "Futurama",
+    "group": "Futurama",
+    "priority": -1,
+    "src": "/assets/designs/futurama-planet-express.png"
+  },
+  {
+    "id": "futurama-hypnotoad",
+    "name": "Hypnotoad · Frecuencia Hipnótica",
+    "accent": "#c5cd68",
+    "collection": "Futurama",
+    "group": "Futurama",
+    "priority": -1,
+    "src": "/assets/designs/futurama-hypnotoad.png"
+  },
+  {
+    "id": "futurama-bender-fry",
+    "name": "Fry & Bender · Turno Espacial",
+    "accent": "#f08d4e",
+    "collection": "Futurama",
+    "group": "Futurama",
+    "priority": -1,
+    "src": "/assets/designs/futurama-bender-fry.png"
+  },
+  {
+    "id": "futurama-calculon",
+    "name": "Calculon · Drama Cósmico",
+    "accent": "#d9ad58",
+    "collection": "Futurama",
+    "group": "Futurama",
+    "priority": -1,
+    "src": "/assets/designs/futurama-calculon.png"
+  },
+  {
+    "id": "imu-crimson",
+    "name": "Imu · Eclipse Carmesí",
+    "collection": "One Piece",
+    "group": "Anime",
+    "priority": 0,
+    "accent": "#a72b3b",
+    "src": "/assets/designs/imu-crimson.png"
+  },
+  {
+    "id": "imu-elbaf",
+    "priority": 1,
+    "name": "Imu · Elbaf Manga",
+    "collection": "One Piece",
+    "group": "Anime",
+    "accent": "#b8b8b4",
+    "src": "/assets/designs/imu-elbaf.png"
+  },
+  {
+    "id": "luffy",
+    "name": "Luffy · Gear 5",
+    "collection": "One Piece",
+    "src": "/assets/designs/luffy.png",
+    "accent": "#a79ade"
+  },
+  {
+    "id": "clover",
+    "name": "Asta · Black mode",
+    "collection": "Black Clover",
+    "src": "/assets/designs/clover.png",
+    "accent": "#a1bf84"
+  },
+  {
+    "id": "hunter",
+    "name": "Gon & Killua",
+    "collection": "Hunter × Hunter",
+    "src": "/assets/designs/hunter.png",
+    "accent": "#72aeba"
+  },
+  {
+    "id": "rock",
+    "name": "Born to be loud",
+    "collection": "Rock",
+    "src": "/assets/designs/rock.png",
+    "accent": "#ce8575"
+  },
+  {
+    "id": "metal",
+    "name": "Midnight ritual",
+    "collection": "Rock",
+    "src": "/assets/designs/metal.png",
+    "accent": "#c0c3a5"
+  },
+  {
+    "id": "meme",
+    "name": "Todo bajo control",
+    "collection": "Memes",
+    "src": "/assets/designs/meme.png",
+    "accent": "#e0ae76"
+  },
+  {
+    "id": "gojo",
+    "name": "Gojo · Infinity",
+    "collection": "Jujutsu Kaisen",
+    "src": "/assets/designs/gojo.png",
+    "accent": "#85a9cf"
+  },
+  {
+    "id": "naruto",
+    "name": "Naruto · Rasengan",
+    "collection": "Naruto",
+    "src": "/assets/designs/naruto.png",
+    "accent": "#dca374"
+  },
+  {
+    "id": "zoro",
+    "name": "Zoro · Tres espadas",
+    "collection": "One Piece",
+    "group": "Anime",
+    "accent": "#8bb38c",
+    "src": "/assets/designs/zoro.png"
+  },
+  {
+    "id": "saitama",
+    "name": "Saitama · Día libre",
+    "collection": "One Punch Man",
+    "group": "Anime",
+    "accent": "#99c6e8",
+    "src": "/assets/designs/saitama.png"
+  },
+  {
+    "id": "tanjiro",
+    "name": "Tanjiro · Marea azul",
+    "collection": "Demon Slayer",
+    "group": "Anime",
+    "accent": "#79b9bd",
+    "src": "/assets/designs/tanjiro.png"
+  },
+  {
+    "id": "levi",
+    "name": "Levi · Alas de libertad",
+    "collection": "Attack on Titan",
+    "group": "Anime",
+    "accent": "#95a28c",
+    "src": "/assets/designs/levi.png"
+  },
+  {
+    "id": "ichigo",
+    "name": "Ichigo · Hollow",
+    "collection": "Bleach",
+    "group": "Anime",
+    "accent": "#da9972",
+    "src": "/assets/designs/ichigo.png"
+  },
+  {
+    "id": "denji",
+    "name": "Denji · Chainsaw",
+    "collection": "Chainsaw Man",
+    "group": "Anime",
+    "accent": "#d78767",
+    "src": "/assets/designs/denji.png"
+  },
+  {
+    "id": "ryuk",
+    "name": "Ryuk · Manzana roja",
+    "collection": "Death Note",
+    "group": "Anime",
+    "accent": "#b992b7",
+    "src": "/assets/designs/ryuk.png"
+  },
+  {
+    "id": "eva01",
+    "name": "Eva 01 · Awakening",
+    "collection": "Evangelion",
+    "group": "Anime",
+    "accent": "#b493da",
+    "src": "/assets/designs/eva01.png"
+  },
+  {
+    "id": "guts",
+    "name": "Guts · Eclipse",
+    "collection": "Berserk",
+    "group": "Anime",
+    "accent": "#bc887f",
+    "src": "/assets/designs/guts.png"
+  },
+  {
+    "id": "anya",
+    "name": "Anya · Modo misión",
+    "collection": "Spy × Family",
+    "group": "Anime",
+    "accent": "#dda6a5",
+    "src": "/assets/designs/anya.png"
+  },
+  {
+    "id": "cosmic-riff",
+    "name": "Cosmic riff",
+    "collection": "Rock",
+    "group": "Rock",
+    "accent": "#8fa8ce",
+    "src": "/assets/designs/cosmic-riff.png"
+  },
+  {
+    "id": "skull-roses",
+    "name": "Skull & roses",
+    "collection": "Rock",
+    "group": "Rock",
+    "accent": "#c47d85",
+    "src": "/assets/designs/skull-roses.png"
+  },
+  {
+    "id": "raven-riff",
+    "name": "Raven anthem",
+    "collection": "Rock",
+    "group": "Rock",
+    "accent": "#9c9fbd",
+    "src": "/assets/designs/raven-riff.png"
+  },
+  {
+    "id": "desert-tour",
+    "name": "Desert rider",
+    "collection": "Rock",
+    "group": "Rock",
+    "accent": "#ceaa79",
+    "src": "/assets/designs/desert-tour.png"
+  },
+  {
+    "id": "venom-vinyl",
+    "name": "Venom vinyl",
+    "collection": "Rock",
+    "group": "Rock",
+    "accent": "#a4b58b",
+    "src": "/assets/designs/venom-vinyl.png"
+  },
+  {
+    "id": "thunder-wolf",
+    "name": "Thunder wolf",
+    "collection": "Rock",
+    "group": "Rock",
+    "accent": "#94afcd",
+    "src": "/assets/designs/thunder-wolf.png"
+  },
+  {
+    "id": "inferno-amp",
+    "name": "Inferno volume",
+    "collection": "Rock",
+    "group": "Rock",
+    "accent": "#d89472",
+    "src": "/assets/designs/inferno-amp.png"
+  },
+  {
+    "id": "moon-bat",
+    "name": "Midnight echo",
+    "collection": "Rock",
+    "group": "Rock",
+    "accent": "#b498c9",
+    "src": "/assets/designs/moon-bat.png"
+  },
+  {
+    "id": "punk-rebel",
+    "name": "Punk attitude",
+    "collection": "Rock",
+    "group": "Rock",
+    "accent": "#d4b179",
+    "src": "/assets/designs/punk-rebel.png"
+  },
+  {
+    "id": "electric-tiger",
+    "name": "Electric tiger",
+    "collection": "Rock",
+    "group": "Rock",
+    "accent": "#dd9d6b",
+    "src": "/assets/designs/electric-tiger.png"
+  },
+  {
+    "id": "capybara-zen",
+    "name": "Capibara · Cero estrés",
+    "collection": "Memes",
+    "group": "Memes",
+    "accent": "#c9b18b",
+    "src": "/assets/designs/capybara-zen.png"
+  },
+  {
+    "id": "cat-buffering",
+    "name": "Gato · Procesando",
+    "collection": "Memes",
+    "group": "Memes",
+    "accent": "#a7a4ca",
+    "src": "/assets/designs/cat-buffering.png"
+  },
+  {
+    "id": "dog-astronaut",
+    "name": "Houston, tengo sueño",
+    "collection": "Memes",
+    "group": "Memes",
+    "accent": "#8dadc3",
+    "src": "/assets/designs/dog-astronaut.png"
+  },
+  {
+    "id": "opossum-night",
+    "name": "Turno nocturno",
+    "collection": "Memes",
+    "group": "Memes",
+    "accent": "#ba9cb6",
+    "src": "/assets/designs/opossum-night.png"
+  },
+  {
+    "id": "frog-deadline",
+    "name": "Rana · Último minuto",
+    "collection": "Memes",
+    "group": "Memes",
+    "accent": "#9fbc89",
+    "src": "/assets/designs/frog-deadline.png"
+  },
+  {
+    "id": "raccoon-snack",
+    "name": "Mapache · Snack mode",
+    "collection": "Memes",
+    "group": "Memes",
+    "accent": "#c1aa92",
+    "src": "/assets/designs/raccoon-snack.png"
+  },
+  {
+    "id": "duck-chaos",
+    "name": "Pato · Caos controlado",
+    "collection": "Memes",
+    "group": "Memes",
+    "accent": "#d9bc79",
+    "src": "/assets/designs/duck-chaos.png"
+  },
+  {
+    "id": "skeleton-battery",
+    "name": "Batería social · 1%",
+    "collection": "Memes",
+    "group": "Memes",
+    "accent": "#afa2be",
+    "src": "/assets/designs/skeleton-battery.png"
+  },
+  {
+    "id": "pigeon-boss",
+    "name": "Paloma · CEO del parque",
+    "collection": "Memes",
+    "group": "Memes",
+    "accent": "#a2b2bd",
+    "src": "/assets/designs/pigeon-boss.png"
+  },
+  {
+    "id": "toast-existential",
+    "name": "Tostada · Existiendo",
+    "collection": "Memes",
+    "group": "Memes",
+    "accent": "#d6aa85",
+    "src": "/assets/designs/toast-existential.png"
+  }
+]

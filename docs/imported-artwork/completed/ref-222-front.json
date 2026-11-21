@@ -1,0 +1,27 @@
+{
+  "id": "ref-222-front",
+  "n": 222,
+  "name": "Hechicero de llamas · Identidad por verificar",
+  "side": "front",
+  "group": "Anime",
+  "collection": "Por verificar",
+  "src": "/assets/designs/ref-222-front.png",
+  "tool": "image_gen",
+  "source": "222.jpg",
+  "reference": "C:/Users/eddgt/Documents/GitHub/Draxen/docs/imported-artwork/originals/222.jpg",
+  "status": "excluded",
+  "prompt": "Faithfully recreate ONLY the NATSU printed artwork from this reference, as a standalone apparel print with transparent alpha outside the artwork. Preserve the exact shown full-body figure in black clothing, turquoise collar and cuffs, flames in both hands, purple/blue fiery background, pose and intricate colors. The reference bottom text is NATSU. Render ONLY NATSU at bottom. Do NOT add Marco, Fénix or One Piece text; these would be incorrect. Remove shirt, tag, shop watermark and fabric distortion, keep whole art within margins.",
+  "classificationReview": {
+    "date": "2026-11-14",
+    "status": "pending",
+    "reason": "Figura encapuchada y rostro no compatibles con Natsu; el texto NATSU no basta para verificar la identidad.",
+    "previous": {
+      "name": "Natsu · Fuego púrpura",
+      "collection": "Fairy Tail",
+      "group": "Anime"
+    }
+  },
+  "classificationStatus": "excluded",
+  "excludedAt": "2026-11-15",
+  "exclusionReason": "Retirado del catálogo por petición del usuario: eliminar todo lo marcado por verificar."
+}

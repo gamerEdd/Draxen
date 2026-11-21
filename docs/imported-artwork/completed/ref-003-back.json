@@ -1,0 +1,13 @@
+{
+  "id": "ref-003-back",
+  "n": 3,
+  "name": "Sodom · Agent Orange",
+  "side": "back",
+  "group": "Rock",
+  "collection": "Sodom",
+  "src": "/assets/designs/ref-003-back.png",
+  "tool": "image_gen",
+  "source": "003.jpg",
+  "status": "approved",
+  "prompt": "Edit target: provided reference image 003.jpg. Subject: Sodom · Agent Orange. Recreate ONLY the LOWER BACK shirt print; ignore the other shirt as ONE standalone high resolution apparel artwork. Preserve the actual reference composition, characters, detailed linework, textures, palette and lettering. Keep dense fine illustration and all design elements, do not simplify. Correct fabric perspective to a flat print. Remove garment, mannequin, store, decorative cups, tabletop, price stickers and interface. Retain any illustrated panel or artistic background that is part of the design itself. Genuine transparent alpha around the complete print, generous outer margin, no mockup. Preserve readable text accurately; do not invent extra slogans, dates or tour locations. If reference is an artwork rather than a shirt, preserve the entire artwork and its typography. This is a faithful restoration of the uploaded artwork, not a new generic interpretation."
+}

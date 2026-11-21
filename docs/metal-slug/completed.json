@@ -1,0 +1,50 @@
+[
+  {
+    "id": "metal-slug-marco",
+    "src": "/assets/designs/metal-slug-marco.png"
+  },
+  {
+    "id": "metal-slug-tarma",
+    "src": "/assets/designs/metal-slug-tarma.png"
+  },
+  {
+    "id": "metal-slug-eri",
+    "src": "/assets/designs/metal-slug-eri.png"
+  },
+  {
+    "id": "metal-slug-fio",
+    "src": "/assets/designs/metal-slug-fio.png"
+  },
+  {
+    "id": "metal-slug-squad",
+    "src": "/assets/designs/metal-slug-squad.png"
+  },
+  {
+    "id": "metal-slug-sv001",
+    "src": "/assets/designs/metal-slug-sv001.png"
+  },
+  {
+    "id": "metal-slug-tank-blueprint",
+    "src": "/assets/designs/metal-slug-tank-blueprint.png"
+  },
+  {
+    "id": "metal-slug-slug-flyer",
+    "src": "/assets/designs/metal-slug-slug-flyer.png"
+  },
+  {
+    "id": "metal-slug-slug-gunner",
+    "src": "/assets/designs/metal-slug-slug-gunner.png"
+  },
+  {
+    "id": "metal-slug-camel",
+    "src": "/assets/designs/metal-slug-camel.png"
+  },
+  {
+    "id": "metal-slug-ostrich",
+    "src": "/assets/designs/metal-slug-ostrich.png"
+  },
+  {
+    "id": "metal-slug-elephant",
+    "src": "/assets/designs/metal-slug-elephant.png"
+  }
+]

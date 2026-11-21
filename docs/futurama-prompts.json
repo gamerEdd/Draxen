@@ -1,0 +1,65 @@
+{
+  "tool": "image_gen (built-in)",
+  "designs": [
+    {
+      "id": "futurama-bender",
+      "name": "Bender · Metal Rebelde",
+      "src": "/assets/designs/futurama-bender.png",
+      "prompt": "Use case: stylized-concept. Asset: standalone premium t-shirt print illustration, NOT a garment mockup. Subject: Bender from Futurama, full body swagger pose, shiny gray segmented robot, antenna, rectangular mouth teeth, holding a small cassette boombox, electric cyan and acid yellow angular sparks, rebellious retro streetwear graphic. Faithful recognizable Futurama character designs, crisp professional cartoon ink contours, sophisticated cel shading and subtle vintage screenprint texture, striking readable silhouette on both dark and light garments. Centered complete isolated design with generous transparent margins, no clipped features. Actual transparent alpha background. No rectangle backdrop, no shirt, no photograph, no lettering, no logos, no watermark. One coherent design only, high resolution."
+    },
+    {
+      "id": "futurama-fry",
+      "name": "Fry · Delivery Cósmico",
+      "src": "/assets/designs/futurama-fry.png",
+      "prompt": "Use case: stylized-concept. Asset: standalone premium t-shirt print illustration, NOT a garment mockup. Subject: Philip J. Fry from Futurama, recognizable orange swept-up hair, red jacket white t-shirt blue jeans, riding a hovering delivery scooter with a pizza box, orange and teal speed trails and small planets, playful dynamic composition. Faithful recognizable Futurama character designs, crisp professional cartoon ink contours, sophisticated cel shading and subtle vintage screenprint texture, striking readable silhouette on both dark and light garments. Centered complete isolated design with generous transparent margins, no clipped features. Actual transparent alpha background. No rectangle backdrop, no shirt, no photograph, no lettering, no logos, no watermark. One coherent design only, high resolution."
+    },
+    {
+      "id": "futurama-leela",
+      "name": "Leela · Capitana Estelar",
+      "src": "/assets/designs/futurama-leela.png",
+      "prompt": "Use case: stylized-concept. Asset: standalone premium t-shirt print illustration, NOT a garment mockup. Subject: Turanga Leela from Futurama, one large centered eye, purple ponytail, white tank top black pants boots, wrist communicator, confident heroic martial arts pose over a small curved spaceship trail, violet teal and ivory. Faithful recognizable Futurama character designs, crisp professional cartoon ink contours, sophisticated cel shading and subtle vintage screenprint texture, striking readable silhouette on both dark and light garments. Centered complete isolated design with generous transparent margins, no clipped features. Actual transparent alpha background. No rectangle backdrop, no shirt, no photograph, no lettering, no logos, no watermark. One coherent design only, high resolution."
+    },
+    {
+      "id": "futurama-zoidberg",
+      "name": "Zoidberg · Disco Galáctico",
+      "src": "/assets/designs/futurama-zoidberg.png",
+      "prompt": "Use case: stylized-concept. Asset: standalone premium t-shirt print illustration, NOT a garment mockup. Subject: Doctor Zoidberg from Futurama, red lobster alien doctor with face tentacles and two claws, white lab coat, disco dancing on a small sparkling disco planet, coral red mint and ivory, funny charismatic pose. Faithful recognizable Futurama character designs, crisp professional cartoon ink contours, sophisticated cel shading and subtle vintage screenprint texture, striking readable silhouette on both dark and light garments. Centered complete isolated design with generous transparent margins, no clipped features. Actual transparent alpha background. No rectangle backdrop, no shirt, no photograph, no lettering, no logos, no watermark. One coherent design only, high resolution."
+    },
+    {
+      "id": "futurama-nibbler",
+      "name": "Nibbler · Hambre Infinita",
+      "src": "/assets/designs/futurama-nibbler.png",
+      "prompt": "Use case: stylized-concept. Asset: standalone premium t-shirt print illustration, NOT a garment mockup. Subject: Nibbler from Futurama, tiny black three-eyed alien with third eye on stalk, white muzzle, red cape, adorable sitting pose devouring a huge cosmic donut, orbital crumbs and stars, black cream gold and red. Faithful recognizable Futurama character designs, crisp professional cartoon ink contours, sophisticated cel shading and subtle vintage screenprint texture, striking readable silhouette on both dark and light garments. Centered complete isolated design with generous transparent margins, no clipped features. Actual transparent alpha background. No rectangle backdrop, no shirt, no photograph, no lettering, no logos, no watermark. One coherent design only, high resolution."
+    },
+    {
+      "id": "futurama-profesor",
+      "name": "Profesor · Laboratorio 3000",
+      "src": "/assets/designs/futurama-profesor.png",
+      "prompt": "Use case: stylized-concept. Asset: standalone premium t-shirt print illustration, NOT a garment mockup. Subject: Professor Hubert Farnsworth from Futurama, bald elderly scientist thick round glasses green slippers white lab coat, gleefully holding a glowing bizarre ray gun, coils and green atomic orbit motifs, mint lime and warm ivory. Faithful recognizable Futurama character designs, crisp professional cartoon ink contours, sophisticated cel shading and subtle vintage screenprint texture, striking readable silhouette on both dark and light garments. Centered complete isolated design with generous transparent margins, no clipped features. Actual transparent alpha background. No rectangle backdrop, no shirt, no photograph, no lettering, no logos, no watermark. One coherent design only, high resolution."
+    },
+    {
+      "id": "futurama-planet-express",
+      "name": "Planet Express · Ruta 3000",
+      "src": "/assets/designs/futurama-planet-express.png",
+      "prompt": "Use case: stylized-concept. Asset: standalone premium t-shirt print illustration, NOT a garment mockup. Subject: Futurama Planet Express iconic mint green delivery spaceship with red fins and engine, sweeping through a circular retro cosmic orbit with Saturn and stars, strong retrofuturist patch composition, mint orange navy ivory, spaceship alone. Faithful recognizable Futurama character designs, crisp professional cartoon ink contours, sophisticated cel shading and subtle vintage screenprint texture, striking readable silhouette on both dark and light garments. Centered complete isolated design with generous transparent margins, no clipped features. Actual transparent alpha background. No rectangle backdrop, no shirt, no photograph, no lettering, no logos, no watermark. One coherent design only, high resolution."
+    },
+    {
+      "id": "futurama-hypnotoad",
+      "name": "Hypnotoad · Frecuencia Hipnótica",
+      "src": "/assets/designs/futurama-hypnotoad.png",
+      "prompt": "Use case: stylized-concept. Asset: standalone premium t-shirt print illustration, NOT a garment mockup. Subject: Hypnotoad from Futurama, squat large green toad with enormous hypnotic red-orange concentric eyes, symmetrical seated pose, concentric psychedelic rings radiating around silhouette, lime orange violet cream, mesmerizing retro cartoon. Faithful recognizable Futurama character designs, crisp professional cartoon ink contours, sophisticated cel shading and subtle vintage screenprint texture, striking readable silhouette on both dark and light garments. Centered complete isolated design with generous transparent margins, no clipped features. Actual transparent alpha background. No rectangle backdrop, no shirt, no photograph, no lettering, no logos, no watermark. One coherent design only, high resolution."
+    },
+    {
+      "id": "futurama-bender-fry",
+      "name": "Fry & Bender · Turno Espacial",
+      "src": "/assets/designs/futurama-bender-fry.png",
+      "prompt": "Use case: stylized-concept. Asset: standalone premium t-shirt print illustration, NOT a garment mockup. Subject: Futurama Fry and Bender back to back, Fry orange hair red jacket looking excited and Bender gray robot smug expression giving thumbs up, small stars and New New York futuristic skyline fragments around feet, orange cyan cream duo streetwear emblem. Faithful recognizable Futurama character designs, crisp professional cartoon ink contours, sophisticated cel shading and subtle vintage screenprint texture, striking readable silhouette on both dark and light garments. Centered complete isolated design with generous transparent margins, no clipped features. Actual transparent alpha background. No rectangle backdrop, no shirt, no photograph, no lettering, no logos, no watermark. One coherent design only, high resolution."
+    },
+    {
+      "id": "futurama-calculon",
+      "name": "Calculon · Drama Cósmico",
+      "src": "/assets/designs/futurama-calculon.png",
+      "prompt": "Use case: stylized-concept. Standalone t-shirt print illustration of Calculon from Futurama, gold-brown theatrical robot actor with broad squared shoulders, expressive rectangular robot face and antenna, dramatic stage bow holding a single red rose, small golden spotlight rays and theater stars, warm gold burgundy ivory palette. Recognizable Futurama cartoon robot, crisp ink lines, subtle vintage screenprint texture, centered complete silhouette, transparent background, no clothing mockup, no text, no watermark."
+    }
+  ]
+}
